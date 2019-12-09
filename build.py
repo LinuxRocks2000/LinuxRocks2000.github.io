@@ -10,7 +10,7 @@ for x in pages:
     </head>
     <body>
         <div id="main-content">
-            """+file.read+"""
+            """+file.read()+"""
         </div>
     </body>
 </html>
