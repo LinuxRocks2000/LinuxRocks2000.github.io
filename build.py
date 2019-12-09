@@ -1,5 +1,23 @@
 import os
 print("No errors. Begin python build.")
 pages=os.listdir(path="pages/")
-print(pages)
+for x in pages:
+    file=open("pages/"+x,"r")
+    new="""
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <div id="main-content">
+            """+file.read+"""
+        </div>
+    </body>
+</html>
+"""
+    newfile=open(x+".html","w+")
+    newfile.write(new)
+    file.close()
+    newfile.close()
+    
 print("Build completed successfully.")
