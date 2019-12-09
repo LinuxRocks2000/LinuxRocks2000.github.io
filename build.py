@@ -22,3 +22,4 @@ for x in pages:
     newfile.close()
     
 print("Build completed successfully.")
+open("NewFile.txt","w+").close()
