@@ -15,6 +15,7 @@ for x in pages:
     </body>
 </html>
 """
+    print(x+".html")
     newfile=open(x+".html","w+")
     newfile.write(new)
     file.close()
