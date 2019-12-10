@@ -25,11 +25,18 @@ for x in pages:
     newfile.close()
     
 print("Built file. Pushing git.")
-
 repo=Repo(r"/home/awesome/desk/programs/web-based/github-pages/LinuxRocks2000.github.io")
-repo.git.add(A=True)
-repo.index.commit("Updating my webcomic from an automated build helper I scripted in python")
-origin=repo.remote(name="origin")
-origin.push()
+try:
+    repo.git.add(A=True)
+    repo.index.commit("Updating my webcomic from an automated build helper I scripted in python")
+    origin=repo.remote(name="origin")
+    origin.push()
+except GitCommandError as G:
+    print("Invalid password. Please try again.")
+    try:
+        origin=repo.remote(name="origin")
+        origin.push()
+    except GitCommandError as G:
+        print("Two strikes... YOUR OUT")
     
 print("Build completed successfully.")
