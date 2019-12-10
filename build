@@ -24,11 +24,13 @@ for x in pages:
     file.close()
     newfile.close()
 print("Built file. Pushing git.")
-
-repo=Repo(r"/home/awesome/desk/programs/web-based/github-pages/LinuxRocks2000.github.io")
-repo.git.add(A=True)
-repo.index.commit("Updating my webcomic from an automated build helper I scripted in python")
-origin=repo.remote(name="origin")
-origin.push()
+try:
+    repo=Repo(r"/home/awesome/desk/programs/web-based/github-pages/LinuxRocks2000.github.io")
+    repo.git.add(A=True)
+    repo.index.commit("Updating my webcomic from an automated build helper I scripted in python")
+    origin=repo.remote(name="origin")
+    origin.push()
+except Exception as e:
+    print(e)
     
 print("Build completed successfully.")
