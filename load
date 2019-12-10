@@ -1,30 +1,7 @@
 #!/usr/bin/env python3
 
-import os
 import git
-print("No errors. Begin python build.")
-pages=os.listdir(path="pages/")
-for x in pages:
-    file=open("pages/"+x,"r")
-    new="""
-<!DOCTYPE html>
-<html>
-    <head>
-    </head>
-    <body>
-        <div id="main-content">
-            """+file.read()+"""
-        </div>
-    </body>
-</html>
-"""
-    print(x+".html")
-    newfile=open(x+".html","w+")
-    newfile.write(new)
-    file.close()
-    newfile.close()
-    
-print("Built file. Pushing git.")
+print("Pushing git")
 repo=git.Repo(r"/home/awesome/desk/programs/web-based/github-pages/LinuxRocks2000.github.io")
 try:
     repo.git.add(A=True)
