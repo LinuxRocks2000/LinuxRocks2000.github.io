@@ -38,5 +38,3 @@ except git.GitCommandError as G:
         origin.push()
     except git.GitCommandError as G:
         print("Two strikes... YOUR OUT")
-    
-print("Build completed successfully.")
