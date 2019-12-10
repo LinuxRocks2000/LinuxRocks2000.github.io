@@ -1,4 +1,5 @@
 import os
+from git import Repo
 print("No errors. Begin python build.")
 pages=os.listdir(path="pages/")
 for x in pages:
@@ -20,6 +21,12 @@ for x in pages:
     newfile.write(new)
     file.close()
     newfile.close()
+print("Built file. Pushing git.")
+
+repo=Repo(r"/home/awesome/desk/programs/web-based/github-pages/LinuxRocks2000.github.io")
+repo.git.add(update=True)
+repo.index.commit("Updating my webcomic from an automated build helper I scripted in python")
+origin=repo.remote(name="origin")
+origin.push()
     
 print("Build completed successfully.")
-open("NewFile.txt","w+").close()

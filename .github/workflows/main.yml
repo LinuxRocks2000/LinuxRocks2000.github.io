@@ -11,4 +11,4 @@ jobs:
     - uses: actions/checkout@v1
     - name: Build my website using a python script
       run: |
-        python3 build.py
+        echo Nothing to do. Close!
