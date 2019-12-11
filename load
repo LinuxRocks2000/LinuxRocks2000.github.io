@@ -10,10 +10,10 @@ for x in data["comics"]:
 <!DOCTYPE html>
 <html>
     <head>
-      <link rel="stylesheet" href="main.css">
+      <link rel="stylesheet" href="https://linuxrocks2000.github.io/main.css">
     </head>
     <body>
-      <script src="header.js"></script>
+      <script src="https://linuxrocks2000.github.io/header.js"></script>
       <style type="text/css">
         #image {
           pointer-events:none;
