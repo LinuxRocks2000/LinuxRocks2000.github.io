@@ -74,6 +74,7 @@ for x in data["comics"]:
         const Comment=Parse.Object.extend("Comment");
       </script>
       <div id="floating_wrapper">
+        <div id="comic_wrapper-outer">
       <div class="comic_wrapper">
         <h1 id="title"></h1>
         <p id="date" class="date"></p>
@@ -81,6 +82,7 @@ for x in data["comics"]:
           <object width="100%" type="image/svg+xml" data="https://linuxrocks2000.github.io/webcomic/"""+x[1]+"""\"></object>
         </a>
         <h3 id="belowtext"></h3>
+      </div>
       </div>
         <div id="navbuttons_wrapper">
         <a id="fastbackward" href="https://linuxrocks2000.github.io/comic/"""+data["comics"][0][0].replace(" ","-").lower()+"""\" class="navbuttons">|&lt;</a>
