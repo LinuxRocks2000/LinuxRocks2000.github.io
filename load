@@ -22,6 +22,7 @@ for x in data["comics"]:
         }
         #ilink {
           display:block;
+          background-color:white;
         }
         #floating_wrapper{
           min-width:100%;
