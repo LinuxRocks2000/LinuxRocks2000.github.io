@@ -91,24 +91,6 @@
       </div>
       <!--H your Taml-->
       <script type="text/javascript">
-        var chash;
-        var cnum;
-        function setCookie(cname, cvalue, exdays) {
-          var d = new Date();
-          d.setTime(d.getTime() + (exdays*24*60*60*1000));
-          var expires = "expires="+ d.toUTCString();
-          document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-        }
-          function readcookie(cookie){
-              var retval={};
-              cookie=decodeURIComponent(cookie);
-              dlist=(document.cookie) ? cookie.split("; ") : [];
-              for (var i=0; i<dlist.length; i++){
-                  var indx=dlist[i].indexOf("=");
-                  retval[dlist[i].substring(0,indx)]=dlist[i].substring(indx+1);
-              }
-              return retval;
-          }
         function loadcomments(){
           document.getElementById("username").value=document.cookie;
           document.getElementById("body").value="";
@@ -138,45 +120,9 @@
         function reset(by){
           document.getElementById("comments-wrapper").innerHTML="";
           scroll(0,0)
-          if (by){
-            location.hash=document.getElementById(by).getAttribute("data-hash");
-          }
-          chash=location.hash || "#"+comics.length;
-          cnum=parseInt(chash.substring(1));
-          console.log(by);
-          console.log(chash);
-          console.log(cnum);
-          document.getElementById("image").data='webcomic/'+(comics[cnum-1][1]);
-          document.getElementById("title").innerHTML=comics[cnum-1][0];
-          document.getElementById("date").innerHTML=comics[cnum-1][2];
-          document.getElementById("belowtext").innerHTML=comics[cnum-1][3];
-          document.getElementById('ilink').href="webcomic/"+comics[cnum-1][1];
-          if (cnum>1){
-            document.getElementById("last").style.display="inline";
-            document.getElementById("fastbackward").style.display="inline";
-            document.getElementById("last").setAttribute("data-hash","#"+(cnum-1));
-          }
-          else{
-            document.getElementById("last").style.display="none";
-            document.getElementById("fastbackward").style.display="none";
-          }
-          if (cnum<comics.length){
-            document.getElementById("next").style.display="inline";
-            document.getElementById("fastforward").style.display="inline";
-            document.getElementById("next").setAttribute("data-hash","#"+(cnum+1));
-            document.getElementById("fastforward").setAttribute("data-hash","#"+comics.length);
-          }
-          else {
-            document.getElementById("next").style.display="none";
-            document.getElementById("fastforward").style.display="none";
-          }
           loadcomments();
         }
-        if (location.hash==""){
-          location.hash="#"+comics.length;
-        }
         reset();
-        // Created element. Now finish building To-Do list.
       </script>
     </body>
 </html>
