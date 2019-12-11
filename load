@@ -135,7 +135,7 @@ for x in data["comics"]:
     </body>
 </html>
 """
-    newfile=open("comic/"+(x[0].replace(" ","-")).lower(),"w+")
+    newfile=open("comic/"+(x[0].replace(" ","-")).lower()+".html","w+")
     newfile.write(newdata)
 
 ## Push git
