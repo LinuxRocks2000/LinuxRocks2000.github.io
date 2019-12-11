@@ -73,7 +73,7 @@ for x in data["comics"]:
         <h1 id="title"></h1>
         <p id="date" class="date"></p>
         <a target="_blank" id="ilink">
-          <object type="image/svg+xml" id="image"></object>
+          <object type="image/svg+xml" src=\""""+x[1]+"""\"></object>
         </a>
         <h3 id="belowtext"></h3>
       </div>
