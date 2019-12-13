@@ -1,0 +1,10 @@
+
+<!DOCTYPE html>
+<html>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $.ajax({url:"comiclist.js", success:function(result){
+            var json=JSON.parse(result);
+            window.location.replace(json["comics"].slice(-1)[0]);
+        }});
+</html>
