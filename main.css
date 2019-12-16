@@ -5,3 +5,9 @@ body {
   display:block;
   width:40px;
 }
+#comic-link {
+    display:block;
+    font-size:20px;
+    text-align:center;
+    font-family:sans-serif;
+}

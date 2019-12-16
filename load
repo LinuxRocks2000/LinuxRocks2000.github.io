@@ -11,7 +11,7 @@ data=json.load(file)
 cmlist=""""""
 for x in data["comics"]:
     cmlist+="""
-<a href="comic/"""+x[1]+"""">
+<a class="comic-link" href="comic/"""+x[1]+"""">
     """+x[0]+"""
 </a>
     """
@@ -25,9 +25,7 @@ index="""
     <body>
       <script src="header.js"></script>
       <div id="comiclist">
-        <div id="comic-ref">
           """+cmlist+"""
-        </div>
       </div>
     </body>
 </html>
