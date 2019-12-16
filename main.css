@@ -5,7 +5,7 @@ body {
   display:block;
   width:40px;
 }
-#comic-link {
+.comic-link {
     display:block;
     font-size:20px;
     text-align:center;
