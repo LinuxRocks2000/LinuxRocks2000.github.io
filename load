@@ -11,9 +11,9 @@ data=json.load(file)
 cmlist=""""""
 for x in data["comics"]:
     cmlist+="""
-<div id="comic-ref">
+<a href="comic/"""+x[1]+"""">
     """+x[0]+"""
-</div>
+</a>
     """
 index="""
 <!DOCTYPE html>
@@ -36,20 +36,3 @@ c=open("index.html","w+")
 c.write(index)
 c.close
 file.close()
-
-## Push git
-import git
-print("Pushing git")
-repo=git.Repo(r"/home/awesome/desk/programs/web-based/github-pages/LinuxRocks2000.github.io")
-try:
-    repo.git.add(A=True)
-    repo.index.commit("Updating my webcomic from an automated build helper I scripted in python")
-    origin=repo.remote(name="origin")
-    origin.push()
-except git.GitCommandError as G:
-    print("Invalid password. Please try again.")
-    try:
-        origin=repo.remote(name="origin")
-        origin.push()
-    except git.GitCommandError as G:
-        print("Two strikes... YOUR OUT")
