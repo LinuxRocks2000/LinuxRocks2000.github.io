@@ -8,7 +8,7 @@
         <body>
             <script src="header.js"></script>
             <div id="comic-arena">
-                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/comic/"dawn_of_a_new_era.svg"'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/"dawn_of_a_new_era.svg"'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
             </div>
         </body>
     </html>
