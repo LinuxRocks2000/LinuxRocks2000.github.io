@@ -25,7 +25,7 @@ class designsHtml:
         <body>
             <script src="header.js"></script>
             <div id="comic-arena">
-                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/comic/{}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/comic/"{}"'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
             </div>
         </body>
     </html>
@@ -55,6 +55,6 @@ file.close()
 
 print("Build the actual comic files in the comic directory.")
 for x in data["comics"]:
-    comic=open(x[0].replace(" ","-").lower(),"w+")
+    comic=open('"'+x[0].replace(" ","-").lower()+'.html"',"w+")
     comic.write(designsHtml.comic.format(x[1]))
     comic.close()

@@ -1,0 +1,15 @@
+
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="main.css">
+            <title>LinuxRocks2000 - A webcomic</title>
+        </head>
+        <body>
+            <script src="header.js"></script>
+            <div id="comic-arena">
+                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/comic/"metropost_2.svg"'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+            </div>
+        </body>
+    </html>
+    
