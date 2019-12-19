@@ -1,36 +1,60 @@
 #!/usr/bin/env python3
-
+class designsHtml:
+    index="""
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="main.css">
+            <title>LinuxRocks2000 - A webcomic</title>
+        </head>
+        <body>
+            <script src="header.js"></script>
+                <div id="comiclist">
+                    {}
+                </div>
+            </body>
+    </html>
+    """
+    comic="""
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="main.css">
+            <title>LinuxRocks2000 - A webcomic</title>
+        </head>
+        <body>
+            <script src="header.js"></script>
+            <div id="comic-arena">
+                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/comic/{}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+            </div>
+        </body>
+    </html>
+    """
 ## Build the comic files
 print("Building comic.")
 import os, json
 directory=os.listdir("webcomic")
 file=open("config.js","r")
 data=json.load(file)
-
+print("Loaded JSON configuration file.")
 ## Load a bunch of data to index.html
+print("Build comic links on the index.html website.")
 cmlist=""""""
 for x in data["comics"]:
     cmlist+="""
-<a class="comic-link" href="comic/"""+x[1]+"""">
+<a class="comic-link" href='comic/\""""+x[0].replace(" ","-").lower()+""""'>
     """+x[0]+"""
 </a>
     """
-index="""
-<!DOCTYPE html>
-<html>
-    <head>
-      <link rel="stylesheet" href="main.css">
-      <title>LinuxRocks2000 - A webcomic</title>
-    </head>
-    <body>
-      <script src="header.js"></script>
-      <div id="comiclist">
-          """+cmlist+"""
-      </div>
-    </body>
-</html>
-"""
 c=open("index.html","w+")
-c.write(index)
+c.write(designsHtml.index.format(cmlist))
 c.close
 file.close()
+
+
+
+print("Build the actual comic files in the comic directory.")
+for x in data["comics"]:
+    comic=open(x[0].replace(" ","-").lower(),"w+")
+    comic.write(designsHtml.comic.format(x[1]))
+    comic.close()
