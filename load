@@ -33,7 +33,7 @@ class designsHtml:
         <body>
             <script src="header.js"></script>
             <div id="comic-arena">
-                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/{}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                <object type="image/svg+xml" data='https://linuxrocks2000.github.io/webcomic/{}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
             </div>
         </body>
     </html>
