@@ -42,7 +42,7 @@ print("Build comic links on the index.html website.")
 cmlist=""""""
 for x in data["comics"]:
     cmlist+="""
-<a class="comic-link" href='\""""+x[0].replace(" ","-").lower()+""""'>
+<a class="comic-link" href='\'\""""+x[0].replace(" ","-").lower()+""""\''>
     """+x[0]+"""
 </a>
     """
