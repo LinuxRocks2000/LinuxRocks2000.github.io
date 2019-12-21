@@ -37,11 +37,26 @@ class designsHtml:
                     <p id="comic-name">{}</p>
                     <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/{}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
                     <div id="navbuttons">
-                        <a class="navbutton" href="{}">&lt;</a>
-                        <a class="navbutton" href="{}">&gt;</a>
+                        <div id="backrow">
+                            <a class="navbutton" href="{}">&lt;</a>
+                        </div>
+                        <div id="frontrow">
+                            <a class="navbutton" href="{}">&gt;</a>
+                        </div>
                     </div>
                 </div>
             </div>
+            <script type="text/javascript">
+                var cap="{}";
+                if (cap=="top"){{
+                    var backrow=document.getElementById("frontrow");
+                    backrow.parentNode.removeChild(backrow);
+                }}
+                if (cap=="bottom"){{
+                    var backrow=document.getElementById("backrow");
+                    backrow.parentNode.removeChild(backrow);
+                }}
+            </script>
         </body>
     </html>
     """
@@ -70,10 +85,19 @@ file.close()
 
 print("Build the actual comic files in the comic directory.")
 for x in data["comics"]:
+    cap="none"
     comic=open(formatname(x[0])+'.html',"w+")
 
     base=data["comics"]
-    bbref=formatname(base[base.index(x)-1][0])
-    
-    comic.write(designsHtml.comic.format(x[0],x[1],bbref,bbref))
+    if base.index(x)!=0:
+        bbref=formatname(base[base.index(x)-1][0])
+    else:
+        cap="bottom"
+        bbref="none"
+    if base.index(x)!=len(base)-1:
+        fbref=formatname(base[base.index(x)+1][0])
+    else:
+        cap="top"
+        fbref="none"
+    comic.write(designsHtml.comic.format(x[0],x[1],bbref,fbref,cap))
     comic.close()

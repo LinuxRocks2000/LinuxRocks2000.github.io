@@ -26,3 +26,13 @@ body {
     font-size:30px;
     font-family:"Courier New";
 }
+.navbutton {
+    padding:20px;
+    background-color:gainsboro;
+    font-family:sans-serif;
+    font-size:20px;
+    margin:10px;
+}
+#navbuttons {
+    margin:20px;
+}
