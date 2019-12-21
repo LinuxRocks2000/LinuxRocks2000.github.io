@@ -11,3 +11,18 @@ body {
     text-align:center;
     font-family:sans-serif;
 }
+#comic-arena {
+    text-align:center;
+}
+#comic-shrinkwrapper {
+    text-align:center;
+    margin-top:0px;
+    background-color:white;
+    border-radius:0px;
+    display:inline-block;
+    width:80%;
+}
+#comic-name {
+    font-size:30px;
+    font-family:"Courier New";
+}
