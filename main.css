@@ -36,3 +36,9 @@ body {
 #navbuttons {
     margin:20px;
 }
+#backrow {
+    display:inline-block;
+}
+#frontrow {
+    display:inline-block;
+}
