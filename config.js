@@ -139,6 +139,7 @@
             ["Iceberg part 10","iceberg_10.svg","December 5, 2019","Eventually the advent calendar will be finished. At the time of writing, I have made 6 of the ornaments! (Lots of detail)"],
             ["Iceberg part 11","iceberg_11.svg","December 6, 2019","Sorry for the unfinished comic yesterday. I guess I got absent minded?"],
             ["Stu Brunswickson part 1","stu_brunswickson_1.svg","December 8, 2019","Ouch."],
-            ["Advent Calendar","advent_calendar.svg","December 9, 2019","The long awaited advent calendar! Until the 25th, I will probably post <i>behind</i> the calendar, so you have to go back one to see the recent comics. New ornaments pop up every day."]
+            ["Advent Calendar","advent_calendar.svg","December 9, 2019","The long awaited advent calendar! Until the 25th, I will probably post <i>behind</i> the calendar, so you have to go back one to see the recent comics. New ornaments pop up every day."],
+            ["Stu Brunswickson part 2","stu_brunswickson_2.svg","December 22, 2019","Sorry about the missed comics. My site was (and, at the moment, is) under renovation and at the time of writing I just got it working at the most basic functionality."]
         ]
 }
