@@ -72,7 +72,7 @@ print("Loaded JSON configuration file.")
 ## Load a bunch of data to index.html
 print("Build comic links on the index.html website.")
 cmlist=""""""
-for x in data["comics"]:
+for x in reversed(data["comics"]):
     cmlist+="""
 <a class="comic-link" href=\""""+x[0].replace(" ","-").lower()+"""">
     """+x[0]+"""
