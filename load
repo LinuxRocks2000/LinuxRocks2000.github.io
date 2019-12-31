@@ -16,6 +16,14 @@ class designsHtml:
             <title>LinuxRocks2000 - A webcomic</title>
         </head>
         <body>
+            <script type="text/javascript">
+                function expandLink(ev){{
+                    event.target.parentNode.children[1].style.display="block";
+                }}
+                function shrinkLink(ev){{
+                    event.target.parentNode.children[1].style.display="none";
+                }}
+            </script>
             <script src="header.js"></script>
                 <div id="comiclist">
                     {}
@@ -74,10 +82,17 @@ print("Build comic links on the index.html website.")
 cmlist=""""""
 for x in reversed(data["comics"]):
     cmlist+="""
-<a class="comic-link" href=\""""+x[0].replace(" ","-").lower()+"""">
-    """+x[0]+"""
-</a>
-    """
+<div class="link-wrapper">
+    <div class="link-wrapper-inner">
+        <a onmouseover="expandLink(this)" onmouseout="shrinkLink(this)" class="comic-link" href=\""""+x[0].replace(" ","-").lower()+"""">
+            """+x[0]+"""
+        </a>
+        <div class="expander">
+            """+x[4]+"""
+        </div>
+    </div>
+</div>
+"""
 c=open("index.html","w+")
 c.write(designsHtml.index.format(cmlist))
 c.close

@@ -50,3 +50,20 @@ body {
 .header-links:hover{
     background-color:rgb(255,0,255);
 }
+#header{
+    margin-bottom:100px !important;
+}
+.expander-inside {
+    display:inline;
+    word-wrap:normal;
+}
+.link-wrapper{
+    text-align:center;
+}
+.link-wrapper-inner{
+    display:inline-block;
+}
+.link-wrapper-inner:hover{
+    background-color:lightblue;
+    color:white;
+}
