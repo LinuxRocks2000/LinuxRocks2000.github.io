@@ -13,6 +13,9 @@
                 function shrinkLink(ev){
                     event.target.parentNode.children[1].style.display="none";
                 }
+                document.getElementsByClassName("comic-link").forEach(function(element,index){
+                    element.parentNode.children[1].style.display="none";
+                });
             </script>
             <script src="header.js"></script>
                 <div id="comiclist">
