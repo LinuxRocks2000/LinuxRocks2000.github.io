@@ -66,6 +66,7 @@ body {
 }
 .link-wrapper-inner a{
     text-decoration:none;
+    color:black;
 }
 .link-wrapper-inner:hover{
     background-color:lightblue;
