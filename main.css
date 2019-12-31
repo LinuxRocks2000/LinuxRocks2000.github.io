@@ -62,6 +62,10 @@ body {
 }
 .link-wrapper-inner{
     display:inline-block;
+    font-family:sans-serif;
+}
+.link-wrapper-inner a{
+    text-decoration:none;
 }
 .link-wrapper-inner:hover{
     background-color:lightblue;
