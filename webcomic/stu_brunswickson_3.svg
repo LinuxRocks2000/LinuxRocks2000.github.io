@@ -14,9 +14,9 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 793.74998 793.75004"
-   height="3000"
-   width="3000">
+   viewBox="0 0 1181.5338 816.05262"
+   height="3084.2932"
+   width="4465.6396">
   <sodipodi:namedview
      inkscape:snap-global="false"
      inkscape:snap-nodes="true"
@@ -29,15 +29,19 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="-650.76714"
-     inkscape:cx="2228.101"
+     inkscape:cy="1692.8009"
+     inkscape:cx="2765.1441"
      inkscape:zoom="0.14896383"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -3599,7 +3603,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,496.75005)">
+     transform="translate(0,112.12259)">
     <g
        id="g1140"
        transform="translate(85.725048,4.7625003)" />
@@ -3608,7 +3612,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background"
-     transform="translate(0,-5.0000006e-6)">
+     transform="translate(0,-384.62746)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot855"
@@ -3704,9 +3708,10 @@
          id="tspan1447">are you here?</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1090.8691 2036.6797 A 255.09547 127.54774 0 0 0 835.77344 2164.2266 A 255.09547 127.54774 0 0 0 965.4375 2275.1992 L 818.99023 2419.3223 L 1020.5391 2286.7246 A 255.09547 127.54774 0 0 0 1090.8691 2291.7734 A 255.09547 127.54774 0 0 0 1345.9648 2164.2266 A 255.09547 127.54774 0 0 0 1090.8691 2036.6797 z "
+       d="m 1090.8691,2036.6797 a 255.09547,127.54774 0 0 0 -255.09566,127.5469 255.09547,127.54774 0 0 0 129.66406,110.9726 l -146.44727,144.1231 201.54887,-132.5977 a 255.09547,127.54774 0 0 0 70.33,5.0488 255.09547,127.54774 0 0 0 255.0957,-127.5468 255.09547,127.54774 0 0 0 -255.0957,-127.5469 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1449" />
+       id="path1449"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -3735,9 +3740,10 @@
          id="tspan1462">here?</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1097.582 2449.5312 A 231.59984 191.32161 0 0 0 865.98242 2640.8516 A 231.59984 191.32161 0 0 0 1097.582 2832.1738 A 231.59984 191.32161 0 0 0 1329.1816 2640.8516 A 231.59984 191.32161 0 0 0 1292.7285 2537.8574 L 1362.7461 2473.0273 L 1260.7188 2505.2461 A 231.59984 191.32161 0 0 0 1097.582 2449.5312 z "
+       d="m 1097.582,2449.5312 a 231.59984,191.32161 0 0 0 -231.59958,191.3204 231.59984,191.32161 0 0 0 231.59958,191.3222 231.59984,191.32161 0 0 0 231.5996,-191.3222 231.59984,191.32161 0 0 0 -36.4531,-102.9942 l 70.0176,-64.8301 -102.0273,32.2188 a 231.59984,191.32161 0 0 0 -163.1368,-55.7149 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1464" />
+       id="path1464"
+       inkscape:connector-curvature="0" />
     <rect
        y="385.95038"
        x="590.81451"
@@ -3828,9 +3834,10 @@
          id="tspan1517">of big joe?</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3437.0762 1838.6445 A 396.06932 204.74768 0 0 0 3041.0059 2043.3926 A 396.06932 204.74768 0 0 0 3183.834 2200.7441 L 3061.1465 2429.3926 L 3299.7617 2235.1699 A 396.06932 204.74768 0 0 0 3437.0762 2248.1387 A 396.06932 204.74768 0 0 0 3833.1445 2043.3926 A 396.06932 204.74768 0 0 0 3437.0762 1838.6445 z "
+       d="m 3437.0762,1838.6445 a 396.06932,204.74768 0 0 0 -396.0703,204.7481 396.06932,204.74768 0 0 0 142.8281,157.3515 l -122.6875,228.6485 238.6152,-194.2227 a 396.06932,204.74768 0 0 0 137.3145,12.9688 396.06932,204.74768 0 0 0 396.0683,-204.7461 396.06932,204.74768 0 0 0 -396.0683,-204.7481 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1519" />
+       id="path1519"
+       inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect1524"
@@ -3921,9 +3928,10 @@
          id="tspan1562">boss in --</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1186.709 3436.709 A 370.25315 218.35444 0 0 0 816.45508 3655.0625 A 370.25315 218.35444 0 0 0 962.33008 3828.4121 L 825.94922 3958.8613 L 1076.3633 3863.4668 A 370.25315 218.35444 0 0 0 1186.709 3873.418 A 370.25315 218.35444 0 0 0 1556.9629 3655.0625 A 370.25315 218.35444 0 0 0 1186.709 3436.709 z "
+       d="m 1186.709,3436.709 a 370.25315,218.35444 0 0 0 -370.25392,218.3535 370.25315,218.35444 0 0 0 145.875,173.3496 l -136.38086,130.4492 250.41408,-95.3945 a 370.25315,218.35444 0 0 0 110.3457,9.9512 370.25315,218.35444 0 0 0 370.2539,-218.3555 370.25315,218.35444 0 0 0 -370.2539,-218.3535 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1564" />
+       id="path1564"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -3937,9 +3945,10 @@
          style="stroke-width:0.26458335">FIGHT!!!</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 56.962891 3645.5703 L 174.75781 3928.2773 A 199.36708 109.17723 0 0 0 47.46875 4030.0625 A 199.36708 109.17723 0 0 0 246.83594 4139.2402 A 199.36708 109.17723 0 0 0 446.20312 4030.0625 A 199.36708 109.17723 0 0 0 259.66016 3921.2383 L 56.962891 3645.5703 z "
+       d="m 56.962891,3645.5703 117.794919,282.707 A 199.36708,109.17723 0 0 0 47.46875,4030.0625 199.36708,109.17723 0 0 0 246.83594,4139.2402 199.36708,109.17723 0 0 0 446.20312,4030.0625 199.36708,109.17723 0 0 0 259.66016,3921.2383 Z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1573" />
+       id="path1573"
+       inkscape:connector-curvature="0" />
     <rect
        y="792.88043"
        x="590.81451"
@@ -4020,9 +4029,10 @@
          style="stroke-width:0.26458335">STU BRUNSWICKSON!!!!</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3155.1289 3335.6523 A 456.48666 134.26077 0 0 0 2698.6426 3469.9121 A 456.48666 134.26077 0 0 0 3143.0449 3603.9961 L 3067.8594 3939.8262 L 3258.3398 3600.5293 A 456.48666 134.26077 0 0 0 3611.6152 3469.9121 A 456.48666 134.26077 0 0 0 3155.1289 3335.6523 z "
+       d="m 3155.1289,3335.6523 a 456.48666,134.26077 0 0 0 -456.4863,134.2598 456.48666,134.26077 0 0 0 444.4023,134.084 l -75.1855,335.8301 190.4804,-339.2969 a 456.48666,134.26077 0 0 0 353.2754,-130.6172 456.48666,134.26077 0 0 0 -456.4863,-134.2598 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1620" />
+       id="path1620"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -4041,9 +4051,10 @@
          id="tspan1629">heck is that?</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:4.84737682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4061.3887 4006.8809 A 315.58913 157.83273 0 0 0 3790.4844 4084.1074 L 3732.4492 4033.8086 L 3762.6387 4114.3105 A 315.58913 157.83273 0 0 0 3745.7988 4164.7129 A 315.58913 157.83273 0 0 0 4061.3887 4322.5449 A 315.58913 157.83273 0 0 0 4376.9766 4164.7129 A 315.58913 157.83273 0 0 0 4061.3887 4006.8809 z "
+       d="m 4061.3887,4006.8809 a 315.58913,157.83273 0 0 0 -270.9043,77.2265 l -58.0352,-50.2988 30.1895,80.5019 a 315.58913,157.83273 0 0 0 -16.8399,50.4024 315.58913,157.83273 0 0 0 315.5899,157.832 315.58913,157.83273 0 0 0 315.5879,-157.832 315.58913,157.83273 0 0 0 -315.5879,-157.832 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1631" />
+       id="path1631"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -4057,15 +4068,16 @@
          style="stroke-width:0.26458335">No</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3369.9453 2456.2441 A 114.12167 90.626025 0 0 0 3255.8242 2546.8691 A 114.12167 90.626025 0 0 0 3369.9453 2637.4961 A 114.12167 90.626025 0 0 0 3484.0664 2546.8691 A 114.12167 90.626025 0 0 0 3483.1211 2536.1465 L 3544.4844 2469.6699 L 3464.5449 2496.3164 A 114.12167 90.626025 0 0 0 3369.9453 2456.2441 z "
+       d="m 3369.9453,2456.2441 a 114.12167,90.626025 0 0 0 -114.1211,90.625 114.12167,90.626025 0 0 0 114.1211,90.627 114.12167,90.626025 0 0 0 114.1211,-90.627 114.12167,90.626025 0 0 0 -0.9453,-10.7226 l 61.3633,-66.4766 -79.9395,26.6465 a 114.12167,90.626025 0 0 0 -94.5996,-40.0723 z"
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="path1637" />
+       id="path1637"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(0,-5.0000006e-6)"
+     transform="translate(0,-384.62746)"
      style="display:inline">
     <text
        xml:space="preserve"
