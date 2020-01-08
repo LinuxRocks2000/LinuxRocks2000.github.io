@@ -6,6 +6,7 @@
             <title>LinuxRocks2000 - A webcomic</title>
         </head>
         <body>
+            <script type="text/javascript" src="https://npmcdn.com/parse/dist/parse.min.js"></script>
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
@@ -33,6 +34,27 @@
                     var backrow=document.getElementById("backrow");
                     backrow.parentNode.removeChild(backrow);
                 }
+            </script>
+            <script type="text/javascript">
+                Parse.initialize("9xjMXioZPbkyAxbJWSG4VpFN2orZ1taMj0kYKVUc", "1OpAAKiJumZGibsjQ5eX8g0EkNAKr3cD35XiX3AJ");
+                Parse.serverURL = "https://parseapi.back4app.com/";
+                const Comment = Parse.Object.extend('Comment');
+                const myNewObject = new Comment();
+
+                myNewObject.set('user', 'A string');
+                myNewObject.set('body', 'A string');
+                myNewObject.set('comic', 1);
+
+                myNewObject.save().then(
+                  (result) => {
+                    if (typeof document !== 'undefined') document.write(`Comment created: ${JSON.stringify(result)}`);
+                    console.log('Comment created', result);
+                  },
+                  (error) => {
+                    if (typeof document !== 'undefined') document.write(`Error while creating Comment: ${JSON.stringify(error)}`);
+                    console.error('Error while creating Comment: ', error);
+                  }
+                );
             </script>
         </body>
     </html>
