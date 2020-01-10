@@ -10,16 +10,16 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Elephant popping part 2</p>
-                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/elephant_popping_2.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
-                    <p id="comic-bottom">This has taken place as most complicated comic, with a full walk cycle and a multi frame setup.</p>
+                    <p id="comic-name">Stu Brunswickson part 4</p>
+                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/stu_brunswickson_4.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-bottom">Bad Seymour. Go sit in a corner. Your such a cute wittle Seymour.</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="elephant-popping">&lt;</a>
+                            <a class="navbutton" href="stu-brunswickson-part-3">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="computer-case">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="stu-brunswickson-part-4">&gt;|</a>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
 
             </div>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 if (cap=="top"){
                     var backrow=document.getElementById("frontrow");
                     backrow.parentNode.removeChild(backrow);
@@ -63,7 +63,7 @@
                 function load(){
                     const Comment = Parse.Object.extend('Comment');
                     const query = new Parse.Query(Comment);
-                    query.equalTo("comic", 65);
+                    query.equalTo("comic", 142);
                     query.find().then((results) => {
                       
                     }, (error) => {
