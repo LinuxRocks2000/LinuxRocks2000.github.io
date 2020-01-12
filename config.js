@@ -143,6 +143,7 @@
         ["Stu Brunswickson part 2","stu_brunswickson_2.svg","December 22, 2019","Sorry about the missed comics. My site was (and, at the moment, is) under renovation and at the time of writing I just got it working at the most basic functionality.","Isaac finds Seymour in the ring as well"],
         ["Stu Brunswickson part 3","stu_brunswickson_3.svg","January 7, 2019","I'm sorry, you say your looking for a place called Stu Brunswickson?","Seymour confuses Isaac more"],
         ["Stu Brunswickson part 4","stu_brunswickson_4.svg","January 9, 2019","Bad Seymour. Go sit in a corner. Your such a cute wittle Seymour.","It is clarified how they got in the ring"],
-        ["World Domination part 1","world_domination_1.svg","January 10, 2019","For people with small screens, the text on his robe is 'Ponies'","Katherine tries to get Isaac out of bed"]
+        ["World Domination part 1","world_domination_1.svg","January 10, 2019","For people with small screens, the text on his robe is 'Ponies'","Katherine tries to get Isaac out of bed"],
+        ["World Domination part 2","world_domination_2.svg","January 11, 2019","And lets not even mention the pop-up ads...","Isaac learns about the Microsoft Zombies"]
     ]
 }
