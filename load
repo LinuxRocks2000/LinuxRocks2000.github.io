@@ -105,7 +105,7 @@ class designsHtml:
                     const query = new Parse.Query(Comment);
                     query.equalTo("comic", {comicnum});
                     query.find().then((results) => {{
-                        console.log(results);
+                        alert(results);
                     }}, (error) => {{
                       if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
                       console.error('Error while fetching Comment', error);
