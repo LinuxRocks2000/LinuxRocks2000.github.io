@@ -66,7 +66,9 @@
                     const query = new Parse.Query(Comment);
                     query.equalTo("comic", 128);
                     query.find().then((results) => {
-                      
+                        results.forEach(function(element,index){
+                            console.log(element);
+                        }
                     }, (error) => {
                       if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}`);
                       console.error('Error while fetching Comment', error);
