@@ -50,6 +50,7 @@ class designsHtml:
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
                     <p id="comic-name">{comicname}</p>
+                    <p id="comic-date">{comicdate}</p>
                     <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/{graphiclink}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
                     <p id="comic-bottom">{comicjoke}</p>
                     <div id="navbuttons">
@@ -160,5 +161,5 @@ for x in data["comics"]:
     else:
         cap="top"
         fbref="none"
-    comic.write(designsHtml.comic.format(comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x))))
+    comic.write(designsHtml.comic.format(comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x))))
     comic.close()
