@@ -10,17 +10,17 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Florida Trip part 13</p>
-                    <p id="comic-date">September 1, 2019</p>
-                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/florida_trip_13.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
-                    <p id="comic-bottom">Again, sorry about the recent late comics. Its been a hectic few days.</p>
+                    <p id="comic-name">World Domination part 3</p>
+                    <p id="comic-date">January 12, 2020</p>
+                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/world_domination_3.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-bottom">More obscure humor from LinuxRocks2000! (The name is actually growing on me)</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="florida-trip-part-12">&lt;</a>
+                            <a class="navbutton" href="world-domination-part-2">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="pier">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="world-domination-part-3">&gt;|</a>
                         </div>
                     </div>
@@ -30,7 +30,7 @@
 
             </div>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 if (cap=="top"){
                     var backrow=document.getElementById("frontrow");
                     backrow.parentNode.removeChild(backrow);
@@ -64,7 +64,7 @@
                 function load(){
                     const Comment = Parse.Object.extend('Comment');
                     const query = new Parse.Query(Comment);
-                    query.equalTo("comic", 51);
+                    query.equalTo("comic", 145);
                     query.find().then((results) => {
                         alert(results);
                     }, (error) => {
