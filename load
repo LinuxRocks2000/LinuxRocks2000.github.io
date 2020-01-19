@@ -79,7 +79,9 @@ class designsHtml:
                     backrow.parentNode.removeChild(backrow);
                 }}
             </script>
-            <script src="comments.js"></script>
+            <script type="text/javascript">
+            {commentsjs}
+            </script>
         </body>
     </html>
     """
@@ -129,5 +131,6 @@ for x in data["comics"]:
     else:
         cap="top"
         fbref="none"
-    comic.write(designsHtml.comic.format(comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x))))
+    p=open("comments.js","r")
+    comic.write(designsHtml.comic.format(commentsjs=p.read(),comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x))))
     comic.close()
