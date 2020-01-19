@@ -25,16 +25,16 @@ class designsHtml:
                 }}
             </script>
             <script src="header.js"></script>
-                <div id="comiclist">
-                    {}
-                </div>
+            <div id="comiclist">
+                {}
+            </div>
             <script type="text/javascript">
                 list=document.getElementsByClassName("comic-link");
                 Array.from(list).forEach(function(element,index){{
                     element.parentNode.children[1].style.display="none";
                 }});
             </script>
-            </body>
+        </body>
     </html>
     """
     comic="""
@@ -79,39 +79,7 @@ class designsHtml:
                     backrow.parentNode.removeChild(backrow);
                 }}
             </script>
-            <script type="text/javascript">
-                Parse.initialize("9xjMXioZPbkyAxbJWSG4VpFN2orZ1taMj0kYKVUc", "1OpAAKiJumZGibsjQ5eX8g0EkNAKr3cD35XiX3AJ");
-                Parse.serverURL = "https://parseapi.back4app.com/";
-                const Comment = Parse.Object.extend('Comment');
-                function post(user,body,cmnum){{
-                    var myNewObject = new Comment();
-
-                    myNewObject.set('user', 'A string');
-                    myNewObject.set('body', 'A string');
-                    myNewObject.set('comic', 1);
-
-                    myNewObject.save().then(
-                      (result) => {{
-                        load()
-                      }},
-                      (error) => {{
-                        if (typeof document !== 'undefined') document.write(`Error while creating Comment: ${{JSON.stringify(error)}}`);
-                        console.error('Error while creating Comment: ', error);
-                      }}
-                    );
-                }}
-                function load(){{
-                    const Comment = Parse.Object.extend('Comment');
-                    const query = new Parse.Query(Comment);
-                    query.equalTo("comic", {comicnum});
-                    query.find().then((results) => {{
-                        alert(results);
-                    }}, (error) => {{
-                      if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
-                      console.error('Error while fetching Comment', error);
-                    }});
-                }}
-            </script>
+            <script src="comments.js"></script>
         </body>
     </html>
     """
