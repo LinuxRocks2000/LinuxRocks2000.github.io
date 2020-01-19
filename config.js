@@ -145,6 +145,7 @@
         ["Stu Brunswickson part 4","stu_brunswickson_4.svg","January 9, 2020","Bad Seymour. Go sit in a corner. Your such a cute wittle Seymour.","It is clarified how they got in the ring"],
         ["World Domination part 1","world_domination_1.svg","January 10, 2020","For people with small screens, the text on his robe is 'Ponies'","Katherine tries to get Isaac out of bed"],
         ["World Domination part 2","world_domination_2.svg","January 11, 2020","And lets not even mention the pop-up ads...","Isaac learns about the Microsoft Zombies"],
-        ["World Domination part 3","world_domination_3.svg","January 12, 2020","More obscure humor from LinuxRocks2000! (The name is actually growing on me)","Isaac learns about the Microsoft Lackeys"]
+        ["World Domination part 3","world_domination_3.svg","January 12, 2020","More obscure humor from LinuxRocks2000! (The name is actually growing on me)","Isaac learns about the Microsoft Lackeys"],
+        ["World Domination part 4","world_domination_4.svg","January 18, 2020","Constance the loud, patronizing weirdo","Isaac meets Constance"]
     ]
 }
