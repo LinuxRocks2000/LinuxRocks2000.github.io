@@ -83,3 +83,12 @@ body {
     font-family:sans-serif;
     font-size:0.75em;
 }
+.comment{
+    min-height:100px;
+    padding:20px;
+    border:5px solid blue;
+    border-radius:10px;
+}
+.comment-arena{
+    text-align:center;
+}
