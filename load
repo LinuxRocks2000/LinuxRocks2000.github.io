@@ -67,7 +67,7 @@ class designsHtml:
                 </div>
             </div>
             <div id="comments-arena">
-
+            
             </div>
             <script type="text/javascript">
                 var cap="{cap}";

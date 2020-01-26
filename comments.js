@@ -21,8 +21,12 @@ function load(){{
     query = new Parse.Query(Comment);
     query.equalTo("comic", {comicnum});
     query.find().then((results) => {{
+        arena=document.getElementById("comments-arena
         results.forEach(function(element,index){{
-            alert(element.get("body"));
+            p=document.createElement("div");
+            arena.appendChild(p);
+            p.className="comment_box";
+            p.innerText=element.get("body");
         }});
     }}, (error) => {{
         if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
