@@ -116,6 +116,7 @@ file.close()
 
 print("Build the actual comic files in the comic directory.")
 for x in data["comics"]:
+    print("Open comic = "+x[0]+", number = "+str(data["comics"].index(x)))
     cap="none"
     comic=open(formatname(x[0])+'.html',"w+")
 
