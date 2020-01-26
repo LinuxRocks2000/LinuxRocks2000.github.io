@@ -61,7 +61,6 @@ function post(user,body,cmnum){
     );
 }
 function load(){
-    Comment = Parse.Object.extend('Comment');
     query = new Parse.Query(Comment);
     query.equalTo("comic", 135);
     query.find().then((results) => {

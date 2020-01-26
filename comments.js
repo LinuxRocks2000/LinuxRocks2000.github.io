@@ -18,7 +18,6 @@ function post(user,body,cmnum){{
     );
 }}
 function load(){{
-    Comment = Parse.Object.extend('Comment');
     query = new Parse.Query(Comment);
     query.equalTo("comic", {comicnum});
     query.find().then((results) => {{
