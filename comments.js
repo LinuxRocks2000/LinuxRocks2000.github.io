@@ -23,7 +23,7 @@ function load(){{
     query.find().then((results) => {{
         results.forEach(function(element,index){{
             alert(element.body);
-        }}
+        }});
     }}, (error) => {{
         if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
     }});
