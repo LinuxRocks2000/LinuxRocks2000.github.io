@@ -22,7 +22,7 @@ function load(){{
     query.equalTo("comic", {comicnum});
     query.find().then((results) => {{
         results.forEach(function(element,index){{
-            alert(elementget("body"));
+            alert(element.get("body"));
         }});
     }}, (error) => {{
         if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
