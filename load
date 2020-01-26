@@ -7,6 +7,7 @@ def dc(char,name):
     return output
 def formatname(name):
     return dc("'.()?!@#$%^&*",name).replace(" ","-").lower()
+commantDat=open("comments.js")
 class designsHtml:
     index="""
     <!DOCTYPE html>
@@ -80,7 +81,7 @@ class designsHtml:
                 }}
             </script>
             <script type="text/javascript">
-            {commentsjs}
+            """+commantDat.read()+"""
             </script>
         </body>
     </html>
@@ -113,8 +114,6 @@ c.write(designsHtml.index.format(cmlist))
 c.close
 file.close()
 
-
-
 print("Build the actual comic files in the comic directory.")
 for x in data["comics"]:
     cap="none"
@@ -131,6 +130,6 @@ for x in data["comics"]:
     else:
         cap="top"
         fbref="none"
-    p=open("comments.js","r")
-    comic.write(designsHtml.comic.format(commentsjs=p.read(),comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x))))
+    comic.write(designsHtml.comic.format(comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x))))
     comic.close()
+commantDat.close()
