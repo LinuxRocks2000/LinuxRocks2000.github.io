@@ -21,7 +21,7 @@ function load(){{
     query = new Parse.Query(Comment);
     query.equalTo("comic", {comicnum});
     query.find().then((results) => {{
-        arena=document.getElementById("comments-arena
+        arena=document.getElementById("comments-arena");
         results.forEach(function(element,index){{
             p=document.createElement("div");
             arena.appendChild(p);
