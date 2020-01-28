@@ -28,6 +28,7 @@ function load(){{
             arena.appendChild(p);
             p.className="comment_box";
             p.appendChild(pp);
+            alert("Attempting to append child...");
             pp.className="comment_user_text";
             pp.innerText=element.get("user");
             p.innerText=element.get("body");
