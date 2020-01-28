@@ -64,7 +64,7 @@ function post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 105);
+    query.equalTo("comic", 102);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.forEach(function(element,index){
