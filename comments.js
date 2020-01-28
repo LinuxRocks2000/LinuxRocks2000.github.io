@@ -25,14 +25,14 @@ function load(){{
         results.forEach(function(element,index){{
             p=document.createElement("div");
             pp=document.createElement("p");
+            ppp=document.createElement("p");
             arena.appendChild(p);
+            ppp.innerText=element.get("body");
             p.className="comment_box";
-            p.appendChild(pp);
-            alert("Attempting to append child...");
             pp.className="comment_user_text";
             pp.innerText=element.get("user");
-            alert(element.get("user"));
-            p.innerText=element.get("body");
+            p.appendChild(pp);
+            p.appendChild(ppp);
         }});
     }}, (error) => {{
         if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
