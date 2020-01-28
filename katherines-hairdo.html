@@ -24,10 +24,12 @@
                             <a class="navbutton" href="katherines-hairdo">&gt;|</a>
                         </div>
                     </div>
+                    <h1 id="comments-text">Comments</h1>
+                    <div id="comments-arena">
+                    
+                    </div>
                 </div>
-            </div>
-            <div id="comments-arena">
-            
+                <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
             <script type="text/javascript">
                 var cap="top";
@@ -70,6 +72,9 @@ function load(){
             arena.appendChild(p);
             p.className="comment_box";
             p.innerText=element.get("body");
+            pp=document.createElement("p");
+            p.appendChild(pp);
+            pp.innerText=element.get("user");
         });
     }, (error) => {
         if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}`);

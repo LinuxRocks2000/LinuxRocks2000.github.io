@@ -27,6 +27,9 @@ function load(){{
             arena.appendChild(p);
             p.className="comment_box";
             p.innerText=element.get("body");
+            pp=document.createElement("p");
+            p.appendChild(pp);
+            pp.innerText=element.get("user");
         }});
     }}, (error) => {{
         if (typeof document !== 'undefined') document.write(`Error while fetching Comment data. Please reload this page or submit a bug report to my email address (plupy44@gmail.com)}}`);
