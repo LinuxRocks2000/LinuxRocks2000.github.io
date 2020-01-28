@@ -24,11 +24,11 @@ function load(){{
         arena=document.getElementById("comments-arena");
         results.forEach(function(element,index){{
             p=document.createElement("div");
+            pp=document.createElement("p");
             arena.appendChild(p);
             p.className="comment_box";
-            pp=document.createElement("p");
-            pp.className="comment_user_text";
             p.appendChild(pp);
+            pp.className="comment_user_text";
             pp.innerText=element.get("user");
             p.innerText=element.get("body");
         }});
