@@ -31,6 +31,7 @@ function load(){{
             alert("Attempting to append child...");
             pp.className="comment_user_text";
             pp.innerText=element.get("user");
+            alert(element.get("user"));
             p.innerText=element.get("body");
         }});
     }}, (error) => {{
