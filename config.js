@@ -148,6 +148,7 @@
         ["World Domination part 3","world_domination_3.svg","January 12, 2020","More obscure humor from LinuxRocks2000! (The name is actually growing on me)","Isaac learns about the Microsoft Lackeys"],
         ["World Domination part 4","world_domination_4.svg","January 18, 2020","Constance the loud, patronizing weirdo","Isaac meets Constance"],
         ["World Domination part 5","world_domination_5.svg","January 22, 2020","Is upshutted a word? I think it would apply here...","Isaac presses Katherine for information and gets upshutted by Constance"],
-        ["Katherines Hairdo","katherines_hairdo.svg","January 25, 2020","As described in the comic, I remade Katherines hair to work better with certain browsers. (Chrome never had a problem... Hmm...)","Katherines hair is redesigned to work better on some browsers."]
+        ["Katherines Hairdo","katherines_hairdo.svg","January 25, 2020","As described in the comic, I remade Katherines hair to work better with certain browsers. (Chrome never had a problem... Hmm...)","Katherines hair is redesigned to work better on some browsers."],
+        ["World Domination part 6","world_domination_6.svg","January 30, 2020","The LinuxRocks2000 EAEAEAE scream! Been a while since we saw that!","Isaac gets upshutted more"]
     ]
 }

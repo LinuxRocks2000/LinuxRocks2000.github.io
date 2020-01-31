@@ -20,8 +20,8 @@
                             <a class="navbutton" href="world-domination-part-5">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="none">&gt;</a>
-                            <a class="navbutton" href="katherines-hairdo">&gt;|</a>
+                            <a class="navbutton" href="world-domination-part-6">&gt;</a>
+                            <a class="navbutton" href="world-domination-part-6">&gt;|</a>
                         </div>
                     </div>
                     <h1 id="comments-text">Comments</h1>
@@ -32,7 +32,7 @@
                 <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
             <script type="text/javascript">
-                var cap="top";
+                var cap="none";
                 if (cap=="top"){
                     var backrow=document.getElementById("frontrow");
                     backrow.parentNode.removeChild(backrow);
@@ -64,7 +64,7 @@ function post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 146);
+    query.equalTo("comic", 149);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.forEach(function(element,index){
