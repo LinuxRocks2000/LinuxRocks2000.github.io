@@ -99,5 +99,6 @@ body {
 #comments-arena{
     text-align:center;
     column-count:1;
+    display:inline-block;
 }
 /*Dummy commit. Ilfghit*/
