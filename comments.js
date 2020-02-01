@@ -23,10 +23,12 @@ function load(){{
     query.find().then((results) => {{
         arena=document.getElementById("comments-arena");
         results.forEach(function(element,index){{
-            p=document.createElement("li");
+            p4=document.createElement("li");
+            p=document.createElement("div");
+            p4.appendChild(p);
             pp=document.createElement("p");
             ppp=document.createElement("p");
-            arena.appendChild(p);
+            arena.appendChild(p4);
             ppp.innerText=element.get("body");
             p.className="comment_box";
             pp.className="comment_user_text";
