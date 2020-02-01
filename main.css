@@ -95,10 +95,15 @@ body {
     margin-left:50px;
     margin-right:50px;
     word-break:break-all;
+    
 }
 #comments-arena{
     text-align:center;
     column-count:1;
-    display:inline-block;
+    display:inline-flex;
+    flex-direction:column;
+}
+.comment-listitem{
+    flex:1;
 }
 /*Dummy commit. Ilfghit*/
