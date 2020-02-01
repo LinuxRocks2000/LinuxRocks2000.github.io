@@ -23,7 +23,7 @@ function load(){{
     query.find().then((results) => {{
         arena=document.getElementById("comments-arena");
         results.forEach(function(element,index){{
-            p=document.createElement("div");
+            p=document.createElement("li");
             pp=document.createElement("p");
             ppp=document.createElement("p");
             arena.appendChild(p);

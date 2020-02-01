@@ -65,9 +65,9 @@ class designsHtml:
                         </div>
                     </div>
                     <h1 id="comments-text">Comments</h1>
-                    <div id="comments-arena">
+                    <ul id="comments-arena">
                     
-                    </div>
+                    </ul>
                 </div>
                 <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
