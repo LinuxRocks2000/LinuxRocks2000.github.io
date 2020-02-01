@@ -98,4 +98,5 @@ body {
 }
 #comments-arena{
     text-align:center;
+    column-count:1;
 }
