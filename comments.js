@@ -8,9 +8,9 @@ function post(){{
 }}
 function _post(user,body,cmnum){{
     var myNewObject = new Comment();
-    myNewObject.set('user', 'A string');
-    myNewObject.set('body', 'A string');
-    myNewObject.set('comic', 1);
+    myNewObject.set('user', user);
+    myNewObject.set('body', body);
+    myNewObject.set('comic', cmnum);
 
     myNewObject.save().then(
         (result) => {{
