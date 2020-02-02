@@ -55,7 +55,12 @@
             Parse.initialize("9xjMXioZPbkyAxbJWSG4VpFN2orZ1taMj0kYKVUc", "1OpAAKiJumZGibsjQ5eX8g0EkNAKr3cD35XiX3AJ");
 Parse.serverURL = "https://parseapi.back4app.com/";
 const Comment = Parse.Object.extend('Comment');
-function post(user,body,cmnum){
+var usernamefield=document.getElementById("username");
+var bodyfield=document.getElementById("body");
+function post(){
+    _post(usernamefield.value,bodyfield.value,84);
+}
+function _post(user,body,cmnum){
     var myNewObject = new Comment();
     myNewObject.set('user', 'A string');
     myNewObject.set('body', 'A string');
