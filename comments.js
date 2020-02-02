@@ -34,6 +34,7 @@ function load(){{
             p.className="comment_box";
             pp.className="comment_user_text";
             pp.innerText=element.get("user");
+            pp.className="username_p";
             p.appendChild(pp);
             p.appendChild(ppp);
         }});

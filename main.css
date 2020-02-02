@@ -108,3 +108,6 @@ body {
 .comment-listitem{
     flex:1;
 }
+.username_p{
+    border_bottom:2px solid black;
+}
