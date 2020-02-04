@@ -151,6 +151,7 @@
         ["Katherines Hairdo","katherines_hairdo.svg","January 25, 2020","As described in the comic, I remade Katherines hair to work better with certain browsers. (Chrome never had a problem... Hmm...)","Katherines hair is redesigned to work better on some browsers."],
         ["World Domination part 6","world_domination_6.svg","January 30, 2020","The LinuxRocks2000 EAEAEAE scream! Been a while since we saw that!","Isaac gets upshutted more"],
         ["World Domination part 7","world_domination_7.svg","February 1, 2020","Don't worry, guys. This \"upshutted\" joke will be over soon","Uno starts to explain everything to Isaac, and Isaac gets upshutted again by Constance"],
-        ["World Domination part 8","world_domination_8.svg","February 2, 2020","Not again!","Constance upshuts Isaac while he records a tape for Seymour"]
+        ["World Domination part 8","world_domination_8.svg","February 2, 2020","Not again!","Constance upshuts Isaac while he records a tape for Seymour"],
+        ["World Domination part 9","world_domination_9.svg","February 4, 2020","<i>Obviously</i>, the only real way to do that superbowl ad was with a robot mustache.","Constance is plagued by nightmares of Sam Elliots robotic mustache"]
     ]
 }
