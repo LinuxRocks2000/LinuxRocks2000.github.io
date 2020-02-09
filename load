@@ -35,6 +35,7 @@ class designsHtml:
                     element.parentNode.children[1].style.display="none";
                 }});
             </script>
+            <script src="main.js"></script>
         </body>
     </html>
     """
@@ -94,6 +95,7 @@ class designsHtml:
             <script type="text/javascript">
             """+commantDat.read()+"""
             </script>
+            <script type="text/javascript"></script>
         </body>
     </html>
     """
