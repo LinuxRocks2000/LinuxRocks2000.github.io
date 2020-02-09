@@ -2,5 +2,8 @@ function isTouchDevice() {
     return 'ontouchstart' in document.documentElement;
 }
 if (isTouchDevice()){
-    alert("Hi, Mobile User!");
+    // Do mobile device stuff here
+}
+else {
+    // Do computer stuff here
 }
