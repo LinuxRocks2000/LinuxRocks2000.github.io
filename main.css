@@ -111,7 +111,7 @@ body {
 .username_p{
     border-bottom:2px solid black;
 }
-@media only screen and (max-width: 600px){
+@media (hover:none){
     .comic-link{
         font-size:4em;
     }
