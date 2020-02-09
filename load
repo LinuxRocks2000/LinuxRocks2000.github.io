@@ -95,7 +95,7 @@ class designsHtml:
             <script type="text/javascript">
             """+commantDat.read()+"""
             </script>
-            <script type="text/javascript"></script>
+            <script src="main.js"></script>
         </body>
     </html>
     """
