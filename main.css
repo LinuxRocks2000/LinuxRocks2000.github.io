@@ -7,7 +7,7 @@ body {
 }
 .comic-link {
     display:block;
-    font-size:20px;
+    font-size:2em;
     text-align:center;
     font-family:sans-serif;
 }
@@ -103,11 +103,14 @@ body {
     display:inline-flex;
     flex-direction:column;
     list-style:none;
-    list-style-position:inside;
+     list-style-position:inside;
 }
 .comment-listitem{
     flex:1;
 }
 .username_p{
     border-bottom:2px solid black;
+}
+@media only screen and (max-width: 600px){
+    
 }
