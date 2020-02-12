@@ -155,6 +155,7 @@
         ["World Domination part 9","world_domination_9.svg","February 4, 2020","<i>Obviously</i>, the only real way to do that superbowl ad was with a robot mustache.","Constance is plagued by nightmares of Sam Elliot's robotic mustache"],
         ["World Domination part 10","world_domination_10.svg","February 6, 2020","Some people might need to up their screen brightness to see the flying mustache.","Constance is plagued by more nightmares of Sam Elliot's robotic mustache"],
         ["World Domination part 11","world_domination_11.svg","February 9, 2020","We just had an awesome snow day here in Atlanta. Sorry about the missed comic days, but today I will post several (this is the first for today)","Constance and Katherine argue about whether or not to have Isaac and Seymour break in to Microsoft HQ"],
-        ["World Domination part 12","world_domination_12.svg","February 11, 2020","This series is almost longer than Florida Trip!","Isaac and Seymour are caught by Microsoft Lackeys"]
+        ["World Domination part 12","world_domination_12.svg","February 11, 2020","This series is almost longer than Florida Trip!","Isaac and Seymour are caught by Microsoft Lackeys"],
+        ["World Domination part 13","world_domination_13.svg","February 12, 2020","I guess we all saw <i>that</i> coming","Isaac and Seymour escape from their prison cell at Microsoft HQ"]
     ]
 }
