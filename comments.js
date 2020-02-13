@@ -33,7 +33,7 @@ function load(){{
             p4.appendChild(p);
             pp=document.createElement("p");
             ppp=document.createElement("p");
-            arena.appendChild(p4);
+            arena.insertBefore(p4,null);
             p4.className="comment-listitem";
             ppp.innerText=element.get("body");
             p.className="comment_box";
