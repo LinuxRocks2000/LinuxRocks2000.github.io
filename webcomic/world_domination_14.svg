@@ -30,8 +30,8 @@
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
      inkscape:cy="488.33562"
-     inkscape:cx="2735.824"
-     inkscape:zoom="0.074481915"
+     inkscape:cx="2796.2414"
+     inkscape:zoom="0.21066667"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -4251,21 +4251,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-       x="903.01624"
+       x="850.09937"
        y="918.08746"
        id="text4491"><tspan
          sodipodi:role="line"
          id="tspan4489"
-         x="903.01624"
+         x="850.09937"
          y="918.08746"
          style="stroke-width:0.26458335">Did I mention that</tspan><tspan
          sodipodi:role="line"
-         x="903.01624"
+         x="850.09937"
          y="940.13605"
          style="stroke-width:0.26458335"
          id="tspan4499">my hat is also a high-energy</tspan><tspan
          sodipodi:role="line"
-         x="903.01624"
+         x="850.09937"
          y="962.18469"
          style="stroke-width:0.26458335"
          id="tspan4501">laser cutter?</tspan></text>
@@ -4277,9 +4277,8 @@
        id="rect4497"
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.32291675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000013;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3412.9746,3341.7715 a 569.62023,189.87342 0 0 0 -569.6211,189.873 569.62023,189.87342 0 0 0 430.6992,183.8985 l 200.6309,243.3183 -90.2051,-237.8183 a 569.62023,189.87342 0 0 0 28.4961,0.4765 569.62023,189.87342 0 0 0 569.6211,-189.875 569.62023,189.87342 0 0 0 -569.6211,-189.873 z"
-       transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000013;stroke-width:1.32291675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 850.09952,884.17707 a 150.71202,50.237344 0 0 1 150.71198,50.23723 150.71202,50.237344 0 0 1 -113.95556,48.65648 l -53.08359,64.37802 23.86676,-62.92281 a 150.71202,50.237344 0 0 1 -7.53959,0.12607 150.71202,50.237344 0 0 1 -150.71225,-50.23776 150.71202,50.237344 0 0 1 150.71225,-50.23723 z"
        id="path4503"
        inkscape:connector-curvature="0" />
   </g>
