@@ -14,9 +14,7 @@ function _post(user,body,cmnum){{
 
     myNewObject.save().then(
         (result) => {{
-            document.getElementById("comments-arena").children.forEach(function(element,index){{
-                element.remove();
-            }});
+            document.getElementById("comments-arena").innerHTML="";
             load();
         }},
         (error) => {{
