@@ -159,6 +159,7 @@
         ["World Domination part 13","world_domination_13.svg","February 12, 2020","I guess we all saw <i>that</i> coming","Isaac and Seymour escape from their prison cell at Microsoft HQ"],
         ["World Domination part 14","world_domination_14.svg","February 13, 2020","Whoopsie, everyone who looked this before I posted the comic.","Isaac finds out that Seymour's hat has more tools on it"],
         ["Valentines Day 2019","valentines_day_2019.svg","February 14, 2020","Happy V-day","Happy Valentines day 2020!"],
-        ["World Domination part 15","world_domination_15.svg","February 15, 2020","An interesting way to explain the reason why all Windows since Vista are the same","Seymour explains to Isaac the concept behind the Microsoft Update Core"]
+        ["World Domination part 15","world_domination_15.svg","February 15, 2020","An interesting way to explain the reason why all Windows since Vista are the same","Seymour explains to Isaac the concept behind the Microsoft Update Core"],
+        ["World Domination part 16","world_domination_16.svg","February 16, 2020","Finally! An element of mystery! (I guess we all knew their escape was too easy)","Seymour and Isaac are caught by Unknown"]
     ]
 }

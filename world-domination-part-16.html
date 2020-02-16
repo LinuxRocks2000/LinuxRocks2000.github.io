@@ -10,17 +10,17 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Baking part 2</p>
-                    <p id="comic-date">August 7, 2019</p>
-                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/baking_for_the_party_1.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
-                    <p id="comic-bottom">Sorry about the name confusion... I had forgotten about Baking part 1.</p>
+                    <p id="comic-name">World Domination part 16</p>
+                    <p id="comic-date">February 16, 2020</p>
+                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/world_domination_16.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-bottom">Finally! An element of mystery! (I guess we all knew their escape was too easy)</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="walking-the-bunny-part-2">&lt;</a>
+                            <a class="navbutton" href="world-domination-part-15">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="breaking-the-fourth-wall">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="world-domination-part-16">&gt;|</a>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                 <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 if (cap=="top"){
                     var backrow=document.getElementById("frontrow");
                     backrow.parentNode.removeChild(backrow);
@@ -58,7 +58,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,27);
+    _post(usernamefield.value,bodyfield.value,161);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -78,7 +78,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 27);
+    query.equalTo("comic", 161);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();
