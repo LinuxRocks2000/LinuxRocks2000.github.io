@@ -14,7 +14,10 @@ function _post(user,body,cmnum){{
 
     myNewObject.save().then(
         (result) => {{
-        load()
+            document.getElementById("comments-arena").children.forEach(function(element,index){{
+                element.remove();
+            }});
+            load();
         }},
         (error) => {{
         if (typeof document !== 'undefined') document.write(`Error while creating Comment: ${{JSON.stringify(error)}}`);
