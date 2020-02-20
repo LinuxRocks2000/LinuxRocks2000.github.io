@@ -161,6 +161,7 @@
         ["Valentines Day 2019","valentines_day_2019.svg","February 14, 2020","Happy V-day","Happy Valentines day 2020!"],
         ["World Domination part 15","world_domination_15.svg","February 15, 2020","An interesting way to explain the reason why all Windows since Vista are the same","Seymour explains to Isaac the concept behind the Microsoft Update Core"],
         ["World Domination part 16","world_domination_16.svg","February 16, 2020","Finally! An element of mystery! (I guess we all knew their escape was too easy)","Seymour and Isaac are caught by Unknown"],
-        ["World Domination part 17","world_domination_17.svg","February 18, 2020","More element of mystery.","Isaac and Seymour are recaptured"]
+        ["World Domination part 17","world_domination_17.svg","February 18, 2020","More element of mystery.","Isaac and Seymour are recaptured"],
+        ["World Domination part 18","world_domination_18.svg","February 20, 2020","Seymour, Seymour, Seymour.","Seymour attempts to intimidate the Microsoft Lackeys"]
     ]
 }
