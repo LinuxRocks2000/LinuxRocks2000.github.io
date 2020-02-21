@@ -10,17 +10,17 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Identical Twins</p>
-                    <p id="comic-date">October 3, 2019</p>
-                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/identical_twins.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
-                    <p id="comic-bottom">Of course I had to make him a twin <i>eventually</i></p>
+                    <p id="comic-name">World Domination part 19</p>
+                    <p id="comic-date">February 21, 2020</p>
+                    <object type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/world_domination_19.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-bottom"><i>Star wars music playing</i> As a little recap, Isaac pretended to be Seymour so he could steal the hat, which had a tranquilizer dart in it, and use it to disable David, then steal the stun gun from the other Microsoft Lackey and stun him.</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="save-the-orangutans">&lt;</a>
+                            <a class="navbutton" href="world-domination-part-18">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="whos-that">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="world-domination-part-19">&gt;|</a>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                 <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 if (cap=="top"){
                     var backrow=document.getElementById("frontrow");
                     backrow.parentNode.removeChild(backrow);
@@ -58,7 +58,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,82);
+    _post(usernamefield.value,bodyfield.value,164);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -79,7 +79,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 82);
+    query.equalTo("comic", 164);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();
