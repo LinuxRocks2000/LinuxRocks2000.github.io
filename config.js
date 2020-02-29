@@ -163,6 +163,7 @@
         ["World Domination part 16","world_domination_16.svg","February 16, 2020","Finally! An element of mystery! (I guess we all knew their escape was too easy)","Seymour and Isaac are caught by Unknown"],
         ["World Domination part 17","world_domination_17.svg","February 18, 2020","More element of mystery.","Isaac and Seymour are recaptured"],
         ["World Domination part 18","world_domination_18.svg","February 20, 2020","Seymour, Seymour, Seymour.","Seymour attempts to intimidate the Microsoft Lackeys"],
-        ["World Domination part 19","world_domination_19.svg","February 21, 2020","<small><i>*Star wars music playing*</i></small> As a little recap, Isaac pretended to be Seymour so he could steal the hat, which had a tranquilizer dart in it, and use it to disable David, then steal the stun gun from the other Microsoft Lackey and stun him.","Isaac and Seymour defeat the Microsoft Lackeys"]
+        ["World Domination part 19","world_domination_19.svg","February 21, 2020","<small><i>*Star wars music playing*</i></small> As a little recap, Isaac pretended to be Seymour so he could steal the hat, which had a tranquilizer dart in it, and use it to disable David, then steal the stun gun from the other Microsoft Lackey and stun him.","Isaac and Seymour defeat the Microsoft Lackeys"],
+        ["Programming Languages","programming_language.svg","February 28, 2020","Sorry I haven't posted in a while. I've been teaching programming at a middle school for the past week.","Isaac, Seymour, and Geoffrey talk about their favorite programming languages"]
     ]
 }
