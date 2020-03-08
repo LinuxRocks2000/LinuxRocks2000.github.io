@@ -166,6 +166,7 @@
         ["World Domination part 19","world_domination_19.svg","February 21, 2020","<small><i>*Star wars music playing*</i></small> As a little recap, Isaac pretended to be Seymour so he could steal the hat, which had a tranquilizer dart in it, and use it to disable David, then steal the stun gun from the other Microsoft Lackey and stun him.","Isaac and Seymour defeat the Microsoft Lackeys"],
         ["Programming Languages","programming_language.svg","February 28, 2020","Sorry I haven't posted in a while. I've been teaching programming at a middle school for the past week.","Isaac, Seymour, and Geoffrey talk about their favorite programming languages"],
         ["Lisp","lisp_1.svg","March 1, 2020","I know I've been missing a lot of days. Expect comic posts to be kinda hit-or-miss for a while.","Just read the comic. This one is hard to explain."],
-        ["Raspberrians","raspberry_pi.svg","March 7, 2020","Don't be offended, anyone.","Seymour tells Isaac about a cult"]
+        ["Raspberrians","raspberry_pi.svg","March 7, 2020","Don't be offended, anyone.","Seymour tells Isaac about a cult"],
+        ["Daylight Savings Time","time_change.svg","March 8, 2020","I really don't like the time change. Also, in the last panel, that's Planet Earth talking to Planet Earths Moon","LinuxRocks2000 hates daylight savings time."]
     ]
 }
