@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom">Cutting down palm trees in those regions is causing orangutans to go nearly exstinct, as they are forced out of the forest and the greedy ****'s that cut down the trees in the first place just shoot them. More information <a href='https://www.worldwildlife.org/magazine/issues/summer-2015/articles/orangutans-and-palm-oil-protecting-forests-to-help-great-apes'>here</a>.</p>
                     <div id="navbuttons">

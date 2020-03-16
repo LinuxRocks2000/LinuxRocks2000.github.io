@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom">Nigel is starting to become a main character, but I'm not getting rid of Katherine or Seymour. Also, Sally is the girl with the glasses (in the fourth of july special she was carrying a 'Canada' sign.)</p>
                     <div id="navbuttons">

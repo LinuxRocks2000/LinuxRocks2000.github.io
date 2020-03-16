@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom">Sorry again about the missed comic the day before yesterday. I hope <a onclick='reset(`last`)'>Sporks</a> made up for it.</p>
                     <div id="navbuttons">

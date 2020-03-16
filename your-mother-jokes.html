@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom">I know this is a huge letdown. I animate the comics using pure JavaScript, a programming language, and I've never done anything like the comic I was going to post before. I will start working on an API which should make the complicated animations more common and reliable.</p>
                     <div id="navbuttons">

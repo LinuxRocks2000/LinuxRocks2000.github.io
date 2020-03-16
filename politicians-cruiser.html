@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom">I know I missed posting yesterday. I guess its time for the big reveal... We were on vacation sporadically through september and October. We left Cocoa Beach yesterday! We got home late (we live in central Atlanta, so the trip was pretty long), and I wasn't able to get a comic made.</p>
                     <div id="navbuttons">

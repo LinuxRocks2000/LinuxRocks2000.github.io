@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom">This comic breaks a lot of my personal records. It features all of the characters, takes place in a giant panel (only used once before), and has the longest animation (twenty speech bubbles). Also, it finally clarifies everyone's names.</p>
                     <div id="navbuttons">

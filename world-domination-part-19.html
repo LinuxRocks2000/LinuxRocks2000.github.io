@@ -16,7 +16,11 @@
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                        
+                        var d=document.getElementById("comic-date").innerText.split(" ");
+                        if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                            var d=document.getElementById("comic");
+                            d.parentNode.removeChild(d);
+                        }
                     </script>
                     <p id="comic-bottom"><small><i>*Star wars music playing*</i></small> As a little recap, Isaac pretended to be Seymour so he could steal the hat, which had a tranquilizer dart in it, and use it to disable David, then steal the stun gun from the other Microsoft Lackey and stun him.</p>
                     <div id="navbuttons">
