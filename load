@@ -122,7 +122,7 @@ for x in reversed(data["comics"]):
     cmlist+="""
 <div class="link-wrapper">
     <div class="link-wrapper-inner">
-        <a onmouseover="expandLink(this)" onmouseout="shrinkLink(this)" class="comic-link" href=\""""+x[0].replace(" ","-").lower()+"""">
+        <a onmouseover="expandLink(this)" onmouseout="shrinkLink(this)" class="comic-link" href=\""""+formatname(x[0])+"""">
             """+x[0]+"""
         </a>
         <div class="expander">
