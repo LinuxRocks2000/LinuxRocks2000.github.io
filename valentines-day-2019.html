@@ -30,7 +30,7 @@
                         </div>
                         <div id="frontrow">
                             <a class="navbutton" href="world-domination-part-15">&gt;</a>
-                            <a class="navbutton" href="toilet-paper-delivery">&gt;|</a>
+                            <a class="navbutton" href="self-isolation">&gt;|</a>
                         </div>
                     </div>
                     <h1 id="comments-text">Comments</h1>
@@ -49,15 +49,24 @@
                 </div>
                 <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
                 var cap="none";
-                if (cap=="top"){
-                    var backrow=document.getElementById("frontrow");
-                    backrow.parentNode.removeChild(backrow);
-                }
-                if (cap=="bottom"){
-                    var backrow=document.getElementById("backrow");
-                    backrow.parentNode.removeChild(backrow);
+                $.getJSON("config.js",function(data){
+                    var thedaysday=new Date();
+                    var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
+                    var d=February 14, 2020.split(" ");
+                    if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                        cap="top"
+                    }
+                    if (cap=="top"){
+                        var backrow=document.getElementById("frontrow");
+                        backrow.parentNode.removeChild(backrow);
+                    }
+                    if (cap=="bottom"){
+                        var backrow=document.getElementById("backrow");
+                        backrow.parentNode.removeChild(backrow);
+                    }
                 }
             </script>
             <script type="text/javascript">

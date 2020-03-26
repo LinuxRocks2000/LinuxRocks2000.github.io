@@ -90,15 +90,24 @@ class designsHtml:
                 </div>
                 <!--Remember, keep the comment stuff inside the comic arena-->
             </div>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
                 var cap="{cap}";
-                if (cap=="top"){{
-                    var backrow=document.getElementById("frontrow");
-                    backrow.parentNode.removeChild(backrow);
-                }}
-                if (cap=="bottom"){{
-                    var backrow=document.getElementById("backrow");
-                    backrow.parentNode.removeChild(backrow);
+                $.getJSON("config.js",function(data){{
+                    var thedaysday=new Date();
+                    var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
+                    var d={comicdate}.split(" ");
+                    if (parray.indexOf(d[0])>thedaysday.getMonth()){{
+                        cap="top"
+                    }}
+                    if (cap=="top"){{
+                        var backrow=document.getElementById("frontrow");
+                        backrow.parentNode.removeChild(backrow);
+                    }}
+                    if (cap=="bottom"){{
+                        var backrow=document.getElementById("backrow");
+                        backrow.parentNode.removeChild(backrow);
+                    }}
                 }}
             </script>
             <script type="text/javascript">
@@ -110,14 +119,25 @@ class designsHtml:
     """
 ## Build the comic files
 print("Building comic.")
-import os, json
+import os, json, datetime
 directory=os.listdir("webcomic")
 file=open("config.js","r")
-data=json.load(file)
+data_postphony=json.load(file)
+data=data_postphony#{"comics":[]}
+t=datetime.datetime.now()
+#for x in data_postphony["comics"]:
+ #   date
 print("Loaded JSON configuration file.")
 ## Load a bunch of data to index.html
 print("Build comic links on the index.html website.")
 cmlist=""""""
+n=datetime.datetime.now()
+def processdateiscorrect(data):
+    #months=["January","February","March","April","May","June","July","August","September","October","November","December"]
+    #peach=data.split(" ")
+    #totaldayssince0=n.year*365+n.month*
+    return True
+    
 for x in reversed(data["comics"]):
     cmlist+="""
 <div class="link-wrapper">
