@@ -169,6 +169,7 @@
         ["Raspberrians","raspberry_pi.svg","March 7, 2020","Don't be offended, anyone.","Seymour tells Isaac about a cult"],
         ["Daylight Savings Time","time_change.svg","March 8, 2020","I really don't like the time change. Also, in the last panel, that's Planet Earth talking to Planet Earths Moon","LinuxRocks2000 hates daylight savings time."],
         ["Toilet Paper Delivery!","toilet_paper.svg","March 16, 2020","Another new comic style. I kinda like this one, but the normal 2 by 2 or 3 by 3 layouts are better most of the time.","A joke about COVID-19"],
-        ["Self Isolation","social_distancing_1.svg","March 25, 2020","More COVID-19 humor!","Isaac brags about his psyche"]
+        ["Self Isolation","social_distancing_1.svg","March 25, 2020","More COVID-19 humor!","Isaac brags about his psyche"],
+        ["The Phantom of The Opera","the_phantom_of_the_opera.svg","May 3, 2020","Sorry its been so long between posts. I'm remaking the website to be hosted on my own server, and being me I had to completely rewrite it.","LinuxRocks2000 plays a fateful impression of The Phantom of The Opera"]
     ]
 }
