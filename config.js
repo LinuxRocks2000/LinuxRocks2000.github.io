@@ -171,6 +171,7 @@
         ["Toilet Paper Delivery!","toilet_paper.svg","March 16, 2020","Another new comic style. I kinda like this one, but the normal 2 by 2 or 3 by 3 layouts are better most of the time.","A joke about COVID-19"],
         ["Self Isolation","social_distancing_1.svg","March 25, 2020","More COVID-19 humor!","Isaac brags about his psyche"],
         ["The Phantom of The Opera","the_phantom_of_the_opera.svg","May 3, 2020","Sorry its been so long between posts. I'm remaking the website to be hosted on my own server, and being me I had to completely rewrite it.","LinuxRocks2000 plays a fateful impression of The Phantom of The Opera"],
-        ["Hotel California","hotelcalifornia.svg","September 4, 2020","Apologies to anyone who was missing my webcomic. My 'self hosted site' idea fell through, and I forgot about this comic. I guess I'll start up again, if anyone still reads this. Please let me know in the comments...", "LinuxRocks2000 is back!"]
+        ["Hotel California","hotelcalifornia.svg","September 4, 2020","Apologies to anyone who was missing my webcomic. My 'self hosted site' idea fell through, and I forgot about this comic. I guess I'll start up again, if anyone still reads this. Please let me know in the comments...", "LinuxRocks2000 is back!"],
+        ["McCaysville, GA","mccaysville.svg","September 8, 2020","I guess people still read this, thanks 'Me Again' for so generously pointing out a problem with my webcomic :)","LinuxRocks2000 is <i>still</i> back!"]
     ]
 }
