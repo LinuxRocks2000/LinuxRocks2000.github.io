@@ -10,9 +10,9 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Toilet Paper Delivery!</p>
-                    <p id="comic-date">March 16, 2020</p>
-                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/toilet_paper.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-name">C++ advice</p>
+                    <p id="comic-date">September 11, 2020</p>
+                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/c++.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
@@ -22,14 +22,14 @@
                             d.parentNode.removeChild(d);
                         }
                     </script>
-                    <p id="comic-bottom">Another new comic style. I kinda like this one, but the normal 2 by 2 or 3 by 3 layouts are better most of the time.</p>
+                    <p id="comic-bottom">Not intended for anyone who doesn't understand pointers.</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="daylight-savings-time">&lt;</a>
+                            <a class="navbutton" href="apple-sauce">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="self-isolation">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="c++-advice">&gt;|</a>
                         </div>
                     </div>
@@ -51,11 +51,11 @@
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                    var d=March 16, 2020.split(" ");
+                    var d=September 11, 2020.split(" ");
                     if (parray.indexOf(d[0])>thedaysday.getMonth()){
                         cap="top"
                     }
@@ -76,7 +76,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,169);
+    _post(usernamefield.value,bodyfield.value,176);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -97,7 +97,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 169);
+    query.equalTo("comic", 176);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();
