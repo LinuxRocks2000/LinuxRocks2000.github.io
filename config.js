@@ -176,6 +176,7 @@
         ["Programming Language Comparisons","programming_language_comparison.svg","September 9, 2020","","Constance hosts an unsuccessful TV show"],
         ["Apple Sauce","applesauce.svg","September 10, 2020","","Isaac cooks apples in a billion different ways"],
         ["C++ advice","c++.svg","September 11, 2020","Not intended for anyone who doesn't understand pointers.","Seymour is unhelpful"],
-        ["Language of the Universe","language_of_the_universe.svg","September 15, 2020","Warning: Comic posts will be few or none for the rest of the week.","In which we find that Seymour and Nigel sometimes sleep walk"]
+        ["Language of the Universe","language_of_the_universe.svg","September 15, 2020","Warning: Comic posts will be few or none for the rest of the week.","In which we find that Seymour and Nigel sometimes sleep walk"],
+        ["Species Of The Week","species_of_the_week.svg","September 17, 2020","I start to wonder about these little guys...","Another television-show spoof"]
     ]
 }
