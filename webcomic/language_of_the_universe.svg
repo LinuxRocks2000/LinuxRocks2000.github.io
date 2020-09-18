@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="1963.6183"
-     inkscape:cx="2182.6181"
-     inkscape:zoom="0.10533334"
+     inkscape:cy="2097.8791"
+     inkscape:cx="3525.2258"
+     inkscape:zoom="0.29792768"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -3599,7 +3599,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5616,6 +5616,32 @@
        transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
        id="path2129"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 863.3145,789.59351 14.49945,-30.68225 -1.06315,-33.36359 7.46144,29.94532 2.45454,33.79746"
+       id="path1453"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 876.7508,725.54767 0.37309,-60.09157 -10.09035,22.69148 18.1996,27.39795"
+       id="path1456"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 877.12389,665.4561 5.85038,30.11128 25.11273,20.36385"
+       id="path1458"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2.64583373;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="ellipse1460"
+       cx="859.44299"
+       cy="671.48407"
+       rx="17.935183"
+       ry="15.912942"
+       transform="matrix(0.9996211,-0.02752569,0.02832327,0.99959882,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
