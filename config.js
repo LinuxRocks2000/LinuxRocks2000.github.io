@@ -177,6 +177,7 @@
         ["Apple Sauce","applesauce.svg","September 10, 2020","","Isaac cooks apples in a billion different ways"],
         ["C++ advice","c++.svg","September 11, 2020","Not intended for anyone who doesn't understand pointers.","Seymour is unhelpful"],
         ["Language of the Universe","language_of_the_universe.svg","September 15, 2020","Warning: Comic posts will be few or none for the rest of the week.","In which we find that Seymour and Nigel sometimes sleep walk"],
-        ["Species Of The Week","species_of_the_week.svg","September 17, 2020","I start to wonder about these little guys...","Another television-show spoof"]
+        ["Species Of The Week","species_of_the_week.svg","September 17, 2020","I start to wonder about these little guys...","Another television-show spoof"],
+        ["Halloween Decorating","halloween_decorating.svg","September 21, 2020","I told you that comic posts would be little to none for the rest of the week!","Isaac and Seymour decorate for halloween"]
     ]
 }
