@@ -178,6 +178,7 @@
         ["C++ advice","c++.svg","September 11, 2020","Not intended for anyone who doesn't understand pointers.","Seymour is unhelpful"],
         ["Language of the Universe","language_of_the_universe.svg","September 15, 2020","Warning: Comic posts will be few or none for the rest of the week.","In which we find that Seymour and Nigel sometimes sleep walk"],
         ["Species Of The Week","species_of_the_week.svg","September 17, 2020","I start to wonder about these little guys...","Another television-show spoof"],
-        ["Halloween Decorating","halloween_decorating.svg","September 21, 2020","I told you that comic posts would be little to none for the rest of the week!","Isaac and Seymour decorate for halloween"]
+        ["Halloween Decorating","halloween_decorating.svg","September 21, 2020","I told you that comic posts would be little to none for the rest of the week!","Isaac and Seymour decorate for halloween"],
+        ["Pumpkin time","pumpkin_time.svg","September 23, 2020","At this point, before I get back into my usual comic posting routine, comics will come out when they do. I cannot promise that it will be daily anymore, and I really am sorry about all the missed ones.","Isaac, Katherine, and Seymour go to a pumpkin patch"]
     ]
 }
