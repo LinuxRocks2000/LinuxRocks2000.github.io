@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="enable-background:new"
-   sodipodi:docname="pumpkin_time.svg.2020_09_23_18_34_23.0.svg"
+   sodipodi:docname="pumpkin_time.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    id="svg8"
    version="1.1"
@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="-1278.1882"
-     inkscape:cx="1497.9455"
-     inkscape:zoom="0.10533334"
+     inkscape:cy="1203.66"
+     inkscape:cx="1651.1936"
+     inkscape:zoom="0.59585535"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -4048,7 +4048,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6184,15 +6184,15 @@
          y="928.24194"
          style="line-height:1;stroke-width:0.26458335">Come on! Isaac</tspan><tspan
          sodipodi:role="line"
-         x="335.13318"
+         x="337.13135"
          y="945.88086"
          style="line-height:1;stroke-width:0.26458335"
-         id="tspan2438">found more pumpkins... I bet</tspan><tspan
+         id="tspan2802">found more pumpkins... I bet </tspan><tspan
          sodipodi:role="line"
          x="335.13318"
          y="963.51971"
          style="line-height:1;stroke-width:0.26458335"
-         id="tspan2440">their the right size!</tspan></text>
+         id="tspan2806">their the right size!</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:0.99411777;stroke:#000000;stroke-width:5.00000048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1246.0449,3416.8477 a 477.05693,161.3924 0 0 0 -477.05857,161.3925 477.05693,161.3924 0 0 0 477.05857,161.3926 477.05693,161.3924 0 0 0 82.002,-2.4199 L 1799.0508,3968.3555 1507,3713.2715 a 477.05693,161.3924 0 0 0 216.1016,-135.0313 477.05693,161.3924 0 0 0 -477.0567,-161.3925 z"
