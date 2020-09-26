@@ -180,6 +180,7 @@
         ["Species Of The Week","species_of_the_week.svg","September 17, 2020","I start to wonder about these little guys...","Another television-show spoof"],
         ["Halloween Decorating","halloween_decorating.svg","September 21, 2020","I told you that comic posts would be little to none for the rest of the week!","Isaac and Seymour decorate for halloween"],
         ["Pumpkin time","pumpkin_time.svg","September 23, 2020","At this point, before I get back into my usual comic posting routine, comics will come out when they do. I cannot promise that it will be daily anymore, and I really am sorry about all the missed ones.","Isaac, Katherine, and Seymour go to a pumpkin patch"],
-        ["The Terminator","the_terminator.svg","September 24, 2020","*May or may not be anything like The Terminator*","Read the title"]
+        ["The Terminator","the_terminator.svg","September 24, 2020","*May or may not be anything like The Terminator*","Read the title"],
+        ["The Truth Today Edition 1","the_truth_today_1.svg","September 25, 2020","Bigger comic than normal - No offence to anyone who cares about American Politics, European Politics, Lady GaGa, Queen, or hamsters.","Another mock newspaper, bigger than the Metro Post."]
     ]
 }
