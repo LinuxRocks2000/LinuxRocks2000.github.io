@@ -182,6 +182,7 @@
         ["Pumpkin time","pumpkin_time.svg","September 23, 2020","At this point, before I get back into my usual comic posting routine, comics will come out when they do. I cannot promise that it will be daily anymore, and I really am sorry about all the missed ones.","Isaac, Katherine, and Seymour go to a pumpkin patch"],
         ["The Terminator","the_terminator.svg","September 24, 2020","*May or may not be anything like The Terminator*","Read the title"],
         ["The Truth Today Edition 1","the_truth_today_1.svg","September 25, 2020","Bigger comic than normal - No offence to anyone who cares about American Politics, European Politics, Lady GaGa, Queen, or hamsters.","Another mock newspaper, bigger than the Metro Post."],
-        ["Beat snazzy street","beat_snazzy_street.svg","September 27, 2020","I absolutely love those little circuit boards. 20 times the ram as an Uno, and they come with all the things that you can't fit on an Uno because there aren't enough analog pins. <a href='https://store.arduino.cc/usa/nano-33-iot'>Click here for the product page.</a>","Hard to explain without spoiling it."]
+        ["Beat snazzy street","beat_snazzy_street.svg","September 27, 2020","I absolutely love those little circuit boards. 20 times the ram as an Uno, and they come with all the things that you can't fit on an Uno because there aren't enough analog pins. <a href='https://store.arduino.cc/usa/nano-33-iot'>Click here for the product page.</a>","Hard to explain without spoiling it."],
+        ["Linear Algebra","assembly.svg","September 29, 2020","Halloween comics will be justified in two days!","Seymour learns linear algebra"]
     ]
 }
