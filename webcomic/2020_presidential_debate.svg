@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="559.54487"
-     inkscape:cx="2935.382"
-     inkscape:zoom="0.037240958"
+     inkscape:cy="2170.6742"
+     inkscape:cx="5083.5545"
+     inkscape:zoom="0.14896383"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -3691,7 +3691,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4038,9 +4038,9 @@
        id="text1744"><tspan
          sodipodi:role="line"
          id="tspan1742"
-         x="263.91693"
+         x="265.9151"
          y="922.01245"
-         style="stroke-width:0.26458335">The fact is, our current president</tspan><tspan
+         style="stroke-width:0.26458335">The fact is, our current president </tspan><tspan
          sodipodi:role="line"
          x="263.91693"
          y="939.65137"
@@ -4212,9 +4212,9 @@
        id="text1885"><tspan
          sodipodi:role="line"
          id="tspan1883"
-         x="1040.9683"
+         x="1042.9664"
          y="897.4566"
-         style="stroke-width:0.26458335">I don't even want</tspan><tspan
+         style="stroke-width:0.26458335">I don't even want </tspan><tspan
          sodipodi:role="line"
          x="1040.9683"
          y="915.09552"
