@@ -183,6 +183,7 @@
         ["The Terminator","the_terminator.svg","September 24, 2020","*May or may not be anything like The Terminator*","Read the title"],
         ["The Truth Today Edition 1","the_truth_today_1.svg","September 25, 2020","Bigger comic than normal - No offence to anyone who cares about American Politics, European Politics, Lady GaGa, Queen, or hamsters.","Another mock newspaper, bigger than the Metro Post."],
         ["Beat snazzy street","beat_snazzy_street.svg","September 27, 2020","I absolutely love those little circuit boards. 20 times the ram as an Uno, and they come with all the things that you can't fit on an Uno because there aren't enough analog pins. <a href='https://store.arduino.cc/usa/nano-33-iot'>Click here for the product page.</a>","Hard to explain without spoiling it."],
-        ["Linear Algebra","assembly.svg","September 29, 2020","Halloween comics will be justified in two days!","Seymour learns linear algebra"]
+        ["Linear Algebra","assembly.svg","September 29, 2020","Halloween comics will be justified in two days!","Seymour learns linear algebra"],
+        ["2020 Presidential Debate #1","2020_presidential_debate.svg","September 30, 2020","I would have made it much better, but that would have been like a 4x10 comic and I didn't really want to do that. <a href='https://www.youtube.com/watch?v=yHFI8TsSKXY'>This is the actual debate - Funnier than Comedy Central any day</a>","Click - and weep."]
     ]
 }
