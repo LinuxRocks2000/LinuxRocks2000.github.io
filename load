@@ -158,10 +158,13 @@ file.close()
 
 print("Build the actual comic files in the comic directory.")
 for x in data["comics"]:
-    print("Open comic = "+x[0]+", number = "+str(data["comics"].index(x)))
+    print("Open comic = "+x[0]+", number = "+str(data["comics"].index(x)) + ", ",end="")
+    if os.path.exists("webcomic/"+x[1]):
+        print("\033[1;32mFILE EXISTS!\033[0m")
+    else:
+        print("\033[5m\033[1;31mTHE FILE DOES NOT EXIST!\033[0m")
     cap="none"
     comic=open(formatname(x[0])+'.html',"w+")
-
     base=data["comics"]
     if base.index(x)!=0:
         bbref=formatname(base[base.index(x)-1][0])

@@ -185,6 +185,7 @@
         ["Beat snazzy street","beat_snazzy_street.svg","September 27, 2020","I absolutely love those little circuit boards. 20 times the ram as an Uno, and they come with all the things that you can't fit on an Uno because there aren't enough analog pins. <a href='https://store.arduino.cc/usa/nano-33-iot'>Click here for the product page.</a>","Hard to explain without spoiling it."],
         ["Linear Algebra","assembly.svg","September 29, 2020","Halloween comics will be justified in two days!","Seymour learns linear algebra"],
         ["2020 Presidential Debate #1","2020_presidential_debate.svg","September 30, 2020","I would have made it much better, but that would have been like a 4x10 comic and I didn't really want to do that. <a href='https://www.youtube.com/watch?v=yHFI8TsSKXY'>This is the actual debate - Funnier than Comedy Central any day</a>","Click - and weep."],
-        ["Internet Service Providers","wifi.svg","October 1, 2020","At&T is absolute crap.","Tara gets kicked out of a meeting."]
+        ["Internet Service Providers","wifi.svg","October 1, 2020","At&T is absolute crap.","Tara gets kicked out of a meeting."],
+        ["Insurance Companies","insurance_company.svg","October 2, 2020","That's something Geico doesn't cover.","Katherine has a better insurance company than Isaac"]
     ]
 }
