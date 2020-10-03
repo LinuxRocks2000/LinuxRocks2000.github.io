@@ -3702,7 +3702,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3921,10 +3921,10 @@
          y="516.62396"
          style="stroke-width:0.26458335">Mine covers home, auto,</tspan><tspan
          sodipodi:role="line"
-         x="173.10051"
+         x="175.09866"
          y="534.26288"
          style="stroke-width:0.26458335"
-         id="tspan2796">personal, and haunting damages for just</tspan><tspan
+         id="tspan2796">personal, and haunting damages for just </tspan><tspan
          sodipodi:role="line"
          x="173.10049"
          y="551.90173"
