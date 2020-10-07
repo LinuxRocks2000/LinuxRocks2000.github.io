@@ -188,6 +188,7 @@
         ["Internet Service Providers","wifi.svg","October 1, 2020","At&T is absolute crap.","Tara gets kicked out of a meeting."],
         ["Insurance Companies","insurance_company.svg","October 2, 2020","That's something Geico doesn't cover.","Katherine has a better insurance company than Isaac"],
         ["Game Development","game_development.svg","October 4, 2020","Actually, the difference is a factor of one thousand. Usleep (c++) takes a value in microseconds (millionths), whilst setInterval (ECMAScript) takes a value in milliseconds (thousandths). This is why Xlib applications go way to fast if you don't multiply by one thousand. Because C++ is incredibly fast, recommended interval in Xlib is 20,000. Javascript being much slower, divide by 2000 rather than 1000 to get 10.","Isaac does some game development"],
-        ["Militarism","military.svg","October 6, 2020","Pancakes are supreme.","Seymour finds an interesting source of pancakes"]
+        ["Militarism","military.svg","October 6, 2020","Pancakes are supreme.","Seymour finds an interesting source of pancakes"],
+        ["Biscuits","biscuits.svg","October 7, 2020","","Isaac invents a new method to make biscuits."]
     ]
 }
