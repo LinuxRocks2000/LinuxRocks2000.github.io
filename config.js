@@ -191,6 +191,7 @@
         ["Militarism","military.svg","October 6, 2020","Pancakes are supreme.","Seymour finds an interesting source of pancakes"],
         ["Biscuits","biscuits.svg","October 7, 2020","","Isaac invents a new method to make biscuits."],
         ["Modern Art","modern_art.svg","October 8, 2020","This is seriously what modern art is like - sad.","Modern art is not good."],
-        ["Doctor's Lounge","doctors_lounge.svg","October 10, 2020","More nerd humor - Not easy to explain.","Isaac gets a job interview at a hospital"]
+        ["Doctor's Lounge","doctors_lounge.svg","October 10, 2020","More nerd humor - Not easy to explain.","Isaac gets a job interview at a hospital"],
+        ["Grilling Advice","grilling_advice.svg","October 11, 2020 nobody reads these do they? (tell me in the comments)","The inspiration is from seeing an Ingles sign.","Bill pulls a Seymour"]
     ]
 }
