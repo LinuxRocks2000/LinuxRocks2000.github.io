@@ -192,6 +192,7 @@
         ["Biscuits","biscuits.svg","October 7, 2020","","Isaac invents a new method to make biscuits."],
         ["Modern Art","modern_art.svg","October 8, 2020","This is seriously what modern art is like - sad.","Modern art is not good."],
         ["Doctor's Lounge","doctors_lounge.svg","October 10, 2020","More nerd humor - Not easy to explain.","Isaac gets a job interview at a hospital"],
-        ["Grilling Advice","grilling_advice.svg","October 11, 2020 nobody reads these do they? (tell me in the comments)","The inspiration is from seeing an Ingles sign.","Bill pulls a Seymour"]
+        ["Grilling Advice","grilling_advice.svg","October 11, 2020 nobody reads these do they? (tell me in the comments)","The inspiration is from seeing an Ingles sign.","Bill pulls a Seymour"],
+        ["Political Swearwords","political_swearwords.svg","October 13, 2020 Tell me in the comments if you read this.","Dictatorship! Timocracy! Albatross!","There is no actual swearing in this comic."]
     ]
 }
