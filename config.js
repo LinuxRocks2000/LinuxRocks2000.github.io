@@ -194,6 +194,7 @@
         ["Doctor's Lounge","doctors_lounge.svg","October 10, 2020","More nerd humor - Not easy to explain.","Isaac gets a job interview at a hospital"],
         ["Grilling Advice","grilling_advice.svg","October 11, 2020 nobody reads these do they? (tell me in the comments)","The inspiration is from seeing an Ingles sign.","Bill pulls a Seymour"],
         ["Political Swearwords","political_swearwords.svg","October 13, 2020 Tell me in the comments if you read this.","Dictatorship! Timocracy! Albatross!","There is no actual swearing in this comic."],
-        ["A Graph","graphs_about_graphs.svg","October 14, 2020","This is the first time I've ever done a graph - #6 is the punchline","Albatross!"]
+        ["A Graph","graphs_about_graphs.svg","October 14, 2020","This is the first time I've ever done a graph - #6 is the punchline","Albatross!"],
+        ["Amish","amish.svg","October 16, 2020","As I walk through the valley where I harvest my grain, I take a look at my wife and realize she's very plain. But that's just perfect for an Amish like me, you know I shun fancy things like e-lec-tricity!","Ever watched \"Weird Al\" Yankovic's Amish Paradise? Its hilarious. Just google it."]
     ]
 }
