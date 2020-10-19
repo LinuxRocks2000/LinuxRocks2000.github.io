@@ -194,6 +194,7 @@
         ["Political Swearwords","political_swearwords.svg","October 13, 2020 Tell me in the comments if you read this.","Dictatorship! Timocracy! Albatross!","There is no actual swearing in this comic."],
         ["A Graph","graphs_about_graphs.svg","October 14, 2020","This is the first time I've ever done a graph - #6 is the punchline","Albatross!"],
         ["Amish","amish.svg","October 16, 2020","As I walk through the valley where I harvest my grain, I take a look at my wife and realize she's very plain. But that's just perfect for an Amish like me, you know I shun fancy things like e-lec-tricity!","Ever watched \"Weird Al\" Yankovic's Amish Paradise? Its hilarious. Just google it."],
-        ["Isaac's Curse","isaacs_curse.svg","October 17, 2020","I don't even know how baseball works - can you tell?","Isaac curses a baseball team - not literally. None of my comics will ever have any swearing."]
+        ["Isaac's Curse","isaacs_curse.svg","October 17, 2020","I don't even know how baseball works - can you tell?","Isaac curses a baseball team - not literally. None of my comics will ever have any swearing."],
+        ["Seymour's First Ballgame","seymours_first_ballgame.svg","October 18, 2020","Another baseball sketch","ALBATROSS!"]
     ]
 }
