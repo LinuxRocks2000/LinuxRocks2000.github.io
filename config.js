@@ -196,6 +196,7 @@
         ["Amish","amish.svg","October 16, 2020","As I walk through the valley where I harvest my grain, I take a look at my wife and realize she's very plain. But that's just perfect for an Amish like me, you know I shun fancy things like e-lec-tricity!","Ever watched \"Weird Al\" Yankovic's Amish Paradise? Its hilarious. Just google it."],
         ["Isaac's Curse","isaacs_curse.svg","October 17, 2020","I don't even know how baseball works - can you tell?","Isaac curses a baseball team - not literally. None of my comics will ever have any swearing."],
         ["Seymour's First Ballgame","seymours_first_ballgame.svg","October 18, 2020","Another baseball sketch","ALBATROSS!"],
-        ["Grammar Fight","grammar.svg","October 19, 2020","this be A grammar fight, if you couldn't Tell.","Isaac and Seymour have a grammar fight"]
+        ["Grammar Fight","grammar.svg","October 19, 2020","this be A grammar fight, if you couldn't Tell.","Isaac and Seymour have a grammar fight"],
+        ["TWO HUNDRED COMICS!","twohundred.svg","October 20, 2020","This is my two hundredth comic! Just another eight hundred more, eh?","It should be more like four hundred, but C'est La Vie"]
     ]
 }
