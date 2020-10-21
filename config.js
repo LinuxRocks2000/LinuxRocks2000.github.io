@@ -197,6 +197,7 @@
         ["Isaac's Curse","isaacs_curse.svg","October 17, 2020","I don't even know how baseball works - can you tell?","Isaac curses a baseball team - not literally. None of my comics will ever have any swearing."],
         ["Seymour's First Ballgame","seymours_first_ballgame.svg","October 18, 2020","Another baseball sketch","ALBATROSS!"],
         ["Grammar Fight","grammar.svg","October 19, 2020","this be A grammar fight, if you couldn't Tell.","Isaac and Seymour have a grammar fight"],
-        ["TWO HUNDRED COMICS!","twohundred.svg","October 20, 2020","This is my two hundredth comic! Just another eight hundred more, eh? Also, <a href='https://xkcd.com'>Click here for XKCD</a>, <a href='https://thejenkinscomic.wordpress.com'>Click for The Jenkins</a>, <a href='https://www.gocomics.com/peanuts'>And click here for Peanuts, on Gocomics!</a>","It should be more like four hundred, but C'est La Vie"]
+        ["TWO HUNDRED COMICS!","twohundred.svg","October 20, 2020","This is my two hundredth comic! Just another eight hundred more, eh? Also, <a href='https://xkcd.com'>Click here for XKCD</a>, <a href='https://thejenkinscomic.wordpress.com'>Click for The Jenkins</a>, <a href='https://www.gocomics.com/peanuts'>And click here for Peanuts, on Gocomics!</a>","It should be more like four hundred, but C'est La Vie"],
+        ["Xfinity","xfinity.svg","October 21, 2020","No offence to Xfinity or its affiliates. I understand that at least one of your technicians must have at least the barest qualifications for being a technician.","Again, hard to explain"]
     ]
 }
