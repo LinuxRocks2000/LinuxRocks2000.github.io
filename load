@@ -96,7 +96,7 @@ class designsHtml:
                 $.getJSON("config.js",function(data){{
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                    var d={comicdate}.split(" ");
+                    var d="{comicdate}".split(" ");
                     if (parray.indexOf(d[0])>thedaysday.getMonth()){{
                         cap="top"
                     }}
