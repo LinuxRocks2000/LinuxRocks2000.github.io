@@ -200,6 +200,7 @@
         ["TWO HUNDRED COMICS!","twohundred.svg","October 20, 2020","This is my two hundredth comic! Just another eight hundred more, eh? Also, <a href='https://xkcd.com'>Click here for XKCD</a>, <a href='https://thejenkinscomic.wordpress.com'>Click for The Jenkins</a>, <a href='https://www.gocomics.com/peanuts'>And click here for Peanuts, on Gocomics!</a>","It should be more like four hundred, but C'est La Vie"],
         ["Xfinity","xfinity.svg","October 21, 2020","No offence to Xfinity or its affiliates. I understand that at least one of your technicians must have at least the barest qualifications for being a technician.","Again, hard to explain"],
         ["Cheese","cheese.svg","October 22, 2020","And what happens when moldy moldy moldy milk molds? Sweet dreams!","RBBONIDRC (Read Banned Books Or Not I Don't Really Care)"],
-        ["Harry Potter (SPOILER ALERT)","harry_potter.svg","October 23, 2020","The books are infinitely better than the movies. Don't watch the movies, read the books. Seriously.","Tweeeee!"]
+        ["Harry Potter (SPOILER ALERT)","harry_potter.svg","October 23, 2020","The books are infinitely better than the movies. Don't watch the movies, read the books. Seriously.","Tweeeee!"],
+        ["Browsers","browsers.svg","October 25, 2020","Another one of these. Positively exuberating, Eh?","I'm sorry I left the bag in the fridge!"]
     ]
 }
