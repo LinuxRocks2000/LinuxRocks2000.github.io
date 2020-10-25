@@ -108,7 +108,7 @@ class designsHtml:
                         var backrow=document.getElementById("backrow");
                         backrow.parentNode.removeChild(backrow);
                     }}
-                }}
+                }});
             </script>
             <script type="text/javascript">
             """+commantDat.read()+"""
