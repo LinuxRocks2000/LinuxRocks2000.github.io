@@ -201,6 +201,7 @@
         ["Xfinity","xfinity.svg","October 21, 2020","No offence to Xfinity or its affiliates. I understand that at least one of your technicians must have at least the barest qualifications for being a technician.","Again, hard to explain"],
         ["Cheese","cheese.svg","October 22, 2020","And what happens when moldy moldy moldy milk molds? Sweet dreams!","RBBONIDRC (Read Banned Books Or Not I Don't Really Care)"],
         ["Harry Potter (SPOILER ALERT)","harry_potter.svg","October 23, 2020","The books are infinitely better than the movies. Don't watch the movies, read the books. Seriously.","Tweeeee!"],
-        ["Browsers","browsers.svg","October 25, 2020","Another one of these. Positively exuberating, Eh?","I'm sorry I left the bag in the fridge!"]
+        ["Browsers","browsers.svg","October 25, 2020","Another one of these. Positively exuberating, Eh?","I'm sorry I left the bag in the fridge!"],
+        ["Time Travel","time_travel.svg","October 27, 2020","It is cruel to subject an innocent man to the power of a nerd.","Riley plays a prank on Isaac"]
     ]
 }
