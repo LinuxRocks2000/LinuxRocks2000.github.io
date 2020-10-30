@@ -203,6 +203,7 @@
         ["Harry Potter (SPOILER ALERT)","harry_potter.svg","October 23, 2020","The books are infinitely better than the movies. Don't watch the movies, read the books. Seriously.","Tweeeee!"],
         ["Browsers","browsers.svg","October 25, 2020","Another one of these. Positively exuberating, Eh?","I'm sorry I left the bag in the fridge!"],
         ["Time Travel","time_travel.svg","October 27, 2020","It is cruel to subject an innocent man to the power of a nerd.","Riley plays a prank on Isaac"],
-        ["Religion","religion.svg","October 28, 2020","Finally! I've done it! A comic that can offend anyone, no matter what their religious viewpoint!","Don't worry, this isn't actually offensive at all. (At least not if your intelligent.)"]
+        ["Religion","religion.svg","October 28, 2020","Finally! I've done it! A comic that can offend anyone, no matter what their religious viewpoint!","Don't worry, this isn't actually offensive at all. (At least not if your intelligent.)"],
+        ["Politics","politics.svg","Octover 30, 2020","Another one, Eh?","Just read the description for the last comic."]
     ]
 }
