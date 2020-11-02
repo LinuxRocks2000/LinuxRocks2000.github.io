@@ -205,6 +205,7 @@
         ["Time Travel","time_travel.svg","October 27, 2020","It is cruel to subject an innocent man to the power of a nerd.","Riley plays a prank on Isaac"],
         ["Religion","religion.svg","October 28, 2020","Finally! I've done it! A comic that can offend anyone, no matter what their religious viewpoint!","Don't worry, this isn't actually offensive at all. (At least not if your intelligent.)"],
         ["Politics","politics.svg","Octover 30, 2020","Another one, Eh?","Just read the description for the last comic."],
-        ["The Great Pumpkin","the_great_pumpkin.svg","October 31, 2020","And now you understand the joke - or not. Read the last two comics (including the titles) and you'll probably get it.","Fwip Fwip Fwip Fwip Fwip"]
+        ["The Great Pumpkin","the_great_pumpkin.svg","October 31, 2020","And now you understand the joke - or not. Read the last two comics (including the titles) and you'll probably get it.","Fwip Fwip Fwip Fwip Fwip"],
+        ["Date","date.svg","November 2, 2020","Isaac is still stupid.","Don't worry, this comic is 'child friendly'"]
     ]
 }
