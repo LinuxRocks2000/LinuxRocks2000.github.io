@@ -207,6 +207,7 @@
         ["Politics","politics.svg","Octover 30, 2020","Another one, Eh?","Just read the description for the last comic."],
         ["The Great Pumpkin","the_great_pumpkin.svg","October 31, 2020","And now you understand the joke - or not. Read the last two comics (including the titles) and you'll probably get it.","Fwip Fwip Fwip Fwip Fwip"],
         ["Date","date.svg","November 2, 2020","Isaac remains ridiculous.","Don't worry, this comic is 'child friendly'"],
-        ["Voting","voting_2020.svg","November 3, 2020","Actually, Isaac's speech was entirely copied from <a href='https://www.usa.gov/election'>https://www.usa.gov/election</a>. Click on the 'Primaries, Caucuses, and Political Conventions' button.","Remember to vote this year, because it really does matter."]
+        ["Voting","voting_2020.svg","November 3, 2020","Actually, Isaac's speech was entirely copied from <a href='https://www.usa.gov/election'>https://www.usa.gov/election</a>. Click on the 'Primaries, Caucuses, and Political Conventions' button.","Remember to vote this year, because it really does matter."],
+        ["Trekkie","trekkie.svg","November 5, 2020","Translating any or all of that speech will get the wrong result. I tested - the translators are not reversible. Think of Klingon like an MD5 hash, in that you could get a trillion possibilities for a file from the hash, but never get the real file.","Trekkieeeeeeeeees"]
     ]
 }

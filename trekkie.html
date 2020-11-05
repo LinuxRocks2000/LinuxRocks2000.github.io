@@ -10,9 +10,9 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">The Phantom of The Opera</p>
-                    <p id="comic-date">May 3, 2020</p>
-                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/the_phantom_of_the_opera.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-name">Trekkie</p>
+                    <p id="comic-date">November 5, 2020</p>
+                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/trekkie.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
@@ -22,14 +22,14 @@
                             d.parentNode.removeChild(d);
                         }
                     </script>
-                    <p id="comic-bottom">Sorry its been so long between posts. I'm remaking the website to be hosted on my own server, and being me I had to completely rewrite it.</p>
+                    <p id="comic-bottom">Translating any or all of that speech will get the wrong result. I tested - the translators are not reversible. Think of Klingon like an MD5 hash, in that you could get a trillion possibilities for a file from the hash, but never get the real file.</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="self-isolation">&lt;</a>
+                            <a class="navbutton" href="voting">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="hotel-california">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="trekkie">&gt;|</a>
                         </div>
                     </div>
@@ -51,11 +51,11 @@
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                    var d="May 3, 2020".split(" ");
+                    var d="November 5, 2020".split(" ");
                     if (parray.indexOf(d[0])>thedaysday.getMonth()){
                         cap="top"
                     }
@@ -76,7 +76,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,171);
+    _post(usernamefield.value,bodyfield.value,211);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -97,7 +97,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 171);
+    query.equalTo("comic", 211);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();
