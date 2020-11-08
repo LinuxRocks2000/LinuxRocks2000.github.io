@@ -10,9 +10,9 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Florida Trip part 2</p>
-                    <p id="comic-date">July 25, 2019</p>
-                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/florida_trip_2.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-name">Sayings</p>
+                    <p id="comic-date">November 7, 2020</p>
+                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/sayings.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
@@ -22,14 +22,14 @@
                             d.parentNode.removeChild(d);
                         }
                     </script>
-                    <p id="comic-bottom">Daily isn't so hard... Yet</p>
+                    <p id="comic-bottom">I wish I could have thought of something better for Geoffrey's saying. Suggestions in the comments - I could still edit this.</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="im-bored">&lt;</a>
+                            <a class="navbutton" href="trekkie">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="xenophobious-lovegood">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="sayings">&gt;|</a>
                         </div>
                     </div>
@@ -51,11 +51,11 @@
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                    var d="July 25, 2019".split(" ");
+                    var d="November 7, 2020".split(" ");
                     if (parray.indexOf(d[0])>thedaysday.getMonth()){
                         cap="top"
                     }
@@ -76,7 +76,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,15);
+    _post(usernamefield.value,bodyfield.value,212);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -97,7 +97,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 15);
+    query.equalTo("comic", 212);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();
