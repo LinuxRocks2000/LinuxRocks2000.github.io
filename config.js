@@ -211,6 +211,7 @@
         ["Trekkie","trekkie.svg","November 5, 2020","Translating any or all of that speech will get the wrong result. I tested - the translators are not reversible. Think of Klingon like an MD5 hash, in that you could get a trillion possibilities for a file from the hash, but never get the real file.","Trekkieeeeeeeeees"],
         ["Sayings","sayings.svg","November 7, 2020","I wish I could have thought of something better for Geoffrey's saying. Suggestions in the comments - I could still edit this.","Alby Twoss"],
         ["The Truth Today Edition 2","the_truth_today_2.svg","November 9, 2020","No offense to anyone. I don't mean to be rude or insulting - Dr. Seuss is actually really important to me and its wrong to call it rude. I chose the Sneetches as the book because the Sneetches is a book everyone should read as a child (not kidding, just try reading it and you'll understand) and naturally Pansy Communist would want to keep anyone from reading it. The other potentially rude jokes? Sattire. If its offensive? Sorry. You'll live.","Checkers on ice."],
-        ["Socially Distanced Turkey","social_distanced_turkey.svg","November 12, 2020","Todd the turkey, back from the dregs of 2019.","Isaac goes into the weird forest"]
+        ["Socially Distanced Turkey","social_distanced_turkey.svg","November 12, 2020","Todd the turkey, back from the dregs of 2019.","Isaac goes into the weird forest"],
+        ["Kroger Dungeon","kroger_dungeon.svg","November 14, 2020","No comment","Creativity is discouraged in the Kroger deli, as detailed in this comic..."]
     ]
 }
