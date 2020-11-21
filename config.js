@@ -215,6 +215,6 @@
         ["Kroger Dungeon","kroger_dungeon.svg","November 14, 2020","No comment","Creativity is discouraged in the Kroger deli, as detailed in this comic..."],
         ["Mechanic","mechanic.svg","November 16, 2020","Prank gone wrong.","Isaac annoys Katherine"],
         ["Thanksgiving Kickoff","thanksgiving_kickoff.svg","November 19, 2020","This is a reference to Peanuts, the comic strip. If you don't know Peanuts? Get a life.","Seymour gets turkey-bowled"],
-        ["If I Were A Superhero...","if_i_were_a_superhero.svg","November 21, 2020","*Recalls the days of the Upshutting*","Seymour makes a wish for <div style = \"background-color:black;color:black;width:100px;overflow-x:hidden;\">I can't believe you actually went to the trouble of finding this text...</div>"]
+        ["If I Were A Superhero...","if_i_were_a_superhero.svg","November 21, 2020","*Recalls the days of the Upshutting*","Seymour makes a wish for <div style = \"background-color:black;color:black;width:100px;height:16px;overflow-x:hidden;\">I can't believe you actually went to the trouble of finding this text...</div>"]
     ]
 }
