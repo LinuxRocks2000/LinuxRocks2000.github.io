@@ -216,6 +216,7 @@
         ["Mechanic","mechanic.svg","November 16, 2020","Prank gone wrong.","Isaac annoys Katherine"],
         ["Thanksgiving Kickoff","thanksgiving_kickoff.svg","November 19, 2020","This is a reference to Peanuts, the comic strip. If you don't know Peanuts? Get a life.","Seymour gets turkey-bowled"],
         ["If I Were A Superhero...","if_i_were_a_superhero.svg","November 21, 2020","*Recalls the days of the Upshutting*","Seymour makes a wish for <div style = \"background-color:black;color:black;width:100px;display:inline;overflow-x:hidden;\">I can't believe you actually went to the trouble of finding this text...</div>"],
-        ["Hitchhikers Guide To The Galaxy","hitchhikers_guide.svg","November 24, 2020","Thanksgiving is in two days.","Would it save you a lot of trouble if I just give up and go mad right now?"]
+        ["Hitchhikers Guide To The Galaxy","hitchhikers_guide.svg","November 24, 2020","Thanksgiving is in two days.","Would it save you a lot of trouble if I just give up and go mad right now?"],
+        ["I've Invented A Religion","ive_invented_religion.svg","November 27, 2020","No offense to anyone. This is, and will always be, harmless sattire. My comic is designed for people who can handle the fact that there can be more than one ideology, and consider certain religious jokes humorous. Made in jest, keep smiling.","Hard to explain"]
     ]
 }
