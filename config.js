@@ -220,6 +220,7 @@
         ["I've Invented A Religion","ive_invented_religion.svg","November 27, 2020","No offense to anyone. This is, and will always be, harmless sattire. My comic is designed for people who can handle the fact that there can be more than one ideology, and consider certain religious jokes humorous. Made in jest, keep smiling.","Hard to explain"],
         ["VR","vr.svg","November 29, 2020","I was originally going to make it V-track Record, until I found out that its actually 8-track. Makes me feel very millennial","IDK why I added these descriptions, because most of the jokes are hard to explain or easily spoiled"],
         ["Christmas Forest","christmas_forest.svg","December 1, 2020","CHRISTMAS SEASON TIME!!!!","Rudolph the red-nosed boxer"],
-        ["Karate","karate.svg","December 4, 2020","Sorry for the missed comic.","No explanation."]
+        ["Karate","karate.svg","December 4, 2020","Sorry for the missed comic.","No explanation."],
+        ["Oh Christmas Tree","oh_christmas_tree.svg","December 6, 2020","Actually, I'm not sure thats possible.","This is an extremely weird comic."]
     ]
 }
