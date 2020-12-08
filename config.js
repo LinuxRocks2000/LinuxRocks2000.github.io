@@ -221,6 +221,7 @@
         ["VR","vr.svg","November 29, 2020","I was originally going to make it V-track Record, until I found out that its actually 8-track. Makes me feel very millennial","IDK why I added these descriptions, because most of the jokes are hard to explain or easily spoiled"],
         ["Christmas Forest","christmas_forest.svg","December 1, 2020","CHRISTMAS SEASON TIME!!!!","Rudolph the red-nosed boxer"],
         ["Karate","karate.svg","December 4, 2020","Sorry for the missed comic.","No explanation."],
-        ["Oh Christmas Tree","oh_christmas_tree.svg","December 6, 2020","Actually, I'm not sure thats possible.","This is an extremely weird comic."]
+        ["Oh Christmas Tree","oh_christmas_tree.svg","December 6, 2020","Actually, I'm not sure thats possible.","This is an extremely weird comic."],
+        ["Marvin","marvin.svg","December 8, 2020","Read the hitchikers guide to the galaxy (book one in the trilogy of five) and you'll get this.","Book one in the trilogy of five - not."]
     ]
 }
