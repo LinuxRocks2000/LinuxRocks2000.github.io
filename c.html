@@ -10,9 +10,9 @@
             <script src="header.js"></script>
             <div id="comic-arena">
                 <div id="comic-shrinkwrapper">
-                    <p id="comic-name">Macrosomia</p>
-                    <p id="comic-date">October 10, 2019</p>
-                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/macrosomia.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    <p id="comic-name">C#</p>
+                    <p id="comic-date">December 16, 2020</p>
+                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/c_sharp.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
@@ -22,14 +22,14 @@
                             d.parentNode.removeChild(d);
                         }
                     </script>
-                    <p id="comic-bottom">Not as funny as usual. If you are a daily reader then you know this one was really, really late.</p>
+                    <p id="comic-bottom">Twist ending, Eh?</p>
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="sarah">&lt;</a>
+                            <a class="navbutton" href="coal">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="politicians-cruiser">&gt;</a>
+                            <a class="navbutton" href="none">&gt;</a>
                             <a class="navbutton" href="c">&gt;|</a>
                         </div>
                     </div>
@@ -51,11 +51,11 @@
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="none";
+                var cap="top";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
-                    var d="October 10, 2019".split(" ");
+                    var d="December 16, 2020".split(" ");
                     if (parray.indexOf(d[0])>thedaysday.getMonth()){
                         cap="top"
                     }
@@ -76,7 +76,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,89);
+    _post(usernamefield.value,bodyfield.value,229);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -97,7 +97,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 89);
+    query.equalTo("comic", 229);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();

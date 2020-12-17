@@ -225,6 +225,7 @@
         ["Marvin","marvin.svg","December 8, 2020","Read the hitchikers guide to the galaxy (book one in the trilogy of five) and you'll get this.","Book one in the trilogy of five - not."],
         ["Trolls 2","trolls_2.svg","December 10, 2020","I can't think of any movie more worthy of mocking than <i>Trolls 2</i>, and I haven't even seen it.","Not for five-year-old girls."],
         ["Gingerbread House","gingerbread_house.svg","December 12, 2020","Isaacs dad looks exactly like Isaac - Isaac is the one who holds the oven tray.","Smoking is really stupid."],
-        ["Coal","coal.svg","December 14, 2020","",""]
+        ["Coal","coal.svg","December 14, 2020","",""],
+        ["C#","c_sharp.svg","December 16, 2020","Twist ending, Eh?","I'm not in fact a Canadian - but I hope to move there someday."]
     ]
 }
