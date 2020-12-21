@@ -227,6 +227,7 @@
         ["Gingerbread House","gingerbread_house.svg","December 12, 2020","Isaacs dad looks exactly like Isaac - Isaac is the one who holds the oven tray.","Smoking is really stupid."],
         ["Coal","coal.svg","December 14, 2020","",""],
         ["C#","c_sharp.svg","December 16, 2020","Twist ending, Eh?","I'm not in fact a Canadian - but I hope to move there someday."],
-        ["Christmas Poem","christmas_poem.svg","December 18, 2020","I know its stupid and cheesy beyond belief. I couldn't think of anything else.","Don't read it if you think this is a quality comic."]
+        ["Christmas Poem","christmas_poem.svg","December 18, 2020","I know its stupid and cheesy beyond belief. I couldn't think of anything else.","Don't read it if you think this is a quality comic."],
+        ["Disgruntled Reindeer","disgruntled_reindeer.svg","December 20, 2020","Posts will likely be spotty for this week. I definitely won't be posting on the 24th/25th/26th.","You don't have to watch Christmas Vacation to get this comic, but you do have to watch Christmas Vacation to be a decent human being."]
     ]
 }
