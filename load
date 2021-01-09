@@ -53,7 +53,8 @@ class designsHtml:
                 <div id="comic-shrinkwrapper">
                     <p id="comic-name">{comicname}</p>
                     <p id="comic-date">{comicdate}</p>
-                    <object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/{graphiclink}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>
+                    {svgdata}
+                    <!-- broken:<object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/{graphiclink}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>-->
                     <script type="text/javascript">
                         var thedaysday=new Date();
                         var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
@@ -166,16 +167,16 @@ for x in data["comics"]:
     cap="none"
     comic=open(formatname(x[0])+'.html',"w+")
     base=data["comics"]
-    if base.index(x)!=0:
+    if base.index(x)==0:
         bbref=formatname(base[base.index(x)-1][0])
     else:
         cap="bottom"
         bbref="none"
-    if base.index(x)!=len(base)-1:
-        fbref=formatname(base[base.index(x)+1][0])
+    if base.index(x)==len(base)-1:
+        fbref=formatname(base[base.index(x)][0])
     else:
         cap="top"
         fbref="none"
-    comic.write(designsHtml.comic.format(comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
+    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
     comic.close()
 commantDat.close()
