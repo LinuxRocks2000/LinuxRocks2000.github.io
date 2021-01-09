@@ -53,7 +53,9 @@ class designsHtml:
                 <div id="comic-shrinkwrapper">
                     <p id="comic-name">{comicname}</p>
                     <p id="comic-date">{comicdate}</p>
+                    <div style="max-width:100%;">
                     {svgdata}
+                    </div>
                     <!-- broken:<object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/{graphiclink}'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>-->
                     <script type="text/javascript">
                         var thedaysday=new Date();
