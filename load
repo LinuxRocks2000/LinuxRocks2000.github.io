@@ -73,8 +73,8 @@ class designsHtml:
                             <a class="navbutton" href="{navback}">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="{navfastforward}">&gt;</a>
-                            <a class="navbutton" href="{navforward}">&gt;|</a>
+                            <a class="navbutton" href="{navforward}">&gt;</a>
+                            <a class="navbutton" href="{navfastforward}">&gt;|</a>
                         </div>
                     </div>
                     <h1 id="comments-text">Comments</h1>
@@ -100,9 +100,9 @@ class designsHtml:
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
                     var d="{comicdate}".split(" ");
-                    if (parray.indexOf(d[0])>thedaysday.getMonth()){{
+                    /*if (parray.indexOf(d[0])>thedaysday.getMonth()){{
                         cap="top"
-                    }}
+                    }}*/
                     if (cap=="top"){{
                         var backrow=document.getElementById("frontrow");
                         backrow.parentNode.removeChild(backrow);
@@ -169,16 +169,17 @@ for x in data["comics"]:
     cap="none"
     comic=open(formatname(x[0])+'.html',"w+")
     base=data["comics"]
-    if base.index(x)==0:
+    if base.index(x)!=0:
         bbref=formatname(base[base.index(x)-1][0])
     else:
         cap="bottom"
         bbref="none"
-    if base.index(x)==len(base)-1:
-        fbref=formatname(base[base.index(x)][0])
+    if base.index(x)!=len(base)-1:
+        fbref=formatname(base[base.index(x)+1][0])
+        print("FBREF:",fbref)
     else:
         cap="top"
         fbref="none"
-    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navfastforward=fbref,navforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
+    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navforward=fbref,navfastforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
     comic.close()
 commantDat.close()

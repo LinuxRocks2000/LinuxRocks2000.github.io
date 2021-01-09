@@ -4230,10 +4230,10 @@
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="none">&lt;</a>
+                            <a class="navbutton" href="world-domination-part-6">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="none">&gt;</a>
+                            <a class="navbutton" href="world-domination-part-8">&gt;</a>
                             <a class="navbutton" href="2020">&gt;|</a>
                         </div>
                     </div>
@@ -4255,14 +4255,14 @@
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="top";
+                var cap="none";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
                     var d="February 1, 2020".split(" ");
-                    if (parray.indexOf(d[0])>thedaysday.getMonth()){
+                    /*if (parray.indexOf(d[0])>thedaysday.getMonth()){
                         cap="top"
-                    }
+                    }*/
                     if (cap=="top"){
                         var backrow=document.getElementById("frontrow");
                         backrow.parentNode.removeChild(backrow);
