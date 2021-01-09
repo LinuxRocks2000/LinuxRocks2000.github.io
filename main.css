@@ -116,3 +116,6 @@ body {
         font-size:4em;
     }
 }
+svg{
+    width:100%;
+}
