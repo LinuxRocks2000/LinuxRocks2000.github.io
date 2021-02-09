@@ -229,8 +229,9 @@
         ["C#","c_sharp.svg","December 16, 2020","Twist ending, Eh?","I'm not in fact a Canadian - but I hope to move there someday."],
         ["Christmas Poem","christmas_poem.svg","December 18, 2020","I know its stupid and cheesy beyond belief. I couldn't think of anything else.","Don't read it if you think this is a quality comic."],
         ["Disgruntled Reindeer","disgruntled_reindeer.svg","December 20, 2020","Posts will likely be spotty for this week. I definitely won't be posting on the 24th/25th/26th.","You don't have to watch Christmas Vacation to get this comic, but you do have to watch Christmas Vacation to be a decent human being."],
-        ["2020","2020.svg","January 1, 2020","Yes, I know its been ten days. I only intend to post comics if I have a good idea. Important note: I definitely want to offend radical far-rightists. Normal republicans can easily be intelligent - I know this for a fact because one of the most intelligent people I know is a republican.","**** 2020 and lets not have a repeat."],
-        ["Methyl Alcohol","methyl_alcohol.svg","January 14, 2020","Ok, I know that was a bit long. And I also would like you to know that this comic is wildly inaccurate in every way but the part about decreasing alcoholism. Ruining supplies of alcoholic drinks is the best way to fix alcoholism.","Does not endorse alcoholism or otherwise drug use in any way."],
-        ["Chess","chess.svg","January 24, 2020","Inspired by a peanuts comic",""]
+        ["2020","2020.svg","January 1, 2021","Yes, I know its been ten days. I only intend to post comics if I have a good idea. Important note: I definitely want to offend radical far-rightists. Normal republicans can easily be intelligent - I know this for a fact because one of the most intelligent people I know is a republican.","**** 2020 and lets not have a repeat."],
+        ["Methyl Alcohol","methyl_alcohol.svg","January 14, 2021","Ok, I know that was a bit long. And I also would like you to know that this comic is wildly inaccurate in every way but the part about decreasing alcoholism. Ruining supplies of alcoholic drinks is the best way to fix alcoholism.","Does not endorse alcoholism or otherwise drug use in any way."],
+        ["Chess","chess.svg","January 24, 2020","Inspired by a peanuts comic",""],
+        ["Ultimate Question","ultimate_question.svg","February 9, 2021","I know its been far too long. I haven't had any good ideas recently.","Welcome to another hitchhikers reference"]
     ]
 }
