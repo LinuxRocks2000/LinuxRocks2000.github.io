@@ -9,6 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Build my website using a python script
-      run: |
-        echo Nothing to do. Close!
+    - name: jekyll-deploy-gh-pages
+      uses: BryanSchuetz/jekyll-deploy-gh-pages@v2.0
+
