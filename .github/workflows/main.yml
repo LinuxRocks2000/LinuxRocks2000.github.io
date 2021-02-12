@@ -9,6 +9,3 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: jekyll-deploy-gh-pages
-      uses: BryanSchuetz/jekyll-deploy-gh-pages@v2.0
-
