@@ -232,6 +232,7 @@
         ["2020","2020.svg","January 1, 2021","Yes, I know its been ten days. I only intend to post comics if I have a good idea. Important note: I definitely want to offend radical far-rightists. Normal republicans can easily be intelligent - I know this for a fact because one of the most intelligent people I know is a republican.","**** 2020 and lets not have a repeat."],
         ["Methyl Alcohol","methyl_alcohol.svg","January 14, 2021","Ok, I know that was a bit long. And I also would like you to know that this comic is wildly inaccurate in every way but the part about decreasing alcoholism. Ruining supplies of alcoholic drinks is the best way to fix alcoholism.","Does not endorse alcoholism or otherwise drug use in any way."],
         ["Chess","chess.svg","January 24, 2020","Inspired by a peanuts comic",""],
-        ["Ultimate Question","ultimate_question.svg","February 9, 2021","I know its been far too long. I haven't had any good ideas recently.","Welcome to another hitchhikers reference"]
+        ["Ultimate Question","ultimate_question.svg","February 9, 2021","I know its been far too long. I haven't had any good ideas recently.","Welcome to another hitchhikers reference"],
+        ["Seymour vs the Ultimate Question","seymour_vs_the_ultimate_question.svg","February 14, 2021","Note that there is a difference between what the question is for, and what the question actually is","The square root of the Universe"]
     ]
 }
