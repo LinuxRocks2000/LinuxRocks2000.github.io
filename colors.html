@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>LinuxRocks2000 Color Picker</title>
+        <link rel="stylesheet" href="colors.css">
+    </head>
+    <body>
+        <div id = "navbar">
+            <a href="/">
+                <img src="mycon.ico" id="imglink"/>
+            </a>
+            <button onclick="show(this)">Summer Colors</button>
+            <button onclick="show(this)">Spring Colors</button>
+            <button onclick="show(this)">Fall Colors</button>
+            <button onclick="show(this)">Winter Colors</button>
+            <button onclick="show(this)">Under The Ocean</button>
+        </div>
+        <div id="colors-outer">
+            <svg id="colors-summer">
+                <g id="bumblebee">
+                    <path d='M 30 0
+                    q -15 30 0 60
+                    l 20 0
+                    q 15 -30 0 -60' fill="black"></path>
+                    <path d='M 55 0
+                    q 15 30 0 60
+                    l 20 0
+                    q 15 -30 0 -60' fill="yellow"></path>
+                    <path d='M 80 0
+                    q 15 30 0 60
+                    l 20 0
+                    q 15 -30 0 -60' fill="black"></path>
+                    <path d='M 105 0
+                    q 15 30 0 60
+                    l 20 0
+                    q 15 -30 0 -60' fill="yellow"></path>
+                    <path d='M 135 0
+                    q 15 30 0 60
+                    c 45 0 45 -60 0 -60' fill="black"></path>
+                    <path d="M 135 0"></path>
+                </g>
+            </svg>
+            <svg id="colors-spring">
+
+            </svg>
+            <svg id="colors-fall">
+
+            </svg>
+            <svg id="colors-winter">
+
+            </svg>
+            <svg id="colors-ocean">
+
+            </svg>
+        </div>
+        <div id="shadowbox" class="hidden">
+            <span id="exit" onclick="document.getElementById('shadowbox').classList.add('hidden');Array.from(document.getElementById('table').children[1].children).forEach((item, i) => {item.parentNode.removeChild(item)})">X</span>
+            <table id="table" cellspacing="0">
+                <thead>
+                    <tr id="heading">
+                        <th>
+                            Property
+                        </th>
+                        <th>
+                            Demonstration
+                        </th>
+                        <th>
+                            Actual value
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <script type="text/javascript">
+            function show(self){
+                var outer = document.getElementById("colors-outer");
+                Array.from(outer.children).forEach((item, i) => {
+                    if (i == Array.from(document.getElementById("navbar").children).indexOf(self) - 1){
+                        item.classList.remove("hidden");
+                        var bbox = item.getBBox();
+                        console.log(bbox);
+                        item.setAttribute("width", bbox.width);
+                        item.setAttribute("height", bbox.height);
+                    }
+                    else if (!item.classList.contains("hidden")){
+                        item.classList.add("hidden");
+                    }
+                });
+            }
+            function colorClicked(item){
+                var shadow = document.getElementById("shadowbox");
+                shadow.classList.remove("hidden");
+                if (item.hasAttribute("fill")){ // Allows for any number of attribute values. Such as, I hope to implement font selection.
+                    var newRow = document.createElement("tr");
+                    shadow.children[1].children[1].appendChild(newRow);
+                    var newVal = document.createElement("td");
+                    newVal.innerText="Color";
+                    var newDemo = document.createElement("td");
+                    newDemo.innerHTML="<div style='height:30px;background-color: " + item.getAttribute("fill") + ";'></div>";
+                    var newACV = document.createElement("td");
+                    newACV.innerText=item.getAttribute("fill");
+                    newRow.appendChild(newVal);
+                    newRow.appendChild(newDemo);
+                    newRow.appendChild(newACV);
+                }
+                if (item.hasAttribute("stroke")){ // Allows for any number of attribute values. Such as, I hope to implement font selection.
+                    var newRow = document.createElement("tr");
+                    shadow.children[1].children[1].appendChild(newRow);
+                    var newVal = document.createElement("td");
+                    newVal.innerText="Stroke";
+                    var newDemo = document.createElement("td");
+                    newDemo.innerHTML="<div style='height:30px;background-color: " + item.getAttribute("stroke") + ";'></div>";
+                    var newACV = document.createElement("td");
+                    newACV.innerText=item.getAttribute("stroke");
+                    newRow.appendChild(newVal);
+                    newRow.appendChild(newDemo);
+                    newRow.appendChild(newACV);
+                }
+                if (item.hasAttribute("stroke-width")){ // Allows for any number of attribute values. Such as, I hope to implement font selection.
+                    var newRow = document.createElement("tr");
+                    shadow.children[1].children[1].appendChild(newRow);
+                    var newVal = document.createElement("td");
+                    newVal.innerText="Stroke Width";
+                    var newDemo = document.createElement("td");
+                    newDemo.innerHTML="<div style='height:" + item.getAttribute("stroke-width") + "px;background-color:black;'></div>";
+                    var newACV = document.createElement("td");
+                    newACV.innerText=item.getAttribute("stroke-width");
+                    newRow.appendChild(newVal);
+                    newRow.appendChild(newDemo);
+                    newRow.appendChild(newACV);
+                }
+            }
+            show(document.getElementById("navbar").children[1]);
+            Array.from(document.getElementById("colors-outer").children).forEach((item, i) => {
+                item.addEventListener("click", function(e){
+                    if (e.target !== e.currentTarget) {
+                        colorClicked(e.target);
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

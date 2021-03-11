@@ -234,6 +234,7 @@
         ["Chess","chess.svg","January 24, 2020","Inspired by a peanuts comic",""],
         ["Ultimate Question","ultimate_question.svg","February 9, 2021","I know its been far too long. I haven't had any good ideas recently.","Welcome to another hitchhikers reference"],
         ["Seymour vs the Ultimate Question","seymour_vs_the_ultimate_question.svg","February 14, 2021","Note that there is a difference between what the question is for, and what the question actually is","The square root of the Universe"],
-        ["The Test Subject","the_test_subject.svg","February 27, 2021","",""]
+        ["The Test Subject","the_test_subject.svg","February 27, 2021","",""],
+        ["The Truth Today Edition 3","the_truth_today_3.svg","March 11, 2021","For other news, visit Weekly World News.","I know its been too long. But heres a good long one to dry your tears."]
     ]
 }
