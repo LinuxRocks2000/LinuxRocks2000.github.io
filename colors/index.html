@@ -3,12 +3,12 @@
     <head>
         <meta charset="utf-8">
         <title>LinuxRocks2000 Color Picker</title>
-        <link rel="stylesheet" href="colors.css">
+        <link rel="stylesheet" href="main.css">
     </head>
     <body>
         <div id = "navbar">
             <a href="/">
-                <img src="mycon.ico" id="imglink"/>
+                <img src="../mycon.ico" id="imglink"/>
             </a>
             <button onclick="show(this)">Summer Colors</button>
             <button onclick="show(this)">Spring Colors</button>
@@ -17,42 +17,6 @@
             <button onclick="show(this)">Under The Ocean</button>
         </div>
         <div id="colors-outer">
-            <svg id="colors-summer">
-                <g id="bumblebee">
-                    <path d='M 30 0
-                    q -15 30 0 60
-                    l 20 0
-                    q 15 -30 0 -60' fill="black"></path>
-                    <path d='M 55 0
-                    q 15 30 0 60
-                    l 20 0
-                    q 15 -30 0 -60' fill="yellow"></path>
-                    <path d='M 80 0
-                    q 15 30 0 60
-                    l 20 0
-                    q 15 -30 0 -60' fill="black"></path>
-                    <path d='M 105 0
-                    q 15 30 0 60
-                    l 20 0
-                    q 15 -30 0 -60' fill="yellow"></path>
-                    <path d='M 135 0
-                    q 15 30 0 60
-                    c 45 0 45 -60 0 -60' fill="black"></path>
-                    <path d="M 135 0"></path>
-                </g>
-            </svg>
-            <svg id="colors-spring">
-
-            </svg>
-            <svg id="colors-fall">
-
-            </svg>
-            <svg id="colors-winter">
-
-            </svg>
-            <svg id="colors-ocean">
-
-            </svg>
         </div>
         <div id="shadowbox" class="hidden">
             <span id="exit" onclick="document.getElementById('shadowbox').classList.add('hidden');Array.from(document.getElementById('table').children[1].children).forEach((item, i) => {item.parentNode.removeChild(item)})">X</span>
@@ -140,6 +104,17 @@
                         colorClicked(e.target);
                     }
                 });
+            });
+            ["summer"].forEach((item, i) => {
+                xml = new XMLHttpRequest();
+                xml.addEventListener("load", function(){
+                    document.getElementById("colors-outer").innerHTML += this.responseText; // Add an svg
+                });
+                xml.open("GET", "images/" + item + "-colors.svg");
+                xml.send();
+            });
+            Array.from(document.getElementsByTagName("svg")).forEach((item, i) => {
+                item.viewBox = "";
             });
         </script>
     </body>
