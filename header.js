@@ -16,6 +16,7 @@ header_div_bottom.innerHTML=`
 <div id="navbar-wrapper" style="height:100%; display:inline-block;">
     <div id="navbar-pinks" style="display:block; margin-top:75%;">
         <a href="https://linuxrocks2000.github.io/" class="header-links">Home</a>
+        <a href="/blog/" class="header-links">Blog</a>
     </div>
 </div>
 `;
