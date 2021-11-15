@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Telepathy Analyzer</title>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <div id="content">
+            <h1>The Totally Fair Telepathy Analyzer</h1>
+            <p>
+                A -duh- totally fair telepathy analyzer; official test pending.<br />
+                How is it totally fair? Because the number is cached, so if you are a psychic you can "feel" it.<br />
+                Further, the statistics are shown just for you, so even expert mathematicians will be confused!<br />
+                Simply click the right button. The percentage you get right is shown in a progress bar, and the percentages of the two buttons are shown as well. Plus some other useless numbers.<br />
+                Note that the number is a Boolean. I don't know how it is stored in memory; probably a 1 or a 0 byte. True is red, False is green.<br />
+                "Testing" people will probably test strong for Red and weak for Green, but you should always experiment with it.<br />
+                Guess psychics like myself will do better if they already have a bit of code experience or experience with the system, so you should probably start by strong-testing.<br />
+                Note that this is a statistically significant test as normal distribution rate at 100,000 passes is 49.9569999 and accuracy is 50.04, this assumes that you are right 50% of the time and wrong 50% of the time.<br />
+            </p>
+            <h2>Play below!</h2>
+            <div id = "game">
+                <p id = "distributionLabel">
+                    Distribution:
+                </p>
+                <div id = "computerPercentage">
+                    <div id = "side" style = "width: 50%;">
+                        <div id = "slider">
+
+                        </div>
+                    </div>
+                </div>
+                <div id = "button1" onclick = "button1Press()">
+
+                </div>
+                <p id = "tries">
+                    0
+                </p>
+                <div id = "button2" onclick = "button2Press()">
+
+                </div>
+                <p id = "yourPercentageLabel">
+                    Accuracy:
+                </p>
+                <div id = "yourPercentage">
+                    <div id = "side" style = "width: 50%;">
+                        <div id = "slider">
+
+                        </div>
+                    </div>
+                </div>
+                <p id = "yourTelepathyValue">
+
+                </p>
+            </div>
+            <br />
+            <br />
+            By Tyler Clarke; don't be offended.<br />
+            It's ok to eat fish because they don't have any feelings.
+        </div>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
