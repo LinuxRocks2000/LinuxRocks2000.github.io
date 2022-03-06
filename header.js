@@ -1,5 +1,5 @@
-self=document.currentScript;
-header_div_bottom=document.createElement("div");
+var self=document.currentScript;
+var header_div_bottom=document.createElement("div");
 self.parentNode.appendChild(header_div_bottom);
 header_div_bottom.id="header";
 header_div_bottom.setAttribute("style",`
@@ -14,9 +14,10 @@ header_div_bottom.innerHTML=`
 
 <img src="mycon.ico" height=100% style="float:left; padding-left:50px;"/>
 <div id="navbar-wrapper" style="height:100%; display:inline-block;">
-    <div id="navbar-pinks" style="display:block; margin-top:75%;">
+    <div id="navbar-pinks" style="display:block; position: relative; top:50%; transform:translate(0, -50%);">
         <a href="https://linuxrocks2000.github.io/" class="header-links">Home</a>
         <a href="/blog/" class="header-links">Blog</a>
+        <a href="/platformer/platformer-game" class="header-links">Platformer</a>
     </div>
 </div>
 `;
