@@ -147,7 +147,7 @@ for x in reversed(data["comics"]):
 <div class="link-wrapper">
     <div class="link-wrapper-inner">
         <a onmouseover="expandLink(this)" onmouseout="shrinkLink(this)" class="comic-link" href=\""""+formatname(x[0])+"""">
-            """+x[0]+"""
+            """ + str(data["comics"].index(x) + 1) + ": " + x[0]+"""
         </a>
         <div class="expander">
             """+x[4]+"""

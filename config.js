@@ -237,6 +237,7 @@
         ["The Test Subject","the_test_subject.svg","February 27, 2021","",""],
         ["The Truth Today Edition 3","the_truth_today_3.svg","March 11, 2021","For other news, visit Weekly World News.","I know its been too long. But heres a good long one to dry your tears."],
         ["April Fools 2021","april_fools_2021.svg","January 41, 2200","Guess what? I've decided to start posting twice daily, to make up for my missed days!","I'm so glad people don't read this comic."],
-        ["Cutest Baby", "cutest_baby.svg","April 15, 2021", "I really need to start posting more often","Seymour mathematically represents cuteness."]
+        ["Cutest Baby", "cutest_baby.svg","April 15, 2021", "I really need to start posting more often","Seymour mathematically represents cuteness."],
+        ["Linuxrocks2000 Is Back", "linuxrocks_is_back.svg", "March 6, 2022", "After almost a year, the comic is back! I abandoned it when I thought nobody was actively reading it, having lost interest myself, but here it is again! I'll try to post at least once a week but I've picked up a number of commitments over this year and I don't know if I can. This reincarnation was largely spurred by the comments from new readers, some of whom I don't know in real life; which I consider to be a large hallmark in this still-infant comic. Thanks for reading!", "Turkeys and Microsoft Lackeys, we're back!"]
     ]
 }
