@@ -18,6 +18,7 @@ header_div_bottom.innerHTML=`
         <a href="https://linuxrocks2000.github.io/" class="header-links">Home</a>
         <a href="/blog/" class="header-links">Blog</a>
         <a href="/platformer/platformer-game" class="header-links">Platformer</a>
+        <a href="changelog.html" class="header-links">Change Log</a>
     </div>
 </div>
 `;
