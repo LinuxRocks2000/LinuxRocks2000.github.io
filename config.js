@@ -239,6 +239,7 @@
         ["April Fools 2021","april_fools_2021.svg","January 41, 2200","Guess what? I've decided to start posting twice daily, to make up for my missed days!","I'm so glad people don't read this comic."],
         ["Cutest Baby", "cutest_baby.svg","April 15, 2021", "I really need to start posting more often","Seymour mathematically represents cuteness."],
         ["Linuxrocks2000 Is Back", "linuxrocks_is_back.svg", "March 6, 2022", "After almost a year, the comic is back! I abandoned it when I thought nobody was actively reading it, having lost interest myself, but here it is again! I'll try to post at least once a week but I've picked up a number of commitments over this year and I don't know if I can. This reincarnation was largely spurred by the comments from new readers, some of whom I don't know in real life; which I consider to be a large hallmark in this still-infant comic. Thanks for reading!", "Turkeys and Microsoft Lackeys, we're back!"],
-        ["HAM License", "ham_radio_license.svg", "March 7, 2022", "You've probably noticed that the text isn't broken any more. I finally snapped and started using path > object to path on all the text, I use Inkscape, so now there aren't any font issues.", "Seymour has strange reasons."]
+        ["HAM License", "ham_radio_license.svg", "March 7, 2022", "You've probably noticed that the text isn't broken any more. I finally snapped and started using path > object to path on all the text, I use Inkscape, so now there aren't any font issues.", "Seymour has strange reasons."],
+   	["Isaac's Age", "isaacs_age.svg", "March 14, 2022", "Nigel didn't know what he was getting into.", "Isaac and Nigel talk about Isaac's age"]
     ]
 }
