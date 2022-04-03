@@ -96,7 +96,17 @@ body {
     margin-left:50px;
     margin-right:50px;
     word-break:break-all;
+}/*
+#comiclist, #idle-chatter {
+    width: 10px;
+    background-color: lightblue;
+    overflow: hidden;
+    min-height: 100vh;
 }
+#comiclist:hover, #idle-chatter:hover {
+    width: calc(100vw - 10px);
+    background-color: transparent;
+}*/
 #comments-arena{
     text-align:center;
     column-count:1;
@@ -110,6 +120,9 @@ body {
 }
 .username_p{
     border-bottom:2px solid black;
+}
+body{
+    overflow-x: hidden;
 }
 @media (hover:none){
     .comic-link{

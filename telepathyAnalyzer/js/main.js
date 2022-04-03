@@ -41,9 +41,33 @@ function doProcessingPerPress(value){
     nextNumber = Math.random() < 0.5;
 }
 
-function button1Press(){
+function blonk(win, event){
+    var el = document.createElement("div");
+    el.classList.add("thumb");
+    el.classList.add("thumb" + (win ? "up" : "down"));
+    el.style.top = event.layerY - 75/2 + "px";
+    el.style.left = event.clientX - 75/2 + "px";
+    document.getElementById("otherstuff").appendChild(el);
+    setTimeout(() => {
+        el.parentNode.removeChild(el);
+    }, 1500);
+}
+
+function button1Press(event){
+    if (nextNumber == false){
+        blonk(true, event);
+    }
+    else{
+        blonk(false, event);
+    }
     doProcessingPerPress(false);
 }
-function button2Press(){
+function button2Press(event){
+    if (nextNumber == true){
+        blonk(true, event);
+    }
+    else{
+        blonk(false, event);
+    }
     doProcessingPerPress(true);
 }

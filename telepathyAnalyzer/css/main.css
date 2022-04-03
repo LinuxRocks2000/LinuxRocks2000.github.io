@@ -1,3 +1,14 @@
+@keyframes flyUp{
+    0%{
+        transform: translate(0, 0);
+        opacity: 100%;
+    }
+    100%{
+        transform: translate(0, -300px);
+        opacity: 0%;
+    }
+}
+
 html {
     min-width: 100%;
     height: 100%;
@@ -136,4 +147,26 @@ p {
 #yourTelepathyValue{
     text-align: center;
     grid-area: yourValue;
+}
+
+.butt:hover{
+    opacity: 50%;
+}
+
+.thumb{
+    position: absolute;
+    animation-name: flyUp;
+    animation-duration: 1.5s;
+}
+
+.thumbup{
+    background-image: url("../thumbsup.svg");
+    width: 75px;
+    height: 75px;
+}
+
+.thumbdown{
+    background-image: url("../thumbsdown.svg");
+    width: 75px;
+    height: 75px;
 }
