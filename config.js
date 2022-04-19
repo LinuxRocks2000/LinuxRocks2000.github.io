@@ -241,6 +241,7 @@
         ["Linuxrocks2000 Is Back", "linuxrocks_is_back.svg", "March 6, 2022", "After almost a year, the comic is back! I abandoned it when I thought nobody was actively reading it, having lost interest myself, but here it is again! I'll try to post at least once a week but I've picked up a number of commitments over this year and I don't know if I can. This reincarnation was largely spurred by the comments from new readers, some of whom I don't know in real life; which I consider to be a large hallmark in this still-infant comic. Thanks for reading!", "Turkeys and Microsoft Lackeys, we're back!"],
         ["HAM License", "ham_radio_license.svg", "March 7, 2022", "You've probably noticed that the text isn't broken any more. I finally snapped and started using path > object to path on all the text, I use Inkscape, so now there aren't any font issues.", "Seymour has strange reasons."],
    	["Isaac's Age", "isaacs_age.svg", "March 14, 2022", "Nigel didn't know what he was getting into.", "Isaac and Nigel talk about Isaac's age"],
-   	["Mike Drop", "mike_drop.svg", "March 21, 2022", "Dark humor day, eh? Sorry I've not posted in a week.", "Nigel drops his... never mind."]
+   	["Mike Drop", "mike_drop.svg", "March 21, 2022", "Dark humor day, eh? Sorry I've not posted in a week.", "Nigel drops his... never mind."],
+   	["Katherine's Treasured Run", "katherines-treasured-run.svg", "April 19, 2022", "Based on a true story (no, I did not miss the deadline, but it was close).", "Katherine finds a new addiction"]
     ]
 }
