@@ -242,6 +242,7 @@
         ["HAM License", "ham_radio_license.svg", "March 7, 2022", "You've probably noticed that the text isn't broken any more. I finally snapped and started using path > object to path on all the text, I use Inkscape, so now there aren't any font issues.", "Seymour has strange reasons."],
    	["Isaac's Age", "isaacs_age.svg", "March 14, 2022", "Nigel didn't know what he was getting into.", "Isaac and Nigel talk about Isaac's age"],
    	["Mike Drop", "mike_drop.svg", "March 21, 2022", "Dark humor day, eh? Sorry I've not posted in a week.", "Nigel drops his... never mind."],
-   	["Katherine's Treasured Run", "katherines-treasured-run.svg", "April 19, 2022", "Based on a true story (no, I did not miss the deadline, but it was close).", "Katherine finds a new addiction"]
+   	["Katherine's Treasured Run", "katherines-treasured-run.svg", "April 19, 2022", "Based on a true story (no, I did not miss the deadline, but it was close).", "Katherine finds a new addiction"],
+   	["Software Comparison", "software.svg", "May 27, 2022", "It's been a lot less than once a week. Sorry!", "Developers are superior to code enthusiasts"]
     ]
 }
