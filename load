@@ -164,6 +164,7 @@ file.close()
 print("Build the actual comic files in the comic directory.")
 for x in data["comics"]:
     print("Open comic = "+x[0]+", number = "+str(data["comics"].index(x)+1) + ", ",end="")
+    print("date: '" + x[2] + "'")
     if os.path.exists("webcomic/"+x[1]):
         print("\033[1;32mFILE EXISTS!\033[0m")
     else:
