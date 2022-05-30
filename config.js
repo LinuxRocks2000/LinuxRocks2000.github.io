@@ -245,6 +245,7 @@
    	["Katherine's Treasured Run", "katherines-treasured-run.svg", "April 19, 2022", "Based on a true story (no, I did not miss the deadline, but it was close).", "Katherine finds a new addiction"],
    	["Software Comparison", "software.svg", "May 27, 2022", "It's been a lot less than once a week. Sorry!", "Developers are superior to code enthusiasts"],
    	["True Love", "true-love.svg", "May 28, 2022", "Reviving some old story arcs!", "Her words, that cut sharper than any blade (and burn worse than electricity)"],
-   	["K-I-S-S-I-N-G", "K-I-S-S-I-N-G.svg", "May 29, 2022", "Once this story arc is over, I'm probably going to stop posting daily; this is only because I already made the comic for today.", "Isaac, Katherine, and Seymour annoy Stevenson"]
+   	["K-I-S-S-I-N-G", "K-I-S-S-I-N-G.svg", "May 29, 2022", "Once this story arc is over, I'm probably going to stop posting daily; this is only because I already made the comic for today.", "Isaac, Katherine, and Seymour annoy Stevenson"],
+   	["Sally and Stevenson - actual art!", "sally_and_stevenson_actual_art.svg", "May 30, 2022", "On the left is Sally, on the right is Stevenson (but you can't see him because he's invisible; you can just see his utensils. I know my art is still kindergartner-level, sorry!", "Yay some actual art"]
     ]
 }
