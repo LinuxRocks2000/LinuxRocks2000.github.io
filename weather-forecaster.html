@@ -4085,6 +4085,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "sallys-apartment";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "hey,-im";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Should I start making a comic book containing these <i>now</i> or later?</p>
                     <div id="navbuttons">

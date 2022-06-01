@@ -67,6 +67,18 @@ class designsHtml:
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }}
+                        window.addEventListener("keyup", (evt) => {{
+                            if (evt.key == "ArrowLeft"){{
+                                if (cap != "bottom"){{
+                                    window.location.href = "{navback}";
+                                }}
+                            }}
+                            else if (evt.key == "ArrowRight"){{
+                                if (cap != "top"){{
+                                    window.location.href = "{navforward}";
+                                }}
+                            }}
+                        }});
                     </script>
                     <p id="comic-bottom">{comicjoke}</p>
                     <div id="navbuttons">

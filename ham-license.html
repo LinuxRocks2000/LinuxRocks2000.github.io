@@ -4816,6 +4816,18 @@ HAM frequencies!"
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "linuxrocks2000-is-back";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "isaacs-age";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">You've probably noticed that the text isn't broken any more. I finally snapped and started using path > object to path on all the text, I use Inkscape, so now there aren't any font issues.</p>
                     <div id="navbuttons">

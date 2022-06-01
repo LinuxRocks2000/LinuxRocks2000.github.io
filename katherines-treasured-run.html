@@ -6401,6 +6401,18 @@ level while I wait."
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "mike-drop";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "software-comparison";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Based on a true story (no, I did not miss the deadline, but it was close).</p>
                     <div id="navbuttons">

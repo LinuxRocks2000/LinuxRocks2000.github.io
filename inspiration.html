@@ -3814,6 +3814,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "pier-part-4";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "smart-fridge";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I'm actually starting to run out of inspiration, so if anyone has an idea for a comic please post it in the comments :)</p>
                     <div id="navbuttons">

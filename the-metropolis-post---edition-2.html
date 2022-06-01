@@ -454,6 +454,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "barneys-job";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "a-good-plot";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I didn't have any other ideas today. The next one will be in exactly one week.</p>
                     <div id="navbuttons">

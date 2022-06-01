@@ -4171,6 +4171,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "isaacs-piano-part-3";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "the-metropolis-post---edition-3";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Don't worry... I haven't scrapped Isaac's Piano.</p>
                     <div id="navbuttons">

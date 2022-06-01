@@ -3977,6 +3977,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "florida-trip-part-6";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "florida-trip-part-8";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Nigel is starting to become a main character, but I'm not getting rid of Katherine or Seymour. Also, Sally is the girl with the glasses (in the fourth of july special she was carrying a 'Canada' sign.)</p>
                     <div id="navbuttons">

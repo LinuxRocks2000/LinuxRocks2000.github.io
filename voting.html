@@ -4321,6 +4321,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "date";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "trekkie";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Actually, Isaac's speech was entirely copied from <a href='https://www.usa.gov/election'>https://www.usa.gov/election</a>. Click on the 'Primaries, Caucuses, and Political Conventions' button.</p>
                     <div id="navbuttons">

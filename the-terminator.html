@@ -4415,6 +4415,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "pumpkin-time";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "the-truth-today-edition-1";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">*May or may not be anything like The Terminator*</p>
                     <div id="navbuttons">

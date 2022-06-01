@@ -4945,6 +4945,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "florida-trip-part-7";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "florida-trip-part-9";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">This comic breaks a lot of my personal records. It features all of the characters, takes place in a giant panel (only used once before), and has the longest animation (twenty speech bubbles). Also, it finally clarifies everyone's names.</p>
                     <div id="navbuttons">

@@ -4108,6 +4108,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "browsers";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "religion";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">It is cruel to subject an innocent man to the power of a nerd.</p>
                     <div id="navbuttons">

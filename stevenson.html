@@ -4016,6 +4016,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "nerd";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "nobel-prize";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">No offense intended to people with chronic depression. Also, this is my ONE HUNDRETH COMIC!!!</p>
                     <div id="navbuttons">

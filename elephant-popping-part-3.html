@@ -3950,6 +3950,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "computer-case";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "cheese-grater";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Sorry about the time. I will also be posting late tomorrow (or maybe late tonight).</p>
                     <div id="navbuttons">

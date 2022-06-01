@@ -3641,6 +3641,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "finding-barney-part-2";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "too-much-action";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I know its a blocky animation, but its my first one :)</p>
                     <div id="navbuttons">

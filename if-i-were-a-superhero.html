@@ -4118,6 +4118,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "thanksgiving-kickoff";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "hitchhikers-guide-to-the-galaxy";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">*Recalls the days of the Upshutting*</p>
                     <div id="navbuttons">

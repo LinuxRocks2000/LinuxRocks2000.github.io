@@ -4198,6 +4198,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "elephant-popping";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "computer-case";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">This has taken place as most complicated comic, with a full walk cycle and a multi frame setup.</p>
                     <div id="navbuttons">

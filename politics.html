@@ -4115,6 +4115,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "religion";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "the-great-pumpkin";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Another one, Eh?</p>
                     <div id="navbuttons">

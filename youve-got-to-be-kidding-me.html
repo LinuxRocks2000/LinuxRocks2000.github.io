@@ -3785,6 +3785,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "first-steps";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "insane";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Not my most inspired work. At the time of writing it is 9:20 pm.</p>
                     <div id="navbuttons">

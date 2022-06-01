@@ -3770,6 +3770,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "end-of-the-animations-not";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "finding-barney-part-2";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">No animation today, it takes a long time to make them and I have a busy day.</p>
                     <div id="navbuttons">

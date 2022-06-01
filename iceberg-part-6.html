@@ -3897,6 +3897,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "thanksgiving-2019-part-4";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "iceberg-part-7";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">More iceberg! I guess <i>animated</i> comics will soon be rare, instead of the vice versa.</p>
                     <div id="navbuttons">

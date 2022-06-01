@@ -6218,6 +6218,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "world-domination-part-18";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "programming-languages";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom"><small><i>*Star wars music playing*</i></small> As a little recap, Isaac pretended to be Seymour so he could steal the hat, which had a tranquilizer dart in it, and use it to disable David, then steal the stun gun from the other Microsoft Lackey and stun him.</p>
                     <div id="navbuttons">

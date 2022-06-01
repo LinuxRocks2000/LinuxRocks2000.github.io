@@ -3766,6 +3766,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "nobel-prize";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "weather-forecaster";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">(Stevenson has a crush on Sally)</p>
                     <div id="navbuttons">

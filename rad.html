@@ -3601,6 +3601,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "isaacs-piano-part-1";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "isaacs-piano-part-2";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Change of pace, eh? Don't worry, I will post more Isaac's Piano tomorrow. This is a random drawing I scrapped up from my desk drawer :)</p>
                     <div id="navbuttons">

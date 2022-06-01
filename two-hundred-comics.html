@@ -4237,6 +4237,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "grammar-fight";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "xfinity";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">This is my two hundredth comic! Just another eight hundred more, eh? Also, <a href='https://xkcd.com'>Click here for XKCD</a>, <a href='https://thejenkinscomic.wordpress.com'>Click for The Jenkins</a>, <a href='https://www.gocomics.com/peanuts'>And click here for Peanuts, on Gocomics!</a></p>
                     <div id="navbuttons">

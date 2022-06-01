@@ -6862,6 +6862,18 @@ sure?"
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "april-fools-2021";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "linuxrocks2000-is-back";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I really need to start posting more often</p>
                     <div id="navbuttons">

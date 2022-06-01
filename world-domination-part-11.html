@@ -4427,6 +4427,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "world-domination-part-10";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "world-domination-part-12";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">We just had an awesome snow day here in Atlanta. Sorry about the missed comic days, but today I will post several (this is the first for today)</p>
                     <div id="navbuttons">

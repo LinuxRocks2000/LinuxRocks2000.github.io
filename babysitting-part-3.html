@@ -5607,6 +5607,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "fourth-of-july-2019";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "babysitting-part-4";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I know its darker than the others, the idea is that the babies are taking over the world. The next one will be better, hopefully</p>
                     <div id="navbuttons">

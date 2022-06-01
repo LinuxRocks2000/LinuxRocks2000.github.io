@@ -4360,6 +4360,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "mr-shark";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "theology";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Wow... The entire month of September is almost over! I guess time flies when your an animator.</p>
                     <div id="navbuttons">

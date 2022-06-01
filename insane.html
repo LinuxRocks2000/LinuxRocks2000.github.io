@@ -3757,6 +3757,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "youve-got-to-be-kidding-me";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "insane-part-2";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Tis the season to be insane!</p>
                     <div id="navbuttons">

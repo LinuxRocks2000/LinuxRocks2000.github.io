@@ -4161,6 +4161,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "world-domination-part-4";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "katherines-hairdo";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Is upshutted a word? I think it would apply here...</p>
                     <div id="navbuttons">

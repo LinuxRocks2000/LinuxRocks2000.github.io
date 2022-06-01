@@ -4503,6 +4503,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "programming-languages";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "raspberrians";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I know I've been missing a lot of days. Expect comic posts to be kinda hit-or-miss for a while.</p>
                     <div id="navbuttons">

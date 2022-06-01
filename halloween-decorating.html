@@ -8826,6 +8826,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "species-of-the-week";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "pumpkin-time";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I told you that comic posts would be little to none for the rest of the week!</p>
                     <div id="navbuttons">

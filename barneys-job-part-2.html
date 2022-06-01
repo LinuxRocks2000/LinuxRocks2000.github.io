@@ -4076,6 +4076,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "a-good-plot";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "isaacs-piano-part-1";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I guess if I post every night, its like getting it really early the next day.</p>
                     <div id="navbuttons">

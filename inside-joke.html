@@ -5215,6 +5215,18 @@ isn't it?"
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "sally-and-stevenson---actual-art";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "none";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Another actual story arc begins tomorrow! <small>I hope, at least.</small></p>
                     <div id="navbuttons">

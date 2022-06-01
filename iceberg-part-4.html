@@ -4296,6 +4296,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "sheeple";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "iceberg-part-5";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">The extra guy is Isaac's twin brother, who I haven't run for a very long time.</p>
                     <div id="navbuttons">

@@ -4226,6 +4226,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "time-travel";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "politics";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Finally! I've done it! A comic that can offend anyone, no matter what their religious viewpoint!</p>
                     <div id="navbuttons">

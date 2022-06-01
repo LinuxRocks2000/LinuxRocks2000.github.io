@@ -86,6 +86,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "babysitting-part-2";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "fourth-of-july-2019";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Testing the use of Javascript to animate SVG images</p>
                     <div id="navbuttons">

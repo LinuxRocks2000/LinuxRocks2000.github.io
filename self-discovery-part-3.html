@@ -3877,6 +3877,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "self-discovery-part-2";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "self-discovery-part-4";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">More self discovery! (P.S: I don't recommend his method).</p>
                     <div id="navbuttons">

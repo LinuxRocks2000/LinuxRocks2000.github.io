@@ -3901,6 +3901,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "florida-trip-part-2";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "florida-trip-part-3";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Still going daily... It certainly makes time seem to go by slower.</p>
                     <div id="navbuttons">

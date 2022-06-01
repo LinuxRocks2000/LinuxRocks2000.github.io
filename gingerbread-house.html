@@ -5301,6 +5301,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "trolls-2";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "coal";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Isaacs dad looks exactly like Isaac - Isaac is the one who holds the oven tray.</p>
                     <div id="navbuttons">

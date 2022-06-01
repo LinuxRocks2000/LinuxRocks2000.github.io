@@ -4518,6 +4518,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "doctors-lounge";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "political-swearwords";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">The inspiration is from seeing an Ingles sign.</p>
                     <div id="navbuttons">

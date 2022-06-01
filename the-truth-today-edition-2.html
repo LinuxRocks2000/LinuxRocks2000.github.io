@@ -11450,6 +11450,18 @@ by the cranberries."
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "sayings";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "socially-distanced-turkey";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">No offense to anyone. I don't mean to be rude or insulting - Dr. Seuss is actually really important to me and its wrong to call it rude. I chose the Sneetches as the book because the Sneetches is a book everyone should read as a child (not kidding, just try reading it and you'll understand) and naturally Pansy Communist would want to keep anyone from reading it. The other potentially rude jokes? Sattire. If its offensive? Sorry. You'll live.</p>
                     <div id="navbuttons">

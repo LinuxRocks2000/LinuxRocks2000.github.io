@@ -3890,6 +3890,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "babysitting-part-4";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "im-bored";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">The daily thing is working so far... lets hope it keeps working!</p>
                     <div id="navbuttons">

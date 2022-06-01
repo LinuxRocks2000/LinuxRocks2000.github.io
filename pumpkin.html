@@ -681,6 +681,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "politicians-cruiser";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "first-steps";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Halloween is almost here! I'll make a real comic tomorrow.</p>
                     <div id="navbuttons">

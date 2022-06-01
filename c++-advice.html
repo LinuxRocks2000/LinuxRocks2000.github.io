@@ -4148,6 +4148,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "apple-sauce";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "language-of-the-universe";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Not intended for anyone who doesn't understand pointers.</p>
                     <div id="navbuttons">

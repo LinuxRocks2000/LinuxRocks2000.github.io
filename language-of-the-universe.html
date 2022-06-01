@@ -5693,6 +5693,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "c++-advice";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "species-of-the-week";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Warning: Comic posts will be few or none for the rest of the week.</p>
                     <div id="navbuttons">

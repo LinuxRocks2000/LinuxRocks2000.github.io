@@ -4615,6 +4615,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "marvin";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "gingerbread-house";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I can't think of any movie more worthy of mocking than <i>Trolls 2</i>, and I haven't even seen it.</p>
                     <div id="navbuttons">

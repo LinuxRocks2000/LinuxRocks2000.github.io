@@ -4238,6 +4238,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "iceberg-part-6";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "christmas-present";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Its almost Christmas! I guess it's time to deck out my comic with Christmas scenes</p>
                     <div id="navbuttons">

@@ -5335,6 +5335,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "grilling-advice";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "a-graph";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Dictatorship! Timocracy! Albatross!</p>
                     <div id="navbuttons">

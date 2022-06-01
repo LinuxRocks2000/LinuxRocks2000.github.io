@@ -4578,6 +4578,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "pier";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "pier-part-3";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Most of the dialogue is separate from the punch line. You have to wait about 3 seconds for the joke to conclude.</p>
                     <div id="navbuttons">

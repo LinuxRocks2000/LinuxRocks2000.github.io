@@ -4296,6 +4296,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "cheese";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "browsers";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">The books are infinitely better than the movies. Don't watch the movies, read the books. Seriously.</p>
                     <div id="navbuttons">

@@ -5504,6 +5504,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "world-domination-part-11";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "world-domination-part-13";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">This series is almost longer than Florida Trip!</p>
                     <div id="navbuttons">

@@ -4542,6 +4542,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "hitchhikers-guide-to-the-galaxy";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "vr";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">No offense to anyone. This is, and will always be, harmless sattire. My comic is designed for people who can handle the fact that there can be more than one ideology, and consider certain religious jokes humorous. Made in jest, keep smiling.</p>
                     <div id="navbuttons">

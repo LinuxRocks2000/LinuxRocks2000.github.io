@@ -3913,6 +3913,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "inflatable-mattress-part-4";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "mr-shark";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">A funny to make up for yesterday?</p>
                     <div id="navbuttons">

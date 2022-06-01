@@ -5047,6 +5047,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "the-truth-today-edition-1";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "linear-algebra";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I absolutely love those little circuit boards. 20 times the ram as an Uno, and they come with all the things that you can't fit on an Uno because there aren't enough analog pins. <a href='https://store.arduino.cc/usa/nano-33-iot'>Click here for the product page.</a></p>
                     <div id="navbuttons">

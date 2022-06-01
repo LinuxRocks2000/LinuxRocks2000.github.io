@@ -4030,6 +4030,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "advent-calendar";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "stu-brunswickson-part-3";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Sorry about the missed comics. My site was (and, at the moment, is) under renovation and at the time of writing I just got it working at the most basic functionality.</p>
                     <div id="navbuttons">

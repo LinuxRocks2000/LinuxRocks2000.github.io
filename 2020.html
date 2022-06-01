@@ -4501,6 +4501,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "disgruntled-reindeer";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "methyl-alcohol";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Yes, I know its been ten days. I only intend to post comics if I have a good idea. Important note: I definitely want to offend radical far-rightists. Normal republicans can easily be intelligent - I know this for a fact because one of the most intelligent people I know is a republican.</p>
                     <div id="navbuttons">

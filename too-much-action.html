@@ -3917,6 +3917,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "isaacs-walk-cycle-for-future-animations";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "political-cartoonism";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">This animation is even worse, but have you ever seen the Javascript code for a two-stage SVG animation with no external API's?</p>
                     <div id="navbuttons">

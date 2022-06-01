@@ -3972,6 +3972,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "smart-fridge";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "dawn-of-a-new-era";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I know this is a huge letdown. I animate the comics using pure JavaScript, a programming language, and I've never done anything like the comic I was going to post before. I will start working on an API which should make the complicated animations more common and reliable.</p>
                     <div id="navbuttons">

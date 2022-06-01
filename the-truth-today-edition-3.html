@@ -17437,6 +17437,18 @@ for you!"
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "the-test-subject";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "april-fools-2021";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">For other news, visit Weekly World News.</p>
                     <div id="navbuttons">

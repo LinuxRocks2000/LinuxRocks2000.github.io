@@ -4316,6 +4316,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "a-graph";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "isaacs-curse";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">As I walk through the valley where I harvest my grain, I take a look at my wife and realize she's very plain. But that's just perfect for an Amish like me, you know I shun fancy things like e-lec-tricity!</p>
                     <div id="navbuttons">

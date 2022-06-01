@@ -3754,6 +3754,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "xenophobious-lovegood";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "florida-trip-part-4";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Five days of daily posts... it feels like a lot more.</p>
                     <div id="navbuttons">

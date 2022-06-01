@@ -5653,6 +5653,18 @@ electrically."
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "software-comparison";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "k-i-s-s-i-n-g";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Reviving some old story arcs!</p>
                     <div id="navbuttons">

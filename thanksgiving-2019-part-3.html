@@ -4546,6 +4546,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "thanksgiving-2019-part-2";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "thanksgiving-2019-part-4";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">I suppose the Thanksgiving 2019 series is just a compilation of misadventures.</p>
                     <div id="navbuttons">

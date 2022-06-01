@@ -4598,6 +4598,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "2020";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "chess";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Ok, I know that was a bit long. And I also would like you to know that this comic is wildly inaccurate in every way but the part about decreasing alcoholism. Ruining supplies of alcoholic drinks is the best way to fix alcoholism.</p>
                     <div id="navbuttons">

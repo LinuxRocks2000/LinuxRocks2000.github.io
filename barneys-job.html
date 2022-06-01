@@ -3893,6 +3893,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "the-metropolis-post---edition-1";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "the-metropolis-post---edition-2";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Sorry about the missed yesterday. We have a kinda slow tech guy... The computer issues of a few days ago came back to haunt me. You know what they say: Fix it until it breaks, then fix it some more.</p>
                     <div id="navbuttons">

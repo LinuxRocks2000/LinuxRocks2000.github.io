@@ -3929,6 +3929,18 @@
                             var d=document.getElementById("comic");
                             d.parentNode.removeChild(d);
                         }
+                        window.addEventListener("keyup", (evt) => {
+                            if (evt.key == "ArrowLeft"){
+                                if (cap != "bottom"){
+                                    window.location.href = "florida-trip-part-5";
+                                }
+                            }
+                            else if (evt.key == "ArrowRight"){
+                                if (cap != "top"){
+                                    window.location.href = "florida-trip-part-7";
+                                }
+                            }
+                        });
                     </script>
                     <p id="comic-bottom">Was it tacky to bring back the old Florida Trip series?</p>
                     <div id="navbuttons">
