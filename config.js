@@ -247,6 +247,7 @@
    	["True Love", "true-love.svg", "May 28, 2022", "Reviving some old story arcs!", "Her words, that cut sharper than any blade (and burn worse than electricity)"],
    	["K-I-S-S-I-N-G", "K-I-S-S-I-N-G.svg", "May 29, 2022", "Once this story arc is over, I'm probably going to stop posting daily; this is only because I already made the comic for today.", "Isaac, Katherine, and Seymour annoy Stevenson"],
    	["Sally and Stevenson - actual art!", "sally_and_stevenson_actual_art.svg", "May 30, 2022", "On the left is Sally, on the right is Stevenson (but you can't see him because he's invisible; you can just see his utensils). I know my art is still kindergartner-level, sorry!", "Yay some actual art"],
-   	["Inside Joke", "inside_joke.svg", "May 31, 2022", "Another actual story arc begins tomorrow! <small>I hope, at least.</small>", "Just more awful humor."]
+   	["Inside Joke", "inside_joke.svg", "May 31, 2022", "Another actual story arc begins tomorrow! <small>I hope, at least.</small>", "Just more awful humor."],
+   	["Math Comparison", "math_comparison.svg", "Jun 2, 2022", "A new story arc didn't start on Wednesday. Sorry?", "I love calculus"]
     ]
 }
