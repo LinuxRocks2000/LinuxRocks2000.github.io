@@ -43,10 +43,13 @@ class designsHtml:
     """
     comic="""
     <!DOCTYPE html>
-    <html>
+    <html prefix="og: https://ogp.me/ns#">
         <head>
             <link rel="stylesheet" href="main.css">
-            <title>LinuxRocks2000 - A webcomic</title>
+            <title>LinuxRocks2000: {comicname}</title>
+            <meta property="og:title" content="{comicname}" />
+            <meta property="og:type" content="article" />
+            <meta type="og:image" content="{imageURL}" />
         </head>
         <body>
             <script type="text/javascript" src="https://npmcdn.com/parse/dist/parse.min.js"></script>
@@ -195,6 +198,6 @@ for x in data["comics"]:
     else:
         cap="top"
         fbref="none"
-    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navforward=fbref,navfastforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
+    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),imageURL="https://linuxrocks2000.github.io/webcomic/" + x[1],comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navforward=fbref,navfastforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
     comic.close()
 commantDat.close()
