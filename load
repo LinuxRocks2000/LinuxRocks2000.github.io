@@ -49,7 +49,11 @@ class designsHtml:
             <title>LinuxRocks2000: {comicname}</title>
             <meta property="og:title" content="{comicname}" />
             <meta property="og:type" content="article" />
-            <meta type="og:image" content="{imageURL}" />
+            <meta property="og:image" content="{imageURL}" />
+            <meta property="og:url" content="{thisURL}" />
+            <meta property="og:site_name" content="LinuxRocks2000" />
+            <meta property="og:image:alt" content="A comic by LinuxRocks2000" />
+            <meta property="og:description" content="A comic by LinuxRocks2000" />
         </head>
         <body>
             <script type="text/javascript" src="https://npmcdn.com/parse/dist/parse.min.js"></script>
@@ -198,6 +202,6 @@ for x in data["comics"]:
     else:
         cap="top"
         fbref="none"
-    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),imageURL="https://linuxrocks2000.github.io/webcomic/" + x[1],comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navforward=fbref,navfastforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
+    comic.write(designsHtml.comic.format(svgdata=open("webcomic/"+x[1]).read(),thisURL = "https://linuxrocks2000.github.io/" + formatname(x[0]), imageURL="https://linuxrocks2000.github.io/webcomic/" + x[1],comicdate=x[2],comicjoke=x[3],comicname=x[0],graphiclink=x[1],navfastback=formatname(base[0][0]),navback=bbref,navforward=fbref,navfastforward=formatname(base[-1][0]),cap=cap,comicnum=str(data["comics"].index(x)+1)))
     comic.close()
 commantDat.close()
