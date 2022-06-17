@@ -249,6 +249,7 @@
    	["Sally and Stevenson - actual art!", "sally_and_stevenson_actual_art.svg", "May 30, 2022", "On the left is Sally, on the right is Stevenson (but you can't see him because he's invisible; you can just see his utensils). I know my art is still kindergartner-level, sorry!", "Yay some actual art"],
    	["Inside Joke", "inside_joke.svg", "May 31, 2022", "Another actual story arc begins tomorrow! <small>I hope, at least.</small>", "Just more awful humor."],
    	["Math Comparison", "math_comparison.svg", "Jun 2, 2022", "A new story arc didn't start on Wednesday. Sorry?", "I love calculus"],
-   	["Bush Administration", "bush_administration.svg", "Jun 10, 2022", "Reading about the kind of crap Bush stained America with is horrifying.", "In-jokes at the Oval Office."]
+   	["Bush Administration", "bush_administration.svg", "Jun 10, 2022", "Reading about the kind of crap Bush stained America with is horrifying.", "In-jokes at the Oval Office."],
+   	["How it actually went", "marvel_rap_battle.svg", "Jun 17, 2022", "They shortened this scene to make it seem more meaningful. And yes, this is based on that strip in Rusty and Co where Mimic has a rap battle to save the universe.", "Marvel Rap Battle"]
     ]
 }
