@@ -250,6 +250,7 @@
    	["Inside Joke", "inside_joke.svg", "May 31, 2022", "Another actual story arc begins tomorrow! <small>I hope, at least.</small>", "Just more awful humor."],
    	["Math Comparison", "math_comparison.svg", "Jun 2, 2022", "A new story arc didn't start on Wednesday. Sorry?", "I love calculus"],
    	["Bush Administration", "bush_administration.svg", "Jun 10, 2022", "Reading about the kind of crap Bush stained America with is horrifying.", "In-jokes at the Oval Office."],
-   	["How it actually went", "marvel_rap_battle.svg", "Jun 17, 2022", "They shortened this scene to make it seem more meaningful. And yes, this is based on that strip in Rusty and Co where Mimic has a rap battle to save the universe.", "Marvel Rap Battle"]
+   	["How it actually went", "marvel_rap_battle.svg", "Jun 17, 2022", "They shortened this scene to make it seem more meaningful. And yes, this is based on that strip in Rusty and Co where Mimic has a rap battle to save the universe.", "Marvel Rap Battle"],
+   	["1000D Cross-over", "1000D_crossover.svg", "July 6, 2022", "Preston the Peckart is from <a href='https://brucewallenstein.github.io/1000D'>1000D</a> by Bruce Wallenstein and Grant Rajesh.", "Yay!"]
     ]
 }
