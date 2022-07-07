@@ -5660,7 +5660,7 @@ can see that."
                             }
                             else if (evt.key == "ArrowRight"){
                                 if (cap != "top"){
-                                    window.location.href = "none";
+                                    window.location.href = "price-hike";
                                 }
                             }
                         });
@@ -5672,8 +5672,8 @@ can see that."
                             <a class="navbutton" href="how-it-actually-went">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="none">&gt;</a>
-                            <a class="navbutton" href="1000d-cross-over">&gt;|</a>
+                            <a class="navbutton" href="price-hike">&gt;</a>
+                            <a class="navbutton" href="price-hike">&gt;|</a>
                         </div>
                     </div>
                     <h1 id="comments-text">Comments</h1>
@@ -5694,7 +5694,7 @@ can see that."
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="top";
+                var cap="none";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]
