@@ -4565,7 +4565,7 @@
                         window.addEventListener("keyup", (evt) => {
                             if (evt.key == "ArrowLeft"){
                                 if (cap != "bottom"){
-                                    window.location.href = "gingerbread-house";
+                                    window.location.href = "trolls-2";
                                 }
                             }
                             else if (evt.key == "ArrowRight"){
@@ -4579,7 +4579,7 @@
                     <div id="navbuttons">
                         <div id="backrow">
                             <a class="navbutton" href="screen-orientation">|&lt;</a>
-                            <a class="navbutton" href="gingerbread-house">&lt;</a>
+                            <a class="navbutton" href="trolls-2">&lt;</a>
                         </div>
                         <div id="frontrow">
                             <a class="navbutton" href="c">&gt;</a>
@@ -4629,7 +4629,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,228);
+    _post(usernamefield.value,bodyfield.value,227);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -4650,7 +4650,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 228);
+    query.equalTo("comic", 227);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();

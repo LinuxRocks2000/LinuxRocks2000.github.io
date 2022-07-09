@@ -6475,7 +6475,7 @@ const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,245);
+    _post(usernamefield.value,bodyfield.value,244);
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();
@@ -6496,7 +6496,7 @@ function _post(user,body,cmnum){
 }
 function load(){
     query = new Parse.Query(Comment);
-    query.equalTo("comic", 245);
+    query.equalTo("comic", 244);
     query.find().then((results) => {
         arena=document.getElementById("comments-arena");
         results.reverse();
