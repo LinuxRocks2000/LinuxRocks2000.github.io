@@ -251,6 +251,7 @@
    	["Bush Administration", "bush_administration.svg", "Jun 10, 2022", "Reading about the kind of crap Bush stained America with is horrifying.", "In-jokes at the Oval Office."],
    	["How it actually went", "marvel_rap_battle.svg", "Jun 17, 2022", "They shortened this scene to make it seem more meaningful. And yes, this is based on that strip in Rusty and Co where Mimic has a rap battle to save the universe.", "Marvel Rap Battle"],
    	["1000D Cross-over", "1000D_crossover.svg", "July 6, 2022", "Preston the Peckart is from <a href='https://brucewallenstein.github.io/1000D'>1000D</a> by Bruce Wallenstein and Grant Rajesh.", "Yay!"],
-   	["Price Hike", "slime_price_hike.svg", "July 7, 2022", "Yes, this is mocking Biden and the recent price increases. There are generally good reasons for such increases - it's definitely not benefiting washington - so this is just humor. Humor is bipartisan.", "Mr. President raises prices"]
+   	["Price Hike", "slime_price_hike.svg", "July 7, 2022", "Yes, this is mocking Biden and the recent price increases. There are generally good reasons for such increases - it's definitely not benefiting washington - so this is just humor. Humor is bipartisan.", "Mr. President raises prices"],
+   	["Praying", "praying.svg", "July 17, 2022", "Tee hee.", "Just some more religious humor."]
     ]
 }

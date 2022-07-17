@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Neopixel Tool by LinuxRocks2000</title>
+        <style media="screen">
+            .bleckchocks{
+                width: 30px;
+                height: 30px;
+                display: inline-block;
+                border-radius: 2px;
+                border: 1px solid grey;
+                margin: 1px;
+                padding: 1px;
+                line-height: none;
+            }
+            .bleckchocks.selected{
+                background-color: lightblue;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Use the neopixel grid below to select your neopixel arrangement, then click submit.</h2>
+        <div id="grid"></div>
+        <button id="submit" onclick = "calculate()">Submit</button>
+        <script type="text/javascript">
+            w = 10;
+            h = 7;
+            d = "";
+            for (var y = 0; y < h; y ++){
+                for (var x = 0; x < w; x++){
+                    d += "<div class='bleckchocks'></div>";
+                }
+                d += "<br />";
+            }
+            document.getElementById("grid").innerHTML = d;
+        </script>
+    </body>
+</html>
