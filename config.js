@@ -254,6 +254,7 @@
    	["Price Hike", "slime_price_hike.svg", "July 7, 2022", "Yes, this is mocking Biden and the recent price increases. There are generally good reasons for such increases - it's definitely not benefiting washington - so this is just humor. Humor is bipartisan.", "Mr. President raises prices"],
    	["Praying", "praying.svg", "July 17, 2022", "Tee hee.", "Just some more religious humor."],
    	["Lib'rals", "liberals.svg", "July 26, 2022", "Confused? Good, you'll have a reason to visit again.", "You should probably just read it, ya know?"],
-   	["Donny, Champion of the Universe", "donny-champion-of-the-universe.svg", "July 28, 2022", "I promise I'll continue the politics jokes soon, but here's the product of a math finals day.", "Donny, Champion of the Universe, commits some crimes."]
+   	["Donny, Champion of the Universe", "donny-champion-of-the-universe.svg", "July 28, 2022", "I promise I'll continue the politics jokes soon, but here's the product of a math finals day.", "Donny, Champion of the Universe, commits some crimes."],
+   	["Four Eyes", "four-eyes.svg", "August 3, 2022", "Just some little flashbacks to Isaac's childhood while I try to think of a punchline for the anticipated comic.", "Little Isaac terrorizes a 'bully'"]
     ]
 }
