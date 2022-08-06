@@ -256,6 +256,7 @@
    	["Lib'rals", "liberals.svg", "July 26, 2022", "Confused? Good, you'll have a reason to visit again.", "You should probably just read it, ya know?"],
    	["Donny, Champion of the Universe", "donny-champion-of-the-universe.svg", "July 28, 2022", "I promise I'll continue the politics jokes soon, but here's the product of a math finals day.", "Donny, Champion of the Universe, commits some crimes."],
    	["Four Eyes", "four-eyes.svg", "August 3, 2022", "Just some little flashbacks to Isaac's childhood while I try to think of a punchline for the anticipated comic.", "Little Isaac terrorizes a 'bully'"],
-   	["Young Isaac's Derivative", "derivatives.svg", "August 4, 2022", "I mean, he isn't wrong.", "Little Isaac terrorizes his class"]
+   	["Young Isaac's Derivative", "derivatives.svg", "August 4, 2022", "I mean, he isn't wrong.", "Little Isaac terrorizes his class"],
+   	["Percentages", "percentages.svg", "August 5, 2022", "Based loosely upon Captain America (the movie)", "Things get blown up"]
     ]
 }
