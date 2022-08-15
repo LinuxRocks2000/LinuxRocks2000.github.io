@@ -257,6 +257,7 @@
    	["Donny, Champion of the Universe", "donny-champion-of-the-universe.svg", "July 28, 2022", "I promise I'll continue the politics jokes soon, but here's the product of a math finals day.", "Donny, Champion of the Universe, commits some crimes."],
    	["Four Eyes", "four-eyes.svg", "August 3, 2022", "Just some little flashbacks to Isaac's childhood while I try to think of a punchline for the anticipated comic.", "Little Isaac terrorizes a 'bully'"],
    	["Young Isaac's Derivative", "derivatives.svg", "August 4, 2022", "I mean, he isn't wrong.", "Little Isaac terrorizes his class"],
-   	["Percentages", "percentages.svg", "August 5, 2022", "Based loosely upon Captain America (the movie)", "Things get blown up"]
+   	["Percentages", "percentages.svg", "August 5, 2022", "Based loosely upon Captain America (the movie)", "Things get blown up"],
+   	["Peter Piper", "peter-piper.svg", "August 15, 2022", "Peter Piper practices perfect patriotism while picking peanuts.<br><br>If any of you are Platformer fans, you'll be pleased to hear that I've started adding skins! They aren't available without a magic link, yet, but here's the LinuxRocks2000 one: <a href='https://linuxrocks2000.github.io/platformer/platformer-game/#skin=lr2k;'>[splooky scary magic link]</a>.", "Sarcastic twist on the classic nursery rhyme"]
     ]
 }
