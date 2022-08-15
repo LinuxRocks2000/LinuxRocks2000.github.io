@@ -5,9 +5,9 @@
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 793.74998 793.75004"
-   height="3000"
-   width="3000"
+   viewBox="0 0 1181.5339 816.05146"
+   height="3084.2888"
+   width="4465.6401"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="2475.5041"
+     inkscape:cy="2477.8406"
      inkscape:cx="3044.4378"
      inkscape:zoom="0.42799364"
      inkscape:pageshadow="2"
@@ -54,7 +54,8 @@
        steps="1"
        is_visible="true"
        id="path-effect1523"
-       effect="simplify" />
+       effect="simplify"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1481"
@@ -64,7 +65,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1477"
@@ -74,7 +76,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1473"
@@ -84,7 +87,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1469"
@@ -94,7 +98,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -104,7 +109,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1465"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1461"
@@ -114,7 +120,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -124,7 +131,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1443"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1437"
@@ -134,7 +142,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1492"
@@ -144,7 +153,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1629"
@@ -154,7 +164,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1557"
@@ -164,7 +175,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1553"
@@ -174,7 +186,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1545"
@@ -184,7 +197,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2227"
@@ -194,7 +208,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2219"
@@ -204,7 +219,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2215"
@@ -214,7 +230,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2211"
@@ -224,7 +241,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2207"
@@ -234,7 +252,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -244,7 +263,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect2203"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2199"
@@ -254,7 +274,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2195"
@@ -264,7 +285,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1474"
@@ -276,7 +298,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -288,7 +313,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1470"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1466"
@@ -300,7 +328,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -312,7 +343,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1462"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -324,7 +358,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1458"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1454"
@@ -336,7 +373,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -348,7 +388,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1450"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1446"
@@ -360,7 +403,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -372,7 +418,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1442"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1438"
@@ -384,7 +433,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -396,7 +448,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1434"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1430"
@@ -408,7 +463,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1426"
@@ -420,7 +478,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -432,7 +493,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1422"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1418"
@@ -444,7 +508,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -456,7 +523,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1414"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -468,7 +538,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1410"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1406"
@@ -480,7 +553,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -492,7 +568,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1402"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1398"
@@ -504,7 +583,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1394"
@@ -516,7 +598,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -528,7 +613,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1390"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1386"
@@ -540,7 +628,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -552,7 +643,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1382"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1378"
@@ -564,7 +658,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -576,7 +673,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1373"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1369"
@@ -588,7 +688,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -600,7 +703,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1365"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -612,7 +718,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1361"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1356"
@@ -624,7 +733,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -636,7 +748,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1352"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1348"
@@ -648,7 +763,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1343"
@@ -660,7 +778,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -672,7 +793,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1339"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1335"
@@ -684,7 +808,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -696,7 +823,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1330"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -708,7 +838,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1326"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1322"
@@ -720,7 +853,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -732,7 +868,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1318"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1314"
@@ -744,7 +883,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -756,7 +898,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1310"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1306"
@@ -768,7 +913,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -780,7 +928,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1302"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1298"
@@ -792,7 +943,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1294"
@@ -804,7 +958,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -816,7 +973,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1290"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1286"
@@ -828,7 +988,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -840,7 +1003,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1282"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -852,7 +1018,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1278"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1274"
@@ -864,7 +1033,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -876,7 +1048,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1270"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1266"
@@ -888,7 +1063,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1262"
@@ -900,7 +1078,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -912,7 +1093,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1258"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1254"
@@ -924,7 +1108,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -936,7 +1123,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1250"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1246"
@@ -948,7 +1138,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -960,7 +1153,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1242"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1238"
@@ -972,7 +1168,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -984,7 +1183,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1234"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -996,7 +1198,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1230"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1226"
@@ -1008,7 +1213,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1020,7 +1228,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1222"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1218"
@@ -1032,7 +1243,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1214"
@@ -1044,7 +1258,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1056,7 +1273,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1210"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1206"
@@ -1068,7 +1288,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1080,7 +1303,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1202"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1092,7 +1318,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1198"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1194"
@@ -1104,7 +1333,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1116,7 +1348,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1190"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1186"
@@ -1128,7 +1363,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1140,7 +1378,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1182"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1178"
@@ -1152,7 +1393,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1164,7 +1408,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1174"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1170"
@@ -1176,7 +1423,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1166"
@@ -1188,7 +1438,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1200,7 +1453,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1162"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1158"
@@ -1212,7 +1468,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1224,7 +1483,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1154"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1236,7 +1498,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1150"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1146"
@@ -1248,7 +1513,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1260,7 +1528,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1142"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1138"
@@ -1272,7 +1543,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1134"
@@ -1284,7 +1558,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1296,7 +1573,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1130"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1126"
@@ -1308,7 +1588,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1320,7 +1603,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1122"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1118"
@@ -1332,7 +1618,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1344,7 +1633,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1114"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1110"
@@ -1356,7 +1648,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1368,7 +1663,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1106"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1102"
@@ -1380,7 +1678,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1392,7 +1693,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1097"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1093"
@@ -1404,7 +1708,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1416,7 +1723,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1089"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1085"
@@ -1428,7 +1738,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1440,7 +1753,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1081"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1077"
@@ -1452,7 +1768,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1464,7 +1783,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1073"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1476,7 +1798,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1069"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1065"
@@ -1488,7 +1813,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1500,7 +1828,10 @@
        offset_points="1,0.13229167"
        is_visible="true"
        id="path-effect1061"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1057"
@@ -1512,7 +1843,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1524,7 +1858,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1053"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1049"
@@ -1536,7 +1873,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -1548,7 +1888,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1045"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1011"
@@ -1560,7 +1903,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1007"
@@ -1572,7 +1918,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1003"
@@ -1584,7 +1933,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -1594,7 +1946,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1067"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1063"
@@ -1604,7 +1957,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -1614,7 +1968,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1059"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1055"
@@ -1624,7 +1979,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -1634,7 +1990,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1051"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1047"
@@ -1644,7 +2001,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -1654,7 +2012,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1043"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1037"
@@ -1664,7 +2023,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1033"
@@ -1674,7 +2034,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -1684,7 +2045,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1029"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1025"
@@ -1694,7 +2056,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect106"
@@ -1704,7 +2067,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect1336"
@@ -1718,7 +2082,9 @@
        tang_offset="0.1"
        prop_units="false"
        vertical_pattern="true"
-       fuse_tolerance="0" />
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1334"
@@ -1728,7 +2094,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect1360"
@@ -1742,7 +2109,9 @@
        tang_offset="0"
        prop_units="false"
        vertical_pattern="true"
-       fuse_tolerance="0" />
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1358"
@@ -1752,7 +2121,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect1349"
@@ -1766,7 +2136,9 @@
        tang_offset="0"
        prop_units="false"
        vertical_pattern="true"
-       fuse_tolerance="0" />
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1347"
@@ -1776,7 +2148,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1096"
@@ -1786,7 +2159,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1092"
@@ -1796,7 +2170,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1088"
@@ -1806,7 +2181,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1084"
@@ -1816,7 +2192,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1080"
@@ -1826,7 +2203,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1076"
@@ -1836,7 +2214,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1072"
@@ -1846,7 +2225,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1068"
@@ -1856,7 +2236,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1064"
@@ -1866,7 +2247,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        simplifyJustCoalesce="false"
        simplifyindividualpaths="false"
@@ -1878,7 +2260,8 @@
        steps="1"
        is_visible="true"
        id="path-effect1044"
-       effect="simplify" />
+       effect="simplify"
+       lpeversion="0" />
     <inkscape:path-effect
        simplifyJustCoalesce="false"
        simplifyindividualpaths="false"
@@ -1890,7 +2273,8 @@
        steps="1"
        is_visible="true"
        id="path-effect880"
-       effect="simplify" />
+       effect="simplify"
+       lpeversion="0" />
     <inkscape:path-effect
        simplifyJustCoalesce="false"
        simplifyindividualpaths="false"
@@ -1902,7 +2286,8 @@
        steps="1"
        is_visible="true"
        id="path-effect1086"
-       effect="simplify" />
+       effect="simplify"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect862"
@@ -1914,7 +2299,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect858"
@@ -1926,7 +2312,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
@@ -1938,7 +2325,7 @@
       <path
          id="path1178"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -1953,7 +2340,7 @@
       <path
          id="path1174"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -1968,7 +2355,7 @@
       <path
          id="path1170"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -1983,7 +2370,7 @@
       <path
          id="path1166"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -1998,7 +2385,7 @@
       <path
          id="path891"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -2013,7 +2400,7 @@
       <path
          id="path888"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -2028,7 +2415,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1347-3"
@@ -2038,7 +2426,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect1349-6"
@@ -2052,7 +2441,9 @@
        tang_offset="0"
        prop_units="false"
        vertical_pattern="true"
-       fuse_tolerance="0" />
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2227-3"
@@ -2062,7 +2453,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2219-6"
@@ -2072,7 +2464,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2211-7"
@@ -2082,7 +2475,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2211-3"
@@ -2092,7 +2486,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2219-67"
@@ -2102,7 +2497,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2227-5"
@@ -2112,7 +2508,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2211-7-3"
@@ -2122,7 +2519,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2219-6-5"
@@ -2132,7 +2530,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2227-3-6"
@@ -2142,7 +2541,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1007-2"
@@ -2154,7 +2554,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2166,7 +2569,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1045-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1049-1"
@@ -2178,7 +2584,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2190,7 +2599,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1053-2"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2202,7 +2614,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1106-7"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1110-0"
@@ -2214,7 +2629,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2226,7 +2644,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1114-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1118-3"
@@ -2238,7 +2659,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2250,7 +2674,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1122-6"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1126-0"
@@ -2262,7 +2689,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2274,7 +2704,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1130-6"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1134-2"
@@ -2286,7 +2719,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1138-6"
@@ -2298,7 +2734,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2310,7 +2749,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1142-1"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1146-8"
@@ -2322,7 +2764,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2334,7 +2779,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1150-7"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2346,7 +2794,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1154-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1158-2"
@@ -2358,7 +2809,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2370,7 +2824,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1162-0"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1166-2"
@@ -2382,7 +2839,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1170-3"
@@ -2394,7 +2854,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2406,7 +2869,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1174-7"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1178-5"
@@ -2418,7 +2884,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2430,7 +2899,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1182-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1186-2"
@@ -2442,7 +2914,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2454,7 +2929,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1190-2"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1194-8"
@@ -2466,7 +2944,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2478,7 +2959,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1198-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2490,7 +2974,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1202-7"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1206-3"
@@ -2502,7 +2989,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2514,7 +3004,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1210-6"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1214-1"
@@ -2526,7 +3019,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1218-2"
@@ -2538,7 +3034,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2550,7 +3049,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1222-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1226-3"
@@ -2562,7 +3064,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2574,7 +3079,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1230-1"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2586,7 +3094,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1234-9"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1238-4"
@@ -2598,7 +3109,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2610,7 +3124,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1242-7"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1246-8"
@@ -2622,7 +3139,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2634,7 +3154,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1250-4"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1254-5"
@@ -2646,7 +3169,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2658,7 +3184,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1258-0"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1262-3"
@@ -2670,7 +3199,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1266-6"
@@ -2682,7 +3214,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2694,7 +3229,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1270-1"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect1274-0"
@@ -2706,7 +3244,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2718,7 +3259,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect1278-6"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4293"
@@ -2730,7 +3274,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2742,7 +3289,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4295"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4297"
@@ -2754,7 +3304,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2766,7 +3319,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4299"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2778,7 +3334,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4301"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4303"
@@ -2790,7 +3349,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2802,7 +3364,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4305"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4307"
@@ -2814,7 +3379,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2826,7 +3394,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4309"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4311"
@@ -2838,7 +3409,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2850,7 +3424,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4313"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4315"
@@ -2862,7 +3439,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4317"
@@ -2874,7 +3454,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2886,7 +3469,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4319"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4321"
@@ -2898,7 +3484,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2910,7 +3499,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4323"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2922,7 +3514,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4325"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4327"
@@ -2934,7 +3529,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2946,7 +3544,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4329"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4331"
@@ -2958,7 +3559,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4333"
@@ -2970,7 +3574,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -2982,7 +3589,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4335"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4337"
@@ -2994,7 +3604,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3006,7 +3619,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4339"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4341"
@@ -3018,7 +3634,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3030,7 +3649,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4343"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4345"
@@ -3042,7 +3664,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3054,7 +3679,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4347"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3066,7 +3694,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4349"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4351"
@@ -3078,7 +3709,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3090,7 +3724,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4353"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4355"
@@ -3102,7 +3739,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4357"
@@ -3114,7 +3754,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3126,7 +3769,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4359"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4361"
@@ -3138,7 +3784,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3150,7 +3799,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4363"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3162,7 +3814,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4365"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4367"
@@ -3174,7 +3829,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3186,7 +3844,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4369"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4371"
@@ -3198,7 +3859,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3210,7 +3874,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4373"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4375"
@@ -3222,7 +3889,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3234,7 +3904,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4377"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4379"
@@ -3246,7 +3919,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4381"
@@ -3258,7 +3934,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3270,7 +3949,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4383"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect4385"
@@ -3282,7 +3964,10 @@
        start_linecap_type="zerowidth"
        linejoin_type="extrp_arc"
        miter_limit="4"
-       end_linecap_type="zerowidth" />
+       end_linecap_type="zerowidth"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        end_linecap_type="zerowidth"
        miter_limit="4"
@@ -3294,7 +3979,10 @@
        offset_points="1,0.084079626"
        is_visible="true"
        id="path-effect4387"
-       effect="powerstroke" />
+       effect="powerstroke"
+       lpeversion="0"
+       not_jump="false"
+       scale_width="1" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1037-3"
@@ -3304,7 +3992,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3314,7 +4003,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1043-2"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1047-0"
@@ -3324,7 +4014,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3334,7 +4025,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1051-6"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1055-1"
@@ -3344,7 +4036,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3354,7 +4047,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1059-5"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1063-5"
@@ -3364,7 +4058,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3374,7 +4069,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1067-4"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect4397"
@@ -3384,7 +4080,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3394,7 +4091,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect4399"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect4401"
@@ -3404,7 +4102,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3414,7 +4113,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect4403"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect4405"
@@ -3424,7 +4124,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3434,7 +4135,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect4407"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect4409"
@@ -3444,7 +4146,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3454,7 +4157,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect4411"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1033-7"
@@ -3464,7 +4168,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3474,7 +4179,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1029-6"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1025-5"
@@ -3484,7 +4190,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect106-6"
@@ -3494,7 +4201,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1347-9"
@@ -3504,7 +4212,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect1349-3"
@@ -3518,7 +4227,9 @@
        tang_offset="0"
        prop_units="false"
        vertical_pattern="true"
-       fuse_tolerance="0" />
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect853-7"
@@ -3530,7 +4241,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect853-7-3"
@@ -3542,7 +4254,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect853-7-3-3"
@@ -3554,7 +4267,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1370-6"
@@ -3564,7 +4278,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3574,7 +4289,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1791"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3584,7 +4300,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1787"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3594,7 +4311,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect1783"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1749"
@@ -3604,7 +4322,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1347-7"
@@ -3614,7 +4333,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect1349-5"
@@ -3628,7 +4348,9 @@
        tang_offset="0"
        prop_units="false"
        vertical_pattern="true"
-       fuse_tolerance="0" />
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2786-6"
@@ -3638,7 +4360,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3648,7 +4371,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect2790-7"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2794-5"
@@ -3658,7 +4382,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
@@ -3668,7 +4393,8 @@
        weight="33.333333"
        is_visible="true"
        id="path-effect2798-3"
-       effect="bspline" />
+       effect="bspline"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2802-5"
@@ -3678,7 +4404,8 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect853-7-3-3-3"
@@ -3690,7 +4417,8 @@
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
-       simplifyJustCoalesce="false" />
+       simplifyJustCoalesce="false"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect1457"
@@ -3762,7 +4490,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,496.75005)">
+     transform="translate(1.1920929e-7,496.75005)">
     <g
        id="g1140"
        transform="translate(85.725048,4.7625003)" />
@@ -3770,8 +4498,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="background"
-     transform="translate(0,-5.0000006e-6)">
+     inkscape:label="background">
     <flowRoot
        xml:space="preserve"
        id="flowRoot855"
@@ -3840,12 +4567,12 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.32292"
          x="316.50629"
-         y="215.14871"
+         y="215.1487"
          id="tspan3704" /></text>
     <path
        id="path3816"
        style="fill:none;stroke:#000000;stroke-width:1.32292"
-       d="M 316.60032 80.992995 A 160.1248 69.056023 0 0 0 156.47521 150.04873 A 160.1248 69.056023 0 0 0 204.07075 199.15994 L 185.89357 252.46315 L 244.81555 211.76124 A 160.1248 69.056023 0 0 0 316.60032 219.10498 A 160.1248 69.056023 0 0 0 476.72491 150.04873 A 160.1248 69.056023 0 0 0 316.60032 80.992995 z " />
+       d="m 316.60032,80.992995 a 160.1248,69.056023 0 0 0 -160.12511,69.055735 160.1248,69.056023 0 0 0 47.59554,49.11121 l -18.17718,53.30321 58.92198,-40.70191 a 160.1248,69.056023 0 0 0 71.78477,7.34374 160.1248,69.056023 0 0 0 160.12459,-69.05625 160.1248,69.056023 0 0 0 -160.12459,-69.055735 z" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect3876"
@@ -3908,7 +4635,7 @@
     <path
        id="path3924"
        style="fill:none;stroke:#000000;stroke-width:1.32292"
-       d="M 830.25218 99.789781 A 128.4247 80.285912 0 0 0 701.82745 180.07584 A 128.4247 80.285912 0 0 0 830.25218 260.36189 A 128.4247 80.285912 0 0 0 919.24881 237.91417 L 976.83289 260.03478 L 944.26176 217.03069 A 128.4247 80.285912 0 0 0 958.6769 180.07584 A 128.4247 80.285912 0 0 0 830.25218 99.789781 z " />
+       d="m 830.25218,99.789781 a 128.4247,80.285912 0 0 0 -128.42473,80.286059 128.4247,80.285912 0 0 0 128.42473,80.28605 128.4247,80.285912 0 0 0 88.99663,-22.44772 l 57.58408,22.12061 -32.57113,-43.00409 A 128.4247,80.285912 0 0 0 958.6769,180.07584 128.4247,80.285912 0 0 0 830.25218,99.789781 Z" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect4582"
@@ -4034,7 +4761,7 @@
     <path
        id="path6950"
        style="fill:none;stroke:#000000;stroke-width:1.32292"
-       d="M 986.80748 457.7731 A 148.40051 64.736565 0 0 0 838.40723 522.50972 A 148.40051 64.736565 0 0 0 947.68687 584.94622 L 931.87285 665.17492 L 992.77249 587.16107 A 148.40051 64.736565 0 0 0 1135.2082 522.50972 A 148.40051 64.736565 0 0 0 986.80748 457.7731 z " />
+       d="m 986.80748,457.7731 a 148.40051,64.736565 0 0 0 -148.40025,64.73662 148.40051,64.736565 0 0 0 109.27964,62.4365 l -15.81402,80.2287 60.89964,-78.01385 A 148.40051,64.736565 0 0 0 1135.2082,522.50972 148.40051,64.736565 0 0 0 986.80748,457.7731 Z" />
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:normal;font-family:'Delinda Agatha';-inkscape-font-specification:'Delinda Agatha';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:1.32292;-inkscape-stroke:none;stop-color:#000000"
@@ -4059,13 +4786,12 @@
     <path
        id="path7761"
        style="fill:none;stroke:#000000;stroke-width:1.32292"
-       d="M 733.08911 666.24979 A 114.96487 55.584385 0 0 0 618.12455 721.83399 A 114.96487 55.584385 0 0 0 733.08911 777.4182 A 114.96487 55.584385 0 0 0 848.05419 721.83399 A 114.96487 55.584385 0 0 0 847.19584 715.08195 L 885.55526 680.52075 L 833.01428 694.35298 A 114.96487 55.584385 0 0 0 733.08911 666.24979 z " />
+       d="m 733.08911,666.24979 a 114.96487,55.584385 0 0 0 -114.96456,55.5842 114.96487,55.584385 0 0 0 114.96456,55.58421 114.96487,55.584385 0 0 0 114.96508,-55.58421 114.96487,55.584385 0 0 0 -0.85835,-6.75204 l 38.35942,-34.5612 -52.54098,13.83223 a 114.96487,55.584385 0 0 0 -99.92517,-28.10319 z" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(0,-5.0000006e-6)"
      style="display:inline">
     <text
        xml:space="preserve"
