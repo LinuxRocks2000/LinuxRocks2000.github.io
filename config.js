@@ -259,6 +259,7 @@
    	["Young Isaac's Derivative", "derivatives.svg", "August 4, 2022", "I mean, he isn't wrong.", "Little Isaac terrorizes his class"],
    	["Percentages", "percentages.svg", "August 5, 2022", "Based loosely upon Captain America (the movie)", "Things get blown up"],
    	["Peter Piper", "peter-piper.svg", "August 15, 2022", "Peter Piper practices perfect patriotism while picking peanuts.<br><br>If any of you are Platformer fans, you'll be pleased to hear that I've started adding skins! They aren't available without a magic link, yet, but here's the LinuxRocks2000 one: <a href='https://linuxrocks2000.github.io/platformer/platformer-game/#skin=lr2k;'>[splooky scary magic link]</a>.", "Sarcastic twist on the classic nursery rhyme"],
-   	["The Argument part 1", "the-argument-part-1.svg", "August 16, 2022", "Tried some new stuff with this comic - I like the merged speech bubble design and the angle-divider view, probably gonna use more of that.<br><br>I planned out for the next couple comics so I can hopefully avoid more 10-day breaks. (I'm looking at you, Rich Burlew).", "Geoffrey and Nigel begin their argument."]
+   	["The Argument part 1", "the-argument-part-1.svg", "August 16, 2022", "Tried some new stuff with this comic - I like the merged speech bubble design and the angle-divider view, probably gonna use more of that.<br><br>I planned out for the next couple comics so I can hopefully avoid more 10-day breaks. (I'm looking at you, Rich Burlew).", "Geoffrey and Nigel begin their argument."],
+   	["The Argument part 2", "the-argument-part-2.svg", "August 17, 2022", "...", "..."]
     ]
 }
