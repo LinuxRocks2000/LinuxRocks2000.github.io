@@ -3793,7 +3793,11 @@
   </g>
 </svg>
 
-                    </div>
+                    </div><!--
+                    <div id="reactions">
+                        <span id="reaction_thumbsup" --data-reaction-type="0">👍</span>
+                        <span id="reaction_thumbsdown" --data-reaction-type="1">
+                    </div>-->
                     <!-- broken:<object id="comic" type="image/svg+xml" width=70% data='https://linuxrocks2000.github.io/webcomic/katherine_babysitting_2.svg'>Sorry, your browser could not load the comic. Please reload, or try again on a different browser.</object>-->
                     <script type="text/javascript">
                         var thedaysday=new Date();
@@ -3831,9 +3835,9 @@
                     <div id="comment-post-stuff">
                         Post a comment:
                         <br>
-                        Username: <input type="text" id="username"/>
+                        Username (always anonymous!): <input type="text" id="username"/>
                         <br>
-                        Body: <input type="text" id="body"/>
+                        Content: <div id="body" contenteditable="true"></div>
                         <br>
                         <button id="submit" onclick="post()">Post</button>
                     </div>
@@ -3868,9 +3872,13 @@
 Parse.serverURL = "https://parseapi.back4app.com/";
 const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
+if (localStorage.username){
+	usernamefield.value = localStorage.username;
+}
 var bodyfield=document.getElementById("body");
 function post(){
-    _post(usernamefield.value,bodyfield.value,8);
+    _post(usernamefield.value,bodyfield.innerText,8);
+    localStorage.username = usernamefield.value;
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();

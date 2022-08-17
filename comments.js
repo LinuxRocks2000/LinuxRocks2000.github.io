@@ -2,9 +2,13 @@ Parse.initialize("9xjMXioZPbkyAxbJWSG4VpFN2orZ1taMj0kYKVUc", "1OpAAKiJumZGibsjQ5
 Parse.serverURL = "https://parseapi.back4app.com/";
 const Comment = Parse.Object.extend('Comment');
 var usernamefield=document.getElementById("username");
+if (localStorage.username){{
+	usernamefield.value = localStorage.username;
+}}
 var bodyfield=document.getElementById("body");
 function post(){{
-    _post(usernamefield.value,bodyfield.value,{comicnum});
+    _post(usernamefield.value,bodyfield.innerText,{comicnum});
+    localStorage.username = usernamefield.value;
 }}
 function _post(user,body,cmnum){{
     var myNewObject = new Comment();

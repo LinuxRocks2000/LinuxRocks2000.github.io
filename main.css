@@ -133,3 +133,11 @@ svg{
     width:100%;
     height:auto;
 }
+
+#body{
+	min-width: 100px;
+	min-height: 25px;
+	display: inline-block;
+	border: 1px solid black;
+	text-align: left;
+}
