@@ -7348,7 +7348,7 @@ function _post(user,body,cmnum){
         },
         (error) => {
         if (typeof document !== 'undefined') document.write(`Error while creating Comment: ${JSON.stringify(error)}`);
-        console.error('Error while creating Comment: ', error);
+      		console.error('Error while creating Comment: ', error);
         }
     );
 }

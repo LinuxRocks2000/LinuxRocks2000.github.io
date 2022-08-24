@@ -8,6 +8,9 @@
    viewBox="0 0 1181.6705 2036.8356"
    height="7698.2759"
    width="4466.1562"
+   inkscape:export-filename="the-argument-part-2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,8 +30,8 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="4704.7322"
-     inkscape:cx="-658.83144"
+     inkscape:cy="4704.7323"
+     inkscape:cx="-1858.2425"
      inkscape:zoom="0.059195717"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -6552,6 +6555,18 @@
            x="694.98492"
            y="405.92834" /></flowRegion><flowPara
          id="flowPara861" /></flowRoot>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
+       id="text6232"
+       style="font-size:85.3334px;line-height:normal;font-family:'Delinda Agatha';-inkscape-font-specification:'Delinda Agatha';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect6234);display:inline;fill:#000000;stroke-width:5.00001;-inkscape-stroke:none;stop-color:#000000" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292"
+       id="rect1995"
+       width="1799.2906"
+       height="2572.8521"
+       x="-322.09317"
+       y="-358.91531" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect2220"
@@ -6626,11 +6641,6 @@
        cx="228.33261"
        id="ellipse1197"
        style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458334,0,0,0.26458334,0,5.0000006e-6)"
-       id="text6232"
-       style="font-size:85.3334px;line-height:normal;font-family:'Delinda Agatha';-inkscape-font-specification:'Delinda Agatha';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect6234);display:inline;fill:#000000;stroke-width:5.00001;-inkscape-stroke:none;stop-color:#000000" />
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:normal;font-family:'Delinda Agatha';-inkscape-font-specification:'Delinda Agatha';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:1.32292;-inkscape-stroke:none;stop-color:#000000"
