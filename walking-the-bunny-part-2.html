@@ -3897,6 +3897,7 @@ var bodyfield=document.getElementById("body");
 function post(){
     _post(usernamefield.value,bodyfield.innerText,26);
     localStorage.username = usernamefield.value;
+    bodyfield.innerText = "";
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();

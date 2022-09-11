@@ -30,6 +30,9 @@
    viewBox="0 0 1183.2717 910.62056"
    height="3441.7153"
    width="4472.208"
+   inkscape:export-filename="religious-nihilism.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +53,7 @@
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
      inkscape:cy="1777.1591"
-     inkscape:cx="2439.7816"
+     inkscape:cx="2217.9833"
      inkscape:zoom="0.18034401"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -6758,6 +6761,13 @@
      id="layer3"
      inkscape:label="background"
      transform="translate(0,94.568722)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292"
+       id="rect950"
+       width="1417.0673"
+       height="1040.6177"
+       x="-129.81573"
+       y="-149.29283" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot855"
@@ -7356,6 +7366,7 @@ var bodyfield=document.getElementById("body");
 function post(){
     _post(usernamefield.value,bodyfield.innerText,264);
     localStorage.username = usernamefield.value;
+    bodyfield.innerText = "";
 }
 function _post(user,body,cmnum){
     var myNewObject = new Comment();

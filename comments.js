@@ -9,6 +9,7 @@ var bodyfield=document.getElementById("body");
 function post(){{
     _post(usernamefield.value,bodyfield.innerText,{comicnum});
     localStorage.username = usernamefield.value;
+    bodyfield.innerText = "";
 }}
 function _post(user,body,cmnum){{
     var myNewObject = new Comment();
