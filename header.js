@@ -19,6 +19,7 @@ header_div_bottom.innerHTML=`
         <a href="/blog/" class="header-links">Blog</a>
         <a href="/platformer/platformer-game" class="header-links">Platformer</a>
         <a href="/not-art-gallery" class="header-links">Not Art Gallery (with Grant Rajesh)</a>
+        <a href="https://swaous.asuscomm.com/" class="header-links">Swaous.Asuscomm.Com (My other site)</a>
     </div>
 </div>
 `;
