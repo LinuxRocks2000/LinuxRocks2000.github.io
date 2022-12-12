@@ -7089,7 +7089,7 @@
                             }
                             else if (evt.key == "ArrowRight"){
                                 if (cap != "top"){
-                                    window.location.href = "none";
+                                    window.location.href = "call-the-sysadmin";
                                 }
                             }
                         });
@@ -7101,8 +7101,8 @@
                             <a class="navbutton" href="the-argument-part-3">&lt;</a>
                         </div>
                         <div id="frontrow">
-                            <a class="navbutton" href="none">&gt;</a>
-                            <a class="navbutton" href="the-argument-part-4">&gt;|</a>
+                            <a class="navbutton" href="call-the-sysadmin">&gt;</a>
+                            <a class="navbutton" href="call-the-sysadmin">&gt;|</a>
                         </div>
                     </div>
                     <h1 id="comments-text">Comments</h1>
@@ -7123,7 +7123,7 @@
             </div>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script type="text/javascript">
-                var cap="top";
+                var cap="none";
                 $.getJSON("config.js",function(data){
                     var thedaysday=new Date();
                     var parray=["January","February","March","April","May","June","July","August","September","October","November","December"]

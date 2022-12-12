@@ -263,6 +263,7 @@
    	["The Argument part 2", "the-argument-part-2.svg", "August 17, 2022", "...", "..."],
    	["Religious Nihilism", "religious-nihilism.svg", "September 9, 2022", "Well it's been a while. Sorry! I came down with covid-19 and once I was healthy it took a while to muster the motivation to post here.", "Religious Nihilism."],
    	["The Argument part 3", "agent_orange.svg", "September 20, 2022", "Eh, I've done worse than 11 days. If any of you still care, I'm definitely not going to be updating next week so I'll try to muster the resolve to post a couple more times this week.", "Agent Orange introduces himself."],
-   	["The argument part 4", "the-argument-part-4.svg", "October 7, 2022", "I guess I'd better start working on a halloween animation, huh?", "Agent Orange further explains."]
+   	["The argument part 4", "the-argument-part-4.svg", "October 7, 2022", "I guess I'd better start working on a halloween animation, huh?", "Agent Orange further explains."],
+   	["Call the Sysadmin", "call_the_sysadmin.svg", "December 12, 2022", "He doesn't get the difference between 'oh noes' and 'uh oh'.", "The sysadmin is All."]
     ]
 }
