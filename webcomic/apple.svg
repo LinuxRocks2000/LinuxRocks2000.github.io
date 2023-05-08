@@ -8,6 +8,9 @@
    viewBox="0 0 1181.5339 1222.9821"
    height="4622.2944"
    width="4465.6401"
+   inkscape:export-filename="../../../../../../apple.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +30,9 @@
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="3489.0101"
-     inkscape:cx="547.27698"
-     inkscape:zoom="0.52350092"
+     inkscape:cy="2318.7421"
+     inkscape:cx="3101.9225"
+     inkscape:zoom="0.1136392"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -6504,6 +6507,13 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292;stop-color:#000000"
+       id="rect1112"
+       width="1931.568"
+       height="1944.4917"
+       x="-360.51886"
+       y="-180.15938" />
     <path
        id="path6830"
        style="fill:#ffffff;stroke:#000000;stroke-width:1.32292;stop-color:#000000"
